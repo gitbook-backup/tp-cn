@@ -99,6 +99,7 @@
 
 ## 联系我们 <a id="contact-us"></a>
 
-* [联系方式](contact-us/contract-methods.md)
+* [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
+* [为什么转账一直在打包？](contact-us/wei-shen-me-zhuan-zhang-yi-zhi-zai-da-bao.md)
 
