@@ -98,7 +98,7 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 
 注意：如需调整矿工费，可点击【矿工费】自行调整Gas Price和Gas Limit。
 
-![](.gitbook/assets/br11.jpg)
+![](.gitbook/assets/br013.jpg)
 
 
 
