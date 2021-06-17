@@ -6,7 +6,7 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 
 **关于Polygon**
 
-目前，TokenPocket已经支持Polygon（Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网。Polygon提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如zkrollup，op-rollup和侧链。
+目前，TokenPocket已经支持Polygon（Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网。Polygon提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如rollup和侧链。
 
 \*\*\*\*
 
@@ -26,7 +26,7 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 
 ![](.gitbook/assets/matic3.png)
 
-4、按照顺序验证助记词，然后点击【确认】，至此，你已经成功添加Polygon（Matica）钱包。
+4、按照顺序验证助记词，然后点击【确认】，至此，你已经成功添加Polygon（Matic）钱包。
 
 ![](.gitbook/assets/matic4.png)
 
@@ -35,7 +35,7 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 **如何在TokenPocket上使用Polygon Bridge？**
 
 **关于Polygon Bridge**  
-如果要将资金从以太坊转到Polygon，必须经过所谓的“桥“，而“桥“通过锁定和铸造机制来工作。在Polygon上，用户可以选择使用两个桥：**Plasma Bridge**和**PoS Bridge**。Plasma Bridge从以太坊主链继承安全性，但是赎回过程需要7天才能完成。PoS桥由同一组验证者和质押的MATIC来保护链本身的安全，赎回时间大约为三个小时。
+如果要将资金从以太坊转到Polygon，必须经过所谓的“桥“，而“桥“通过锁定和铸造机制来工作。在Polygon上，用户可以选择使用两个桥：**Plasma Bridge**和**PoS Bridge**。Plasma Bridge从以太坊主链继承安全性，但是赎回过程需要7天。PoS桥由同一组验证者和质押的MATIC来保护链本身的安全，因此赎回时间较短，约为三个小时。
 
 以下以PoS Bridge为例，演示如何将资产从以太坊跨链到Polygon（Matic）。
 
