@@ -4,9 +4,9 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 
 # 如何在TokenPocket玩转Polygon（Matic）?
 
-**关于Polygon**
+**关于Polygon（Matic）**
 
-目前，TokenPocket已经支持Polygon（Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网。Polygon提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如rollup和侧链。
+目前，TokenPocket已经支持Polygon（Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网，它提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如Layer 2 的扩容方案Rollups和侧链等。
 
 \*\*\*\*
 
