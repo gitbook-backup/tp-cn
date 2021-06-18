@@ -74,7 +74,6 @@
 * [如何在DEX上交易——JustSwap（TRON）](dex-justswap.md)
 * [如何在DEX上交易——PuddingSwap（HSC）](dex-puddingswap.md)
 * [如何在DEX上交易——SushiSwap（OKEX）](dex-sushi.md)
-* [如何将以太链的MATIC跨链到Polygon？](ru-he-zai-polygon-shang-gou-mai-matic.md)
 
 ## 常见问题 <a id="fqa"></a>
 
