@@ -22,12 +22,7 @@
 具体操作：
 
 * 导入冷钱包：离线状态下，选择\[导入钱包\] &gt; \[冷钱包\] 进行导入。
-
-![\_\_\_\_\_2.png](https://help.mytokenpocket.vip/hc/article_attachments/360017954032/_____2.png)
-
 * 导入观察钱包：联网状态下，选择\[导入钱包\] &gt; \[观察钱包\] 进行导入。
-
-![\_\_\_\_\_\_2.png](https://help.mytokenpocket.vip/hc/article_attachments/360017838651/______2.png)
 
 使用场景：
 
