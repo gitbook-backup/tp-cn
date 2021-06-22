@@ -36,9 +36,9 @@
 **关于**[**xPollinate**](https://www.xpollinate.io/)  
 支持Polygon、BSC、xDAI三条链上的资金互转，可将**BSC支持的资产**转移到Polygon与xDAI上，目前只支持跨稳定币。
 
-\*\*\*\*
+以下为详细步骤：
 
-**如何使用Polygon Bridge \(以PoS Bridge为例\) ：**
+**如何使用Polygon Bridge将以太坊资产跨链至Polygon ?**
 
 1、在TokenPocket底部点击【发现】，然后顶部搜索【Polygon Bridge】**；**
 
@@ -102,7 +102,7 @@
 
 
 
-**如何使用xPollinate？**  
+**如何使用xPollinate将BSC的资产跨链至Polygon？**  
 1、在TokenPocket底部点击【发现】，然后顶部搜索【xPollinate】，并点击进入页面**；**
 
 ![](.gitbook/assets/1%20%286%29.jpg)
