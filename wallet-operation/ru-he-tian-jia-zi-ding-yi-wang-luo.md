@@ -1,8 +1,4 @@
----
-description: 本教程以添加xDAI Chain为例演示如何添加自定义网络。
----
-
-# 如何添加自定义网络？
+# 如何通过自定义网络添加xDAI Chain？
 
 **关于自定义网络：**
 
@@ -43,5 +39,5 @@ description: 本教程以添加xDAI Chain为例演示如何添加自定义网络
 
 [3. 自定义网络推广链接](https://tphelp.gitbook.io/cn/wallet-operation/customize-network-add-link)
 
-4. 如何删除自定义网络？
+[4. 如何删除自定义网络？](https://tphelp.gitbook.io/cn/wallet-operation/ru-he-shan-chu-zi-ding-yi-wang-luo)
 
