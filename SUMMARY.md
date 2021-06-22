@@ -69,7 +69,7 @@
 * [什么是DeFi？](about-defi-2.md)
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
-* [如何在TokenPocket玩转Polygon（Matic）?](transfer-assets-from-ethereum-to-polygon.md)
+* [如何在TokenPocket玩转Polygon（Matic）?](transfer-assets-from-ethereum-and-bsc-to-polygon.md)
 * [如何在DEX交易—— 跨链聚合闪兑平台Xswap2.0](ru-he-zai-dex-jiao-yi-kua-lian-ju-he-shan-dui-ping-tai-xswap2.0.md)
 * [如何在DEX交易——Uniswap（以太坊）](dex-uniswap.md)
 * [如何在DEX交易——PancakeSwap（BSC）](dex-pancakeswap.md)
