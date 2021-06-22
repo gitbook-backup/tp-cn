@@ -133,6 +133,8 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 5. 在【Commit changes】处填写代币信息和其他描述，然后点击【Commit changes】；‌
 
+**注意：**请在内容描述中添加 100TPT 的交易ID链接，否则无法通过审核。
+
 ![](../.gitbook/assets/github5.jpg)
 
 6. 页面将自动返回至上一级，然后点击【Pull requests】‌；
