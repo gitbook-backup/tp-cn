@@ -1,12 +1,8 @@
----
-description: 本教程主要演示如何将以太坊的资产转账至Polygon（Matic)
----
-
 # 如何在TokenPocket玩转Polygon（Matic）?
 
 **关于**[**Polygon（Matic）**](https://polygon.technology/)\*\*\*\*
 
-目前，TokenPocket已经支持Polygon（Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网，它提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如Layer 2 的扩容方案Rollups和侧链等。
+目前，TokenPocket已经支持Polygon（原Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网，它提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如Layer 2 的扩容方案Rollups和侧链等。
 
 \*\*\*\*
 
@@ -32,15 +28,19 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 
 \*\*\*\*
 
-**如何在TokenPocket上使用Polygon Bridge？**
+**如何在TokenPocket上使用Polygon Bridge和xPollinate？**
 
 **关于**[**Polygon Bridge**](https://wallet.matic.network/bridge/)  
-****如果要将资金从以太坊转到Polygon，必须经过所谓的“桥“，而“桥“通过锁定和铸造机制来工作。在Polygon上，用户可以选择使用两个桥：**Plasma Bridge**和**PoS Bridge**。Plasma Bridge从以太坊主链继承安全性，但是赎回过程需要7天。PoS桥由同一组验证者和质押的MATIC来保护链本身的安全，因此赎回时间较短，约为三个小时。
+****如果要将资金从**以太坊**转到Polygon，必须经过所谓的“桥“，而“桥“通过锁定和铸造机制来工作。在Polygon上，用户可以选择使用两个桥：**Plasma Bridge**和**PoS Bridge**。Plasma Bridge从以太坊主链继承安全性，但是赎回过程需要7天。PoS桥由同一组验证者和质押的MATIC来保护链本身的安全，因此赎回时间较短，约为三个小时。
 
-以下以PoS Bridge为例，演示如何将资产从以太坊跨链到Polygon（Matic）。
+**关于**[**xPollinate**](https://www.xpollinate.io/)  
+支持Polygon、BSC、xDAI三条链上的资金互转，可将**BSC支持的资产**转移到Polygon与xDAI上，目前只支持跨稳定币。
 
-  
-****1、在TokenPocket底部点击【发现】，然后顶部搜索【Polygon Bridge】**；**
+\*\*\*\*
+
+**如何使用Polygon Bridge \(以PoS Bridge为例\) ：**
+
+1、在TokenPocket底部点击【发现】，然后顶部搜索【Polygon Bridge】**；**
 
 ![](.gitbook/assets/bridge1.jpg)
 
@@ -101,6 +101,41 @@ description: 本教程主要演示如何将以太坊的资产转账至Polygon（
 ![](.gitbook/assets/br013.jpg)
 
 
+
+**如何使用xPollinate？**  
+1、在TokenPocket底部点击【发现】，然后顶部搜索【xPollinate】，并点击进入页面**；**
+
+![](.gitbook/assets/1%20%286%29.jpg)
+
+2、点击【Connect】连接钱包地址；（此处以BSC上的资产跨链到Matic为例）
+
+![](.gitbook/assets/op2.jpg)
+
+3、选择所需跨链的网络为BSC，即从BSC链的资产转账至Matic；
+
+![](.gitbook/assets/op02.jpg)
+
+4、选择需要跨链的代币；（目前仅支持稳定币，此处以USDT为例）
+
+![](.gitbook/assets/op3.jpg)
+
+5、确认授权的钱包地址无误后，点击【确认】；
+
+![](.gitbook/assets/op4.jpg)
+
+\*\*\*\*
+
+5、输入发送代币的数量后，接收数量将自动填充，确认下方接收地址无误后，点击【Swap】进行兑换；
+
+![](.gitbook/assets/op5.jpg)
+
+6、确认交易信息无误后，点击【确认支付】，然后输入钱包密码即可进行转账。转账成功后，可在Matic链的钱包中进行查看资产。
+
+提示：点击【矿工费】可以调整Gas费以防止链上拥堵情况。
+
+![](.gitbook/assets/op6.jpg)
+
+\*\*\*\*
 
 **相关文章：**  
 [如何将其他链的钱包同步至Polygon（Matic）?](https://tphelp.gitbook.io/cn/wallet-management/wallet-sync)
