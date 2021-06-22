@@ -37,6 +37,7 @@
 * [关于自定义代币](wallet-operation/custom-token.md)
 * [如何自主更新代币图标？](wallet-operation/submit-token.md)
 * [自定义网络推广链接](wallet-operation/customize-network-add-link.md)
+* [如何添加自定义网络？](wallet-operation/ru-he-tian-jia-zi-ding-yi-wang-luo.md)
 
 ## 钱包管理 <a id="wallet-management"></a>
 
