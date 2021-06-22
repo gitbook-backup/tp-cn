@@ -32,6 +32,9 @@
 
 ![](../.gitbook/assets/xdai5.jpg)
 
+**注意：**TokenPocket 无法验证自定义网络的安全性，请仅添加可信任的网络。  
+
+
 **相关链接：**  
 [1. 如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)
 
