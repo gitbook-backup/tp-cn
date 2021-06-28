@@ -6,20 +6,20 @@
 **一、如何使用兑换功能？**  
 1、打开TokenPocket，选择或创建Heco钱包，点击底部【发现】，然后在顶部搜索Pippi Shrimp Swap进入界面。
 
-![](.gitbook/assets/1%20%286%29.png)
+![](../.gitbook/assets/1%20%286%29.png)
 
 2、打开界面后，点击右上角【解锁钱包】，在列表中选择【TokenPocket】钱包，进行关联，再次点击【我的钱包】可以查看你的pipi余额。
 
-![](.gitbook/assets/2%20%281%29.png)
+![](../.gitbook/assets/2%20%281%29.png)
 
 3、点击左上角列表，选择【交易】，点击顶部【兑换】，输入需要兑换的代币和数量后，最后点击【Swap】进行兑换。
 
-![](.gitbook/assets/9%20%281%29.png)
+![](../.gitbook/assets/9%20%281%29.png)
 
 **二、如何添加流动性？**  
 1、点击 顶部【流动池】-【添加流动性】，进入页面后选择添加流动性的代币和数量（此处以添加TPT和HUSD为例），然后点击【Approve HUSD】进行授权，然后再点击【Supply】完成质押，添加流动性后获得TPT-HUSD LP。
 
-![](.gitbook/assets/3%20%283%29.png)
+![](../.gitbook/assets/3%20%283%29.png)
 
 **点击查看 Pippi Shrimp** [**FAQ**](https://medium.com/pippi-shrimp-swap/faqs-7c23c1699bb7)
 
@@ -33,13 +33,13 @@ MDEX致力于打造集DEX、IMO、DAO为一体的DeFi平台，为更多优质资
 **一、如何使用【兑换】功能？**  
 1、打开TokenPocket，创建或选择钱包，选择或创建Heco钱包，点击底部【发现】，然后在顶部搜索MDEX进入界面。
 
-![](.gitbook/assets/5%20%283%29.png)
+![](../.gitbook/assets/5%20%283%29.png)
 
 2、进入页面后，点击底部【兑换】，选择需要兑换的代币并输入数量，需要兑换的数量会被自动计算并显示，然后点击【确认兑换】进行代币兑换。
 
 在【兑换】页面，可以对资金池进行各种操作。点击【资金池】进入，在这里可以查看【您的流动资金】，或者【创建流动池】，以及给对应的流动池里【添加流动性】。
 
-![](.gitbook/assets/6%20%282%29.png)
+![](../.gitbook/assets/6%20%282%29.png)
 
 {% hint style="info" %}
 本教程仅为DApp在钱包端的操作指南，不代表TokenPocket的投资建议。投资有风险，您须充分认识风险，并自行作出投资决策。
