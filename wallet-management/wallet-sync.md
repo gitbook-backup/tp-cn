@@ -14,7 +14,9 @@
 
 ![](../.gitbook/assets/tong-bu-3.jpg)
 
+**注意：**如您的钱包为HD钱包，在【资产】页面点击【详情】进入钱包同步页面。
 
+![](../.gitbook/assets/tong-bu-.jpg)
 
 
 
