@@ -74,7 +74,7 @@
   * [如何在TokenPocket玩转Polygon（Matic）?](ru-he-zai-dex-shang-jiao-yi/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
   * [Uniswap（以太坊）教程](ru-he-zai-dex-shang-jiao-yi/dex-uniswap.md)
   * [PancakeSwap（BSC）教程](ru-he-zai-dex-shang-jiao-yi/dex-pancakeswap.md)
-  * [Pippi Shrimp Swap和Mdex（HECO）教程](ru-he-zai-dex-shang-jiao-yi/dex-pippi-shrimp-swap-and-mdex.md)
+  * [Pippi Shrimp Swap和Mdex（HECO）使用教程](ru-he-zai-dex-shang-jiao-yi/dex-pippi-shrimp-swap-and-mdex.md)
   * [JustSwap（TRON）使用教程](ru-he-zai-dex-shang-jiao-yi/dex-justswap.md)
   * [PuddingSwap（HSC）使用教程](ru-he-zai-dex-shang-jiao-yi/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](ru-he-zai-dex-shang-jiao-yi/dex-sushi.md)
