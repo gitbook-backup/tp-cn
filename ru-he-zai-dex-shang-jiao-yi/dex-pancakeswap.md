@@ -1,4 +1,4 @@
-# PancakeSwap（BSC）教程
+# PancakeSwap（BSC）使用教程
 
 **关于**[**PancakeSwap**](https://pancakeswap.finance/)  
 PancakeSwap是一个自动做市商（“AMM”），目前近允许在**币安智能链**上交换两个代币。它快速、便宜，并且允许任何人参与。
