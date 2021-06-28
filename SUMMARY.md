@@ -75,7 +75,7 @@
   * [Uniswap（以太坊）教程](ru-he-zai-dex-shang-jiao-yi/dex-uniswap.md)
   * [PancakeSwap（BSC）教程](ru-he-zai-dex-shang-jiao-yi/dex-pancakeswap.md)
   * [Pippi Shrimp Swap和Mdex（HECO）教程](ru-he-zai-dex-shang-jiao-yi/dex-pippi-shrimp-swap-and-mdex.md)
-  * [如何在DEX上交易——JustSwap（TRON）](ru-he-zai-dex-shang-jiao-yi/dex-justswap.md)
+  * [JustSwap（TRON）教程](ru-he-zai-dex-shang-jiao-yi/dex-justswap.md)
   * [如何在DEX上交易——PuddingSwap（HSC）](ru-he-zai-dex-shang-jiao-yi/dex-puddingswap.md)
   * [如何在DEX上交易——SushiSwap（OKEX）](ru-he-zai-dex-shang-jiao-yi/dex-sushi.md)
 

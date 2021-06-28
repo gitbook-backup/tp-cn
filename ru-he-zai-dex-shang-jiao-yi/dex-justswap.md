@@ -1,4 +1,4 @@
-# 如何在DEX上交易——JustSwap（TRON）
+# JustSwap（TRON）教程
 
 **关于**[**JustSwap**](https://justswap.io/#/home)  
 JustSwap是基于TRON开发的第一个去中心化Token交换协议，具有【兑换】、【资金池】等功能。
