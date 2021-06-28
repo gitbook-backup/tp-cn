@@ -2,6 +2,10 @@
 
 * [帮助文档](README.md)
 
+## 基础知识
+
+* [什么是区块链？](ji-chu-zhi-shi/shen-me-shi-qu-kuai-lian.md)
+
 ## 钱包常见问题 <a id="faq"></a>
 
 * [波卡钱包](faq/polkadot/README.md)
