@@ -1,4 +1,4 @@
-# PuddingSwap（HSC）教程
+# PuddingSwap（HSC）使用教程
 
 **关于**[**PuddingSwap**](https://exchange.puddingswap.finance/#/swap)  
 ****PuddingSwap是基于虎符智能链（HSC）的去中心化交易平台，它有【挖矿】、【质押】、【交易】等功能。
