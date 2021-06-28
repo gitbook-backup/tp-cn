@@ -72,7 +72,7 @@
 * [如何在DEX上交易？](ru-he-zai-dex-shang-jiao-yi/README.md)
   * [跨链聚合闪兑平台Xswap2.0 教程](ru-he-zai-dex-shang-jiao-yi/ru-he-zai-dex-jiao-yi-kua-lian-ju-he-shan-dui-ping-tai-xswap2.0.md)
   * [如何在TokenPocket玩转Polygon（Matic）?](ru-he-zai-dex-shang-jiao-yi/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
-  * [如何在DEX交易——Uniswap（以太坊）](ru-he-zai-dex-shang-jiao-yi/dex-uniswap.md)
+  * [使用Uniswap（以太坊）教程](ru-he-zai-dex-shang-jiao-yi/dex-uniswap.md)
   * [如何在DEX交易——PancakeSwap（BSC）](ru-he-zai-dex-shang-jiao-yi/dex-pancakeswap.md)
   * [如何在DEX上交易——Pippi Shrimp Swap和Mdex（HECO）](ru-he-zai-dex-shang-jiao-yi/dex-pippi-shrimp-swap-and-mdex.md)
   * [如何在DEX上交易——JustSwap（TRON）](ru-he-zai-dex-shang-jiao-yi/dex-justswap.md)
