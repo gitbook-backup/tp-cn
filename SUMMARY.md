@@ -6,6 +6,7 @@
 
 * [什么是区块链？](ji-chu-zhi-shi/shen-me-shi-qu-kuai-lian.md)
 * [什么是去中心化钱包？](ji-chu-zhi-shi/shen-me-shi-qu-zhong-xin-hua-qian-bao.md)
+* [什么是私钥、助记词和密码？](ji-chu-zhi-shi/shen-me-shi-si-yao-zhu-ji-ci-he-mi-ma.md)
 
 ## 钱包常见问题 <a id="faq"></a>
 
