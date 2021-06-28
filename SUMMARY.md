@@ -5,6 +5,7 @@
 ## 基础知识
 
 * [什么是区块链？](ji-chu-zhi-shi/shen-me-shi-qu-kuai-lian.md)
+* [什么是去中心化钱包？](ji-chu-zhi-shi/shen-me-shi-qu-zhong-xin-hua-qian-bao.md)
 
 ## 钱包常见问题 <a id="faq"></a>
 
