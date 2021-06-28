@@ -1,4 +1,4 @@
-# 如何在DEX上交易——Pippi Shrimp Swap和Mdex（HECO）
+# Pippi Shrimp Swap和Mdex（HECO）教程
 
 **关于**[**Pippi Shrimp Swap**](https://pippi.finance/)  
 ****Pippi Shrimp Swap（皮皮虾）是一个基于火币生态链（Heco）的去中心化交易平台，它拥有许多功能模块，例如【兑换】、添加【流动性】和【农场】质押等，具有快速，便宜和极易上手的特点。
