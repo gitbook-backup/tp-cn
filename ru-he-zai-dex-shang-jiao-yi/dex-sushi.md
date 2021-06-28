@@ -1,4 +1,4 @@
-# 如何在DEX上交易——SushiSwap（OKEX）
+# SushiSwap（OKEX）使用教程
 
 **关于**[**SushiSwap**](https://sushi.com/)  
 ****Sushi是基于OKExChain的去中心化交易平台，具有【兑换】和【添加流动性】等功能。
