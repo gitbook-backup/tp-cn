@@ -116,7 +116,7 @@
 ## 安全知识 <a id="secirity-knowledge"></a>
 
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
-  * [假空投诈骗](secirity-knowledge/fraud-cases/untitled.md)
+  * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
   * [假App诈骗](secirity-knowledge/fraud-cases/jia-app-zha-pian.md)
   * [钓鱼网站诈骗](secirity-knowledge/fraud-cases/untitled-1.md)
   * [假代币诈骗](secirity-knowledge/fraud-cases/jia-dai-bi-zha-pian.md)
