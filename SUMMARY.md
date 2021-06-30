@@ -9,6 +9,17 @@
 * [什么是私钥、助记词和密码？](ji-chu-zhi-shi/shen-me-shi-si-yao-zhu-ji-ci-he-mi-ma.md)
 * [什么是矿工费？](ji-chu-zhi-shi/shen-me-shi-kuang-gong-fei.md)
 
+## 安全知识 <a id="secirity-knowledge"></a>
+
+* [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
+  * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
+  * [假App诈骗](secirity-knowledge/fraud-cases/fake-app-fraud.md)
+  * [钓鱼网站诈骗](secirity-knowledge/fraud-cases/phishing-website-fraud.md)
+  * [假代币诈骗](secirity-knowledge/fraud-cases/fake-tokens-fraud.md)
+  * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
+  * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
+* [安全措施](secirity-knowledge/protective-measures.md)
+
 ## 钱包常见问题 <a id="faq"></a>
 
 * [波卡钱包](faq/polkadot/README.md)
@@ -112,15 +123,4 @@
 
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
-
-## 安全知识 <a id="secirity-knowledge"></a>
-
-* [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
-  * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
-  * [假App诈骗](secirity-knowledge/fraud-cases/fake-app-fraud.md)
-  * [钓鱼网站诈骗](secirity-knowledge/fraud-cases/phishing-website-fraud.md)
-  * [假代币诈骗](secirity-knowledge/fraud-cases/fake-tokens-fraud.md)
-  * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
-  * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
-* [安全措施](secirity-knowledge/protective-measures.md)
 
