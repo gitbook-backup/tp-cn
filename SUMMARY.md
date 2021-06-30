@@ -119,5 +119,6 @@
   * [假空投诈骗](secirity-knowledge/fraud-cases/untitled.md)
   * [假App诈骗](secirity-knowledge/fraud-cases/jia-app-zha-pian.md)
   * [钓鱼网站诈骗](secirity-knowledge/fraud-cases/untitled-1.md)
+  * [假代币诈骗](secirity-knowledge/fraud-cases/jia-dai-bi-zha-pian.md)
 * [安全措施](secirity-knowledge/an-quan-cuo-shi.md)
 
