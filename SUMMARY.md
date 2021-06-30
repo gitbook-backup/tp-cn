@@ -115,5 +115,6 @@
 
 ## 安全知识 <a id="secirity-knowledge"></a>
 
-* [Untitled](secirity-knowledge/untitled.md)
+* [常见案例](secirity-knowledge/untitled.md)
+* [安全措施](secirity-knowledge/an-quan-cuo-shi.md)
 
