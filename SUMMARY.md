@@ -120,7 +120,7 @@
   * [假App诈骗](secirity-knowledge/fraud-cases/fake-app-fraud.md)
   * [钓鱼网站诈骗](secirity-knowledge/fraud-cases/phishing-website-fraud.md)
   * [假代币诈骗](secirity-knowledge/fraud-cases/fake-tokens-fraud.md)
-  * [假客服诈骗](secirity-knowledge/fraud-cases/jia-ke-fu-zha-pian.md)
+  * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/untitled-2.md)
 * [安全措施](secirity-knowledge/an-quan-cuo-shi.md)
 
