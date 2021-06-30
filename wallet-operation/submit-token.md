@@ -84,7 +84,7 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 \*\*\*\*
 
 **收费流程：**   
-提交代币图标需收取**1000 TPT**费用，请在资料准备完成后，按照以下步骤转账（此处以币安智能链钱包为例）：‌
+提交一个代币图标需收取**1000 TPT** 费用，请在资料准备完成后，按照以下步骤转账（此处以币安智能链钱包为例）：‌
 
 1. 打开TokenPocket App，点击底部【资产】，选择TPT，进入页面后点击【转账】；  
 ****![](../.gitbook/assets/wechatimg1.png)![](../.gitbook/assets/wechatimg2.png)‌
@@ -93,7 +93,11 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 **注意：**收款地址为 **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** （可底下扫码获取）。仅支持收取BSC、HECO以及ETH链上的TPT，请转账前再三确认！ 
 
-![](../.gitbook/assets/code.jpeg)  
+  
+
+![](../.gitbook/assets/code.jpeg)
+
+![](../.gitbook/assets/zhuan-zhang-.jpg)
 
 3. 完成1000 TPT的转账后，返回【资产】页面，选择BNB，然后点击【直接转账】进入转账页面；‌
 
