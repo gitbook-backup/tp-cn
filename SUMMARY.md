@@ -44,7 +44,7 @@
 * [关于自定义代币](wallet-operation/custom-token.md)
 * [如何自主更新代币图标？](wallet-operation/submit-token.md)
 * [自定义网络推广链接](wallet-operation/customize-network-add-link.md)
-* [如何通过自定义网络添加xDAI Chain？](wallet-operation/add-custom-network-xdai-chain.md)
+* [如何添加自定义网络？](wallet-operation/add-custom-network-xdai-chain.md)
 * [如何删除自定义网络？](wallet-operation/delete-custom-network.md)
 
 ## 钱包管理 <a id="wallet-management"></a>
