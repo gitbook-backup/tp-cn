@@ -115,6 +115,7 @@
 
 ## 安全知识 <a id="secirity-knowledge"></a>
 
-* [常见案例](secirity-knowledge/untitled.md)
+* [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
+  * [Untitled](secirity-knowledge/fraud-cases/untitled.md)
 * [安全措施](secirity-knowledge/an-quan-cuo-shi.md)
 
