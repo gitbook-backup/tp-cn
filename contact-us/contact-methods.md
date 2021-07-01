@@ -6,10 +6,10 @@
 * 商务邮箱：bd@tokenpocket.pro
 * 提交DApp：dapp@tokenpocket.pro
 * 微信公众号：TokenPocket钱包
-* 客服微信：TP-robot
+* 客服QQ群：589590391
 * 在线客服：[点击进入](https://www.bangwo8.com/osp2016/im/h5/index.php?vendorID=764445)
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618296085536.jpeg)
+![](../.gitbook/assets/qq-qun-.jpg)
 
 
 
