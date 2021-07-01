@@ -6,8 +6,8 @@
 
 * [什么是区块链？](ji-chu-zhi-shi/what-is-blockchain.md)
 * [什么是去中心化钱包？](ji-chu-zhi-shi/what-is-a-decentralized-wallet.md)
-* [什么是私钥、助记词和密码？](ji-chu-zhi-shi/shen-me-shi-si-yao-zhu-ji-ci-he-mi-ma.md)
-* [什么是矿工费？](ji-chu-zhi-shi/shen-me-shi-kuang-gong-fei.md)
+* [什么是私钥、助记词和密码？](ji-chu-zhi-shi/what-is-a-private-key-mnemonic-and-password.md)
+* [什么是矿工费？](ji-chu-zhi-shi/what-is-the-miner-fee.md)
 
 ## 安全知识 <a id="secirity-knowledge"></a>
 
