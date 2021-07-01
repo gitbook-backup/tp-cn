@@ -17,7 +17,9 @@
 
 4、依次填入【收款账号】和【转账数量】，选择矿工费，然后点击【确认】；
 
-**提示：**矿工费可选择自定义调节gas price 和gas limit。
+**注意：**1）如果是转账到中心化钱包（交易所），接收地址的代币需要附带Memo或者Tag，一定要附加Memo或者Tag。
+
+2）矿工费可选择自定义调节gas price 和gas limit。
 
 ![](../.gitbook/assets/zhuan-zhang-4.jpg)
 
@@ -37,5 +39,6 @@
 **相关文章：**  
 1）[关于不同公链的代币转账](https://tphelp.gitbook.io/cn/wallet-operation/about-public-chain-transfer)  
 2）[为什么不能直接往合约地址转账？](https://tphelp.gitbook.io/cn/wallet-operation/about-public-chain-transfer/not-transfer-to-contract)  
-3）[转账时，转错链了怎么找回资产？](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=zh#/)
+3）[转账时，转错链了怎么找回资产？](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=zh#/)  
+4）[如何添加Memo或者Tag?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-add-memo-when-transferring)
 
