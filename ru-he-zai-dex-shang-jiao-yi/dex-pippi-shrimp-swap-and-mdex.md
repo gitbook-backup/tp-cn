@@ -1,29 +1,4 @@
-# Pippi Shrimp Swap和Mdex（HECO）使用教程
-
-**关于**[**Pippi Shrimp Swap**](https://pippi.finance/)  
-****Pippi Shrimp Swap（皮皮虾）是一个基于火币生态链（Heco）的去中心化交易平台，它拥有许多功能模块，例如【兑换】、添加【流动性】和【农场】质押等，具有快速，便宜和极易上手的特点。
-
-**一、如何使用兑换功能？**  
-1、打开TokenPocket，选择或创建Heco钱包，点击底部【发现】，然后在顶部搜索Pippi Shrimp Swap进入界面。
-
-![](../.gitbook/assets/1%20%286%29.png)
-
-2、打开界面后，点击右上角【解锁钱包】，在列表中选择【TokenPocket】钱包，进行关联，再次点击【我的钱包】可以查看你的pipi余额。
-
-![](../.gitbook/assets/2%20%281%29.png)
-
-3、点击左上角列表，选择【交易】，点击顶部【兑换】，输入需要兑换的代币和数量后，最后点击【Swap】进行兑换。
-
-![](../.gitbook/assets/9%20%281%29.png)
-
-**二、如何添加流动性？**  
-1、点击 顶部【流动池】-【添加流动性】，进入页面后选择添加流动性的代币和数量（此处以添加TPT和HUSD为例），然后点击【Approve HUSD】进行授权，然后再点击【Supply】完成质押，添加流动性后获得TPT-HUSD LP。
-
-![](../.gitbook/assets/3%20%283%29.png)
-
-**点击查看 Pippi Shrimp** [**FAQ**](https://medium.com/pippi-shrimp-swap/faqs-7c23c1699bb7)
-
-
+# MDEX（HECO）使用教程
 
 **关于**[**Mdex**](https://mdex.com/#/)  
 ****MDEX是基于自动化做市机制的去中心化交易产品，旨在融合多种基础公链的差异化优势，打造高性能复合型DEX生态，以流动性挖矿与交易挖矿的“双重挖矿激励”给予参与者最大化回馈，并通过手续费回购销毁机制实现了自驱式价值捕获生态闭环。
