@@ -18,9 +18,9 @@
   * [假代币诈骗](secirity-knowledge/fraud-cases/fake-tokens-fraud.md)
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
-* [安全措施](secirity-knowledge/protective-measures.md)
-* [资产防盗](secirity-knowledge/zi-chan-fang-dao.md)
-* [资产防丢](secirity-knowledge/zi-chan-fang-diu.md)
+* [安全措施](secirity-knowledge/protective-measures/README.md)
+  * [资产防丢](secirity-knowledge/protective-measures/zi-chan-fang-diu.md)
+  * [资产防盗](secirity-knowledge/protective-measures/zi-chan-fang-dao.md)
 
 ## 钱包常见问题 <a id="faq"></a>
 
