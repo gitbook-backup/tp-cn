@@ -2,12 +2,12 @@
 
 * [帮助文档](README.md)
 
-## 基础知识
+## 基础知识 <a id="the-basics"></a>
 
-* [什么是区块链？](ji-chu-zhi-shi/what-is-blockchain.md)
-* [什么是去中心化钱包？](ji-chu-zhi-shi/what-is-a-decentralized-wallet.md)
-* [什么是私钥、助记词和密码？](ji-chu-zhi-shi/what-is-a-private-key-mnemonic-and-password.md)
-* [什么是矿工费？](ji-chu-zhi-shi/what-is-the-miner-fee.md)
+* [什么是区块链？](the-basics/what-is-blockchain.md)
+* [什么是去中心化钱包？](the-basics/what-is-a-decentralized-wallet.md)
+* [什么是私钥、助记词和密码？](the-basics/what-is-a-private-key-mnemonic-and-password.md)
+* [什么是矿工费？](the-basics/what-is-the-miner-fee.md)
 
 ## 安全知识 <a id="secirity-knowledge"></a>
 
