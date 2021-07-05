@@ -56,6 +56,8 @@ HSC：[https://github.com/TP-Lab/tokens/tree/master/hsc](https://github.com/TP-L
 
 内容： info.json文件中必须包含以下信息，请确保详细信息正确无误并遵循格式要求。合约地址应遵循checksum地址格式（请参考下面的示例）。
 
+**注意：如文件格式不正确将无法通过审核！**
+
 ```text
 {
  "name": "TokenPocket Token",
