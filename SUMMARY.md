@@ -19,8 +19,8 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
-  * [资产防丢](secirity-knowledge/protective-measures/zi-chan-fang-diu.md)
-  * [资产防盗](secirity-knowledge/protective-measures/zi-chan-fang-dao.md)
+  * [资产防丢](secirity-knowledge/protective-measures/assests-loss-prevention.md)
+  * [资产防盗](secirity-knowledge/protective-measures/assets-theft-prevention.md)
 
 ## 钱包常见问题 <a id="faq"></a>
 
