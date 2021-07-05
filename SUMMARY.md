@@ -89,7 +89,7 @@
 
 ---
 
-* [什么是DeFi？](about-defi-2.md)
+* [什么是DeFi？](what-is-defi.md)
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](ru-he-zai-dex-shang-jiao-yi/README.md)
