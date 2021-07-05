@@ -73,6 +73,7 @@
 ## 代币管理 <a id="token-management"></a>
 
 * [如何搜索和添加代币？](token-management/search-and-add-token.md)
+* [如何搜索代币？](token-management/ru-he-sou-suo-dai-bi.md)
 * [如何删除代币？](token-management/delete-token.md)
 * [如何提交代币？](token-management/ru-he-ti-jiao-dai-bi.md)
 
