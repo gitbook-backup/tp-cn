@@ -93,7 +93,7 @@
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](ru-he-zai-dex-shang-jiao-yi/README.md)
-  * [跨链聚合闪兑平台Xswap2.0 教程](ru-he-zai-dex-shang-jiao-yi/ru-he-zai-dex-jiao-yi-kua-lian-ju-he-shan-dui-ping-tai-xswap2.0.md)
+  * [跨链聚合闪兑平台Xswap2.0 教程](ru-he-zai-dex-shang-jiao-yi/xswap2.0-guide.md)
   * [如何在TokenPocket玩转Polygon（Matic）?](ru-he-zai-dex-shang-jiao-yi/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
   * [Uniswap（以太坊）使用教程](ru-he-zai-dex-shang-jiao-yi/dex-uniswap.md)
   * [PancakeSwap（BSC）使用教程](ru-he-zai-dex-shang-jiao-yi/dex-pancakeswap.md)
