@@ -104,7 +104,7 @@
 
 ## 常见问题 <a id="fqa"></a>
 
-* [我往合约转账了怎么办？](fqa/waht-should-i-do-if-transfter-to-contract-address.md)
+* [我往合约转账了怎么办？](fqa/waht-should-i-do-if-transfer-to-contract-address.md)
 * [为什么不同链之间不能转账？](fqa/transfer-from-different-chains.md)
 * [为什么从钱包提币到交易所不到账？](fqa/fail-to-receive-assets-from-wallet.md)
 * [为什么从交易所充币到钱包不到账？](fqa/fail-to-receive-assets-from-exchanges.md)
