@@ -66,7 +66,7 @@
 * [如何创建钱包？](wallet-management/create-wallet.md)
 * [如何导入钱包？](wallet-management/import-wallet.md)
 * [如何管理钱包？](wallet-management/manage-wallet.md)
-* [如何切换钱包？](wallet-management/change-wallet.md)
+* [如何切换钱包？](wallet-management/switch-wallet.md)
 * [如何同步钱包？](wallet-management/wallet-sync.md)
 * [如何一键迁移钱包至其他设备？](wallet-management/wallet-data-migration.md)
 
