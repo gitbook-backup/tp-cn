@@ -82,7 +82,7 @@
 * [如何收款？](transfer-tutorial/receive-token.md)
 * [如何转账到钱包/交易所？](transfer-tutorial/transfer-to-the-wallet-or-exchange.md)
 * [如何取消转账交易？](transfer-tutorial/cancel-transfer.md)
-* [如何加速转账交易？](transfer-tutorial/accelerate-trade.md)
+* [如何加速转账交易？](transfer-tutorial/accelerate-transfer.md)
 * [如何在发起转账时添加memo？](transfer-tutorial/add-memo.md)
 
 ## DeFi教程 <a id="about-defi"></a>
