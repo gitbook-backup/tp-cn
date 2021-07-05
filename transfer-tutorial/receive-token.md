@@ -18,5 +18,6 @@
 
 **相关文章：**  
 1）[如何添加代币](https://tphelp.gitbook.io/cn/token-management/search-and-add-token)  
-2）[关于不同公链的代币转账](https://tphelp.gitbook.io/cn/wallet-operation/about-public-chain-transfer)
+2）[关于不同公链的代币转账](https://tphelp.gitbook.io/cn/wallet-operation/about-public-chain-transfer)  
+3）[为什么从交易所充币到钱包不到账？](https://tphelp.gitbook.io/cn/fqa/fail-to-receive-assets-from-exchanges)
 
