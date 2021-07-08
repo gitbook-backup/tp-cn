@@ -114,10 +114,10 @@
 
 ## 产品公告 <a id="announcement"></a>
 
-* [版本更新日志（31/03/2021）：多项优化内容，只为更好体验](announcement/ban-ben-geng-xin-ri-zhi-31032021-duo-xiang-you-hua-nei-rong-zhi-wei-geng-hao-ti-yan.md)
 * [APP更新](announcement/update/README.md)
-  * [版本更新日志（07/07/2021）：Klaytn网络支持DApp等操作，更多细节优化](announcement/update/ban-ben-geng-xin-ri-zhi-07072021klaytn-wang-luo-zhi-chi-dapp-deng-cao-zuo-geng-duo-xi-jie-you-hua.md)
+  * [版本更新日志（07/07/2021）：Klaytn网络支持自定义代币等操作，更多细节优化](announcement/update/ban-ben-geng-xin-ri-zhi-07072021klaytn-wang-luo-zhi-chi-dapp-deng-cao-zuo-geng-duo-xi-jie-you-hua.md)
   * [版本更新日志（11/06/2021）：新增Klaytn链，升级波卡/Kusama](announcement/update/new-version-log.md)
+  * [版本更新日志（31/03/2021）：多项优化内容，只为更好体验](announcement/update/ban-ben-geng-xin-ri-zhi-31032021-duo-xiang-you-hua-nei-rong-zhi-wei-geng-hao-ti-yan.md)
   * [版本更新日志（18/03/2021）：新增OKExChain TEST链，更多细节优化](announcement/update/untitled-1.md)
   * [版本更新日志（29/01/2021）：新增6项优化内容](announcement/update/ban-ben-geng-xin-ri-zhi-29012021-xin-zeng-6-xiang-you-hua-nei-rong.md)
   * [版本更新日志（22/01/2021）：正式支持OKExChain](announcement/update/ban-ben-geng-xin-ri-zhi-22012021-zheng-shi-zhi-chi-okexchain.md)
