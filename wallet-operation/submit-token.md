@@ -121,7 +121,9 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 以上资料完成后，便可在GitHub上添加代币图标和信息文件**。**
 
-1. 创建一个以代币的合约地址（Checksum 格式）命名的文件夹，然后将info.json 和 logo.png添加至该文件夹；‌
+1. 创建一个以代币的合约地址（Checksum 格式）命名的文件夹，然后将**info.json** 和 **logo.png**两个文件添加至该文件夹；‌
+
+**注意**：文件命名必须为：**info.json** 和 **logo.png**
 
 ![](../.gitbook/assets/github1.jpg)
 
