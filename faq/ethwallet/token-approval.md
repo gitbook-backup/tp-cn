@@ -10,7 +10,7 @@ A账号有10000个token代币，B账号没有token代币，C账号也没有token
 
 那么：A账号 委托 B账号 转给C账号 100个token代币 怎么来实现呢？    
 
-首先：A账号 和 B账号建立一种委托关联，登录A账户执行approve\(b,100\)方法结果为：结果：\_allowed\[A\]\[B\] = 100token    
+首先：A账号 和 B账号建立一种委托关联，登录A账户执行Approve\(b,100\)方法结果为：结果：\_allowed\[A\]\[B\] = 100token    
 
 然后：在执行登录B账户执行transferFrom\(A,C,100\),这里的B就是委托账号发送者，gas从B扣除，必须确保token数量小于\_allowed\[A\]\[B\]；
 
