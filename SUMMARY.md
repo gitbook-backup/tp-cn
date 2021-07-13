@@ -96,13 +96,13 @@
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
   * [跨链聚合闪兑平台Xswap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
   * [如何在TokenPocket玩转Polygon（Matic）?](how-to-trade-on-dex/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
+  * [如何在TokenPocket使用Klaytn?](how-to-trade-on-dex/klaytn-use-guide.md)
   * [Uniswap（以太坊）使用教程](how-to-trade-on-dex/dex-uniswap.md)
   * [PancakeSwap（BSC）使用教程](how-to-trade-on-dex/dex-pancakeswap.md)
   * [MDEX（HECO）使用教程](how-to-trade-on-dex/dex-mdex.md)
   * [JustSwap（TRON）使用教程](how-to-trade-on-dex/dex-justswap.md)
   * [PuddingSwap（HSC）使用教程](how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](how-to-trade-on-dex/dex-sushi.md)
-  * [如何在TokenPocket使用Klaytn?](how-to-trade-on-dex/ru-he-zai-tokenpocket-shi-yong-klaytn.md)
 
 ## 常见问题 <a id="fqa"></a>
 
