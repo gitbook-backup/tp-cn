@@ -5,9 +5,19 @@
 
 **如何在TokenPocket创建Klaytn钱包？**
 
-1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Klaytn，点击【添加钱包】；
+1、打开TokenPocket App，点击左上角切换钱包底层，然后往下滑动找到Klaytn图标后，点击【添加钱包】；
 
+![](../.gitbook/assets/chuang-jian-qian-bao-1.jpg)
 
+2、点击【创建】进行创建Klaytn钱包；
+
+![](../.gitbook/assets/chuang-jian-qian-bao-2.jpg)
+
+**相关文章：**  
+1）[如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)  
+2）[如何导入钱包？](https://tphelp.gitbook.io/cn/wallet-management/import-wallet)
+
+\*\*\*\*
 
 **如何使用**[**OrbitBridge**](https://bridge.orbitchain.io/)**将以太坊的资产转入Klaytn钱包?**
 
