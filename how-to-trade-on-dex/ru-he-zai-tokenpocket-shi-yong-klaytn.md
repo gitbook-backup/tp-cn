@@ -37,7 +37,7 @@
 
 ![](../.gitbook/assets/o2.png)
 
-5、随后将出现弹窗连接接钱包；（支持链接MateMask钱包）
+5、随后将出现弹窗连接钱包；（支持链接MateMask钱包）
 
 ![](../.gitbook/assets/lian-jie-qian-bao-.png)
 
@@ -48,7 +48,7 @@
 7、接着输入代币的接收地址**，**然后点击【CONVERT NOW】进行跨链兑换；
 
 **注意：1）输入接收地址时，请确认是否为该链的代币接收地址。  
-2）兑换时，钱包需要预留一部分的手续费。**
+2）兑换时，钱包需要预留一部分的手续费/税费。**
 
 ![](../.gitbook/assets/o4.png)
 
@@ -58,7 +58,11 @@
 
 9、等待片刻后，将弹出转账完成的通知。点击【Tx History】可在浏览器查看转账情况，转账完成后，可进入Klaytn钱包。
 
+**提示：**点击[**EXPLORER**](https://bridge.orbitchain.io/history)可以查看转账历史和状态。
+
 ![](../.gitbook/assets/o7.png)
 
 \*\*\*\*
+
+
 
