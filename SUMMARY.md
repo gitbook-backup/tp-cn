@@ -102,6 +102,7 @@
   * [JustSwap（TRON）使用教程](how-to-trade-on-dex/dex-justswap.md)
   * [PuddingSwap（HSC）使用教程](how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](how-to-trade-on-dex/dex-sushi.md)
+  * [如何在TokenPocket使用Klaytn?](how-to-trade-on-dex/ru-he-zai-tokenpocket-shi-yong-klaytn.md)
 
 ## 常见问题 <a id="fqa"></a>
 
