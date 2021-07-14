@@ -1,7 +1,7 @@
 # 如何在TokenPocket使用Klaytn?
 
 **关于**[**Klaytn**](https://www.klaytn.com/)  
-****Klaytn是以服务为中心的企业级分布式信任区块链平台。它通过高效的“混合”设计，结合了公共区块链（分散数据和控制，分布式治理）和私有区块链（低延迟，高可扩展性）的最优功能。Klaytn与全球众多知名品牌的参与合作，通过共同的不懈努力，创建可靠的去中心化业务平台。Klaytn会使当今的企业和企业家能够利用区块链技术获取更优厚的价值。未来将由GroundX的Klaytn设计。
+****Klaytn是以服务为中心的企业级分布式信任区块链平台。它通过高效的“混合”设计，结合了公共区块链（分散数据和控制，分布式治理）和私有区块链（低延迟，高可扩展性）的最优功能。Klaytn与全球众多知名品牌的参与合作，通过共同的不懈努力，创建可靠的去中心化业务平台。
 
 **如何在TokenPocket创建Klaytn钱包？**
 
@@ -58,9 +58,7 @@
 
 ![](../.gitbook/assets/o5.png)
 
-9、等待片刻后，将弹出转账完成的通知。点击【Tx History】可在浏览器查看转账情况，转账完成后，可进入Klaytn钱包。
-
-**提示：**点击[**EXPLORER**](https://bridge.orbitchain.io/history)可以查看转账历史和状态。
+9、等待片刻后，将弹出转账完成的通知。点击【Tx History】可在浏览器[**EXPLORER**](https://bridge.orbitchain.io/history)查看转账情况。转账完成后，可进入Klaytn钱包进行查看资产。至此，您可以开始在Klaytn链体验各种DApp。
 
 ![](../.gitbook/assets/o7.png)
 
