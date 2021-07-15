@@ -69,7 +69,7 @@
 * [如何管理钱包？](wallet-management/manage-wallet.md)
 * [如何切换钱包？](wallet-management/switch-wallet.md)
 * [如何同步钱包？](wallet-management/wallet-sync.md)
-* [如何一键迁移钱包至其他设备？](wallet-management/wallet-data-migration.md)
+* [如何一键迁移钱包数据？](wallet-management/wallet-data-migration.md)
 
 ## 代币管理 <a id="token-management"></a>
 
