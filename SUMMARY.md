@@ -128,7 +128,7 @@
 
 ---
 
-* [关于腾讯管家误报TokenPocket的安全声明](guan-yu-teng-xun-guan-jia-wu-bao-tokenpocket-de-an-quan-sheng-ming.md)
+* [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
 ## 联系我们 <a id="contact-us"></a>
 
