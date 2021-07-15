@@ -116,6 +116,7 @@
 ## 产品公告 <a id="announcement"></a>
 
 * [APP更新](announcement/update/README.md)
+  * [关于腾讯管家误报TokenPocket的安全声明](announcement/update/guan-yu-teng-xun-guan-jia-wu-bao-tokenpocket-de-an-quan-sheng-ming.md)
   * [版本更新日志（07/07/2021）: Klaytn网络支持DApp等，更多细节优化](announcement/update/version-update-log.md)
   * [版本更新日志（11/06/2021）：新增Klaytn链，升级波卡/Kusama](announcement/update/new-version-log.md)
   * [版本更新日志（31/03/2021）：多项优化内容，只为更好体验](announcement/update/ban-ben-geng-xin-ri-zhi-31032021-duo-xiang-you-hua-nei-rong-zhi-wei-geng-hao-ti-yan.md)
