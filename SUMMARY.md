@@ -135,7 +135,7 @@
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
 
-## NFT 科普
+## NFT 科普 <a id="nft"></a>
 
-* [Untitled](nft-ke-pu/untitled.md)
+* [Untitled](nft/untitled.md)
 
