@@ -35,6 +35,7 @@
   * [什么是路径](faq/btcwallet/path.md)
   * [什么是隔离见证](faq/btcwallet/segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
+  * [什么是EIP-1559？](faq/ethwallet/eip-1559.md)
   * [Eth 2.0质押宝规则](faq/ethwallet/eth2.0-staking-vault.md)
   * [如何管理未打包交易？](faq/ethwallet/unpackaged.md)
   * [代币授权是什么？如何使用代币授权？](faq/ethwallet/token-approval.md)
@@ -134,8 +135,4 @@
 
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
-
-## NFT 科普 <a id="nft"></a>
-
-* [什么是EIP-1559？](nft/eip-1559.md)
 
