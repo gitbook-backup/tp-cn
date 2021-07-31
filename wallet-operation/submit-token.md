@@ -18,7 +18,9 @@ EOS：[https://github.com/TP-Lab/tokens/tree/master/eos](https://github.com/TP-L
 
 HSC：[https://github.com/TP-Lab/tokens/tree/master/hsc](https://github.com/TP-Lab/tokens/tree/master/hsc)‌
 
-\*\*\*\*
+OKExChain: [https://github.com/TP-Lab/tokens/tree/master/okexchain](https://github.com/TP-Lab/tokens/tree/master/okexchain)
+
+Polygon \(Matic\): [https://github.com/TP-Lab/tokens/tree/master/polygon\(matic\)](https://github.com/TP-Lab/tokens/tree/master/polygon%28matic%29)
 
 ### **所需资料如下：**‌
 
