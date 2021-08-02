@@ -70,7 +70,7 @@ Polygon \(Matic\): [https://github.com/TP-Lab/tokens/tree/master/polygon\(matic\
  "symbol": "TPT",
  "decimals": 4,
  "status": "active",
- "id": "0xeca41281c24451168a37211f0bc2b8645af45092"
+ "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
 }
 ```
 
