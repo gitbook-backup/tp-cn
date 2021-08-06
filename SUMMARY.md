@@ -117,6 +117,7 @@
 ## 产品公告 <a id="announcement"></a>
 
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（08/05/2021）：](announcement/update/ban-ben-geng-xin-ri-zhi-08052021.md)
   * [版本更新日志（07/28/2021）：钱包首页Token列表优化，网络管理优化](announcement/update/ban-ben-geng-xin-ri-zhi-07282021-qian-bao-shou-ye-token-lie-biao-you-hua-wang-luo-guan-li-you-hua.md)
   * [版本更新日志（07/07/2021）: Klaytn网络支持自定义代币，更多细节优化](announcement/update/version-update-log.md)
   * [版本更新日志（11/06/2021）：新增Klaytn链，升级波卡/Kusama](announcement/update/new-version-log.md)
