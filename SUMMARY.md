@@ -86,7 +86,7 @@
 * [如何取消转账交易？](transfer-tutorial/cancel-transfer.md)
 * [如何加速转账交易？](transfer-tutorial/accelerate-transfer.md)
 * [如何在发起转账时添加memo？](transfer-tutorial/add-memo.md)
-* [关于转账的注意安全事项](transfer-tutorial/about-safe-transfer.md)
+* [关于转账的安全事项](transfer-tutorial/about-safe-transfer.md)
 
 ## DeFi教程 <a id="about-defi"></a>
 
