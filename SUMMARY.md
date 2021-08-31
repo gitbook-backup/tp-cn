@@ -65,6 +65,7 @@
 
 ## 钱包管理 <a id="wallet-management"></a>
 
+* [如何隐藏钱包网络？](wallet-management/hide-wallet-network.md)
 * [如何创建钱包？](wallet-management/create-wallet.md)
 * [如何导入钱包？](wallet-management/import-wallet.md)
 * [如何管理钱包？](wallet-management/manage-wallet.md)
