@@ -67,6 +67,14 @@ App Store: 1.6.3
 
 ![](../../.gitbook/assets/group-18727.png)
 
+5、升级分享功能
+
+1）进入第三方DApp，点击右上方【…】，点击【分享】按钮，即可将该DApp分享至手机。
+
+![](../../.gitbook/assets/wechatimg138.png)
+
+\*\*\*\*
+
 **【版本更新方式】**
 
 App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：www.tokenpocket.pro）
