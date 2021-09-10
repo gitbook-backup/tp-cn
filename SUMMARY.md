@@ -20,7 +20,7 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
-  * [三步辨别真假官网 手把手教你下载TokenPocket APP](secirity-knowledge/protective-measures/san-bu-bian-bie-zhen-jia-guan-wang-shou-ba-shou-jiao-ni-xia-zai-tokenpocket-app.md)
+  * [三步辨别真假官网 手把手教你下载TokenPocket APP](secirity-knowledge/protective-measures/identify-the-official-website.md)
   * [资产防丢](secirity-knowledge/protective-measures/assests-loss-prevention.md)
   * [资产防盗](secirity-knowledge/protective-measures/assets-theft-prevention.md)
 
