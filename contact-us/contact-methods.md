@@ -17,5 +17,5 @@
 
 **关注我们**
 
-[官方网站](https://www.tokenpocket.pro/)  \| [在线客服](https://www.bangwo8.com/osp2016/im/h5/index.php?vendorID=764445)｜ [新浪微博](https://weibo.com/u/6482870061?is_all=1)  \|  [Facebook](https://www.facebook.com/TokenPocket)  \|  [Medium](https://medium.com/@tokenpocket.gm)  \|  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://twitter.com/TokenPocket_TP)
+[官方网站](https://www.tokenpocket.pro/)  ｜ [新浪微博](https://weibo.com/u/6482870061?is_all=1)  \|  [Facebook](https://www.facebook.com/TokenPocket)  \|  [Medium](https://medium.com/@tokenpocket.gm)  \|  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://twitter.com/TokenPocket_TP)
 
