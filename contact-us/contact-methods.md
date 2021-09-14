@@ -7,7 +7,6 @@
 * 提交DApp：dapp@tokenpocket.pro
 * 微信公众号：TokenPocket钱包
 * 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro/)
-* 在线客服：[点击进入](https://www.bangwo8.com/osp2016/im/h5/index.php?vendorID=764445)
 
 
 
