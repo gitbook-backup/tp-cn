@@ -55,6 +55,7 @@
 
 ## 钱包操作 <a id="wallet-operation"></a>
 
+* [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app.md)
 * [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
   * [为什么不能直接往合约地址转账？](wallet-operation/about-public-chain-transfer/not-transfer-to-contract.md)
 * [关于自定义代币](wallet-operation/custom-token.md)
@@ -99,7 +100,6 @@
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
-  * [苹果手机如何通过App Store下载TokenPocket App？](how-to-trade-on-dex/download-tokenpocket-app.md)
   * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-fantom.md)
   * [TokenPocket一文带你玩转Arbitrum!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
   * [跨链聚合闪兑平台Xswap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
