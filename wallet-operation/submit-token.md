@@ -191,7 +191,7 @@ TokenPocket团队允许任何人向原仓库提交代币申请。 但是，这�
 
 ### **审核时间需要多久？**‌
 
-管理员在进一步验证后，将在**5个工作日内**完成Pull request的合并。 如果有任何其他需要或需更改的地方，将以链上信息为准进行订正。‌
+管理员在进一步验证后，将在 request进行合并。 如果有任何其他需要或需更改的地方，将以链上信息为准进行订正。‌
 
 管理员将Pull request合并后，代币的图标即可更新。**请勿重复提交Pull request !** 感谢你的耐心等待。[  
 ](https://app.gitbook.com/@tokenpocket-gm/s/tutorial-series/~/drafts/-M_yHrzLg8i88f4fnBpi/the-usage-tutorial-of-okexchain-test-okex)

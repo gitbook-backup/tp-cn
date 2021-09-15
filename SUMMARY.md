@@ -60,7 +60,7 @@
 * [关于自定义代币](wallet-operation/custom-token.md)
 * [如何自主更新代币图标？](wallet-operation/submit-token.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
-  * [Moonriver-添加自定义网络教程](wallet-operation/about-custom-networks/moonriver-tian-jia-zi-ding-yi-wang-luo-jiao-cheng.md)
+  * [Moonriver-添加自定义网络教程](wallet-operation/about-custom-networks/moonriver-add-custom-network.md)
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
