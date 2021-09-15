@@ -99,6 +99,7 @@
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
+  * [苹果手机如何通过App Store下载TokenPocket App？](how-to-trade-on-dex/ping-guo-shou-ji-ru-he-tong-guo-app-store-xia-zai-tokenpocket-app.md)
   * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-fantom.md)
   * [TokenPocket一文带你玩转Arbitrum!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
   * [跨链聚合闪兑平台Xswap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
