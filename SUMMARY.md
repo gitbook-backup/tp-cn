@@ -117,7 +117,7 @@
 
 * [我往合约转账了怎么办？](fqa/do-not-transfer-to-contract-address.md)
 * [不同公链间不能直接转账](fqa/transfer-from-different-chains.md)
-* [为什么从钱包提币到交易所不到账？](fqa/fail-to-receive-assets-from-wallet.md)
+* [钱包充值资产到交易所未到账](fqa/fail-to-receive-assets-from-wallet.md)
 * [为什么从交易所充币到钱包不到账？](fqa/fail-to-receive-assets-from-exchanges.md)
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
