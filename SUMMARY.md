@@ -101,7 +101,7 @@
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
-  * [TokenPocket一文带你玩转Avalanche!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-avalanche.md)
+  * [TokenPocket一文带你玩转Avalanche!](how-to-trade-on-dex/avalanche-use-guide.md)
   * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/fantom-use-guide.md)
   * [TokenPocket一文带你玩转Arbitrum!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
   * [跨链聚合闪兑平台Xswap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
