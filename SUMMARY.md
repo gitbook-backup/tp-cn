@@ -27,7 +27,8 @@
 
 ## 钱包常见问题 <a id="faq"></a>
 
-* [Solana钱包](faq/solana-qian-bao.md)
+* [Solana钱包](faq/solana-qian-bao/README.md)
+  * [关于“关联账号”](faq/solana-qian-bao/associated-account.md)
 * [波卡钱包](faq/polkadot/README.md)
   * [什么是转账的小费？](faq/polkadot/fee.md)
 * [BTC钱包](faq/btcwallet/README.md)
