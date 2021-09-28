@@ -1,2 +1,38 @@
-# 关于“关联账号”
+# 关于Solana“关联账号”
+
+在Solana网络中，如果进行非SOL转账，转账或收款的账号都为关联账号，而非钱包账号。 您在转账或收款的时候仅需出示钱包账号即可，钱包会自动查找该Token的关联账号，如果没有关联账号，则会帮接收账号创建关联账号，创建关联账号会消耗0.02 SOL，请您确保钱包有足够的SOL。
+
+\*Solana 区块链的代币格式为 SPL.
+
+**什么是关联账号？**
+
+“关联账号”是Solana公链的底层逻辑中的重要一环，在Solana公链中每一次SPL转账/收款都需要通过链上对应token的关联账号来进行。每个钱包地址的关联账号都由该钱包的私钥和助记词进行控制。
+
+**没有关联账号，怎么创建？**
+
+在进行非SOL转账/收款过程中，先输入钱包地址，网络将会先对该钱包地址进行关联账号创建，创建关联账号需要消耗0.02 SOL手续费，后续将会根据该关联地址完成转账。
+
+创建完成后的收款/转账仅需出示钱包账号即可，钱包会自动查找该Token的关联账号，并完成对应收款/转账。
+
+**已有关联账号：**转账或收款是输入钱包账号/关联账号即可；
+
+**未有关联账号：**转账或收款时输入钱包账号，网络将会先进行关联账号创建，创建关联账号需要消耗0.02 SOL的手续费，请预留充足资金。
+
+![](file:////private/var/folders/xn/px2zw5x17nz2m4v0rfc89gp40000gn/T/com.kingsoft.wpsoffice.mac/wps-mac/ksohtml/wpsUp0ElJ.jpg)
+
+**如何查询“关联账号”？**
+
+1.进入Solana区块浏览器
+
+[https://solscan.io/](https://solscan.io/)
+
+[http://solanabeach.io/](http://solanabeach.io/)
+
+[http://explorer.solana.com/](http://explorer.solana.com/)
+
+2.输入SOL钱包地址，点击【SPL Token TXs】，「DESTINATION」所示，就是这笔转账关联账号。
+
+![](../../.gitbook/assets/image%20%2820%29.png)
+
+注意：只有进行非SOL转账/收款时，才需要“关联账号”，进行Solana原生币SOL转账/收款，不需要使用“关联账号”。
 
