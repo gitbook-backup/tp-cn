@@ -18,7 +18,7 @@
 
 **未有关联账号：**转账或收款时输入钱包账号，网络将会先进行关联账号创建，创建关联账号需要消耗0.02 SOL的手续费，请预留充足资金。
 
-![](file:////private/var/folders/xn/px2zw5x17nz2m4v0rfc89gp40000gn/T/com.kingsoft.wpsoffice.mac/wps-mac/ksohtml/wpsUp0ElJ.jpg)
+
 
 **如何查询“关联账号”？**
 
