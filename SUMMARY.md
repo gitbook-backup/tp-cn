@@ -130,6 +130,7 @@
 ## 产品公告 <a id="announcement"></a>
 
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（09/29/2021）：支持Solana；用户体验优化。](announcement/update/ban-ben-geng-xin-ri-zhi-09292021-zhi-chi-solana-yong-hu-ti-yan-you-hua.md)
   * [版本更新日志（09/18/2021）：支持NFT展示；行情页面优化；用户体验优化。](announcement/update/update-new-version.md)
   * [版本更新日志（09/03/2021）：首页支持DeFi数据展示、钱包安全提示升级](announcement/update/ban-ben-geng-xin-ri-zhi-09032021-shou-ye-zhi-chi-defi-shu-ju-zhan-shi-qian-bao-an-quan-ti-shi-sheng.md)
   * [版本更新日志（08/05/2021）：支持EIP-1559矿工费模式，更多详情优化](announcement/update/ban-ben-geng-xin-ri-zhi-08052021.md)
