@@ -72,21 +72,41 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 **2.IOS版下载**
 
-由于TokenPocket没有在APP Store大陆区上架，用户下载TokenPocket APP 可分为有海外Apple ID和没有Apple ID两种操作教程。
+如果你手机没有海外Apple ID，
 
-1.如果你手机没有海外Apple ID，可点击TokenPocket官网首页【手机下载】-点击TestFlight【前往下载】;
+1.网页搜索[http://appleid.apple.com](http://appleid.apple.com)，点击「创建您的Apple ID」进入注册新Apple ID页面，填写相关信息：地区需选择为【美国】；邮箱和手机号码应是有效且正在使用的，后续会通过邮箱和手机号进行ID验证，全部填写完后点击「继续」。
 
-![](../../.gitbook/assets/1-kao-bei-8.png)
+![](../../.gitbook/assets/1%20%2817%29.png)
 
-2.进入TestFlight下载操作页面，点击【在APP Store中查看】，下载TestFlight；
+2.邮箱和手机号将会陆续收到6位数字的验证码，按照提示输入验证码，海外Apple ID就注册成功了。
 
-![](../../.gitbook/assets/1-kao-bei-9.png)
+**使用海外Apple ID下载TokenPocket教程**
 
-3.下载完成后，打开TestFlight，选择【安装】，即可安装TokenPocket APP.
+1.进入App Store，点击右上角头像，登录刚刚注册的海外ID账户;
 
-![](../../.gitbook/assets/1-kao-bei-10.png)
+注：请使用本人注册的海外ID账户进行登录下载；请勿使用他人账户；请勿泄漏账户名称及账户密码，谨防诈骗。
 
-注：通过TestFlight下载的TokenPocket APP，每三个月需要进行更新一次。**为保护您的资金安全，请注意保存好私钥和助记词！**
+![](../../.gitbook/assets/1-kao-bei-%20%282%29.png)
+
+
+
+2.由于是新的ID，会出现所示的提示，点击【检查】，勾选【同意】，即可进入下一步；
+
+![](../../.gitbook/assets/1-kao-bei-2%20%283%29.png)
+
+3.按照下图所示填写相关信息，填写完成后点击【下一页】；
+
+![](../../.gitbook/assets/1-kao-bei-3%20%281%29.png)
+
+4.登录完成后，在App Store里搜索“TokenPocket”，即可下载正版TokenPocket App;
+
+![](../../.gitbook/assets/1-kao-bei-4%20%281%29.png)
+
+5.请认准APP发布者信息为TOKENPOCKET FOUNDATION LTD.，其余均为假冒软件，谨防受骗！
+
+![](../../.gitbook/assets/1-kao-bei-5%20%281%29.png)
+
+\*\*\*\*
 
 4.如果你手机有海外Apple ID，点击TokenPocket官网首页【手机下载】，即可进入「APP Store」下载。
 
