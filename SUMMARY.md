@@ -2,14 +2,14 @@
 
 * [帮助文档](README.md)
 
-## 基础知识 <a id="the-basics"></a>
+## 基础知识 <a href="the-basics" id="the-basics"></a>
 
 * [什么是区块链？](the-basics/what-is-blockchain.md)
 * [什么是去中心化钱包？](the-basics/what-is-a-decentralized-wallet.md)
 * [什么是私钥、助记词和密码？](the-basics/what-is-a-private-key-mnemonic-and-password.md)
 * [什么是矿工费？](the-basics/what-is-the-miner-fee.md)
 
-## 安全知识 <a id="secirity-knowledge"></a>
+## 安全知识 <a href="secirity-knowledge" id="secirity-knowledge"></a>
 
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
   * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
@@ -25,7 +25,7 @@
   * [资产防丢](secirity-knowledge/protective-measures/assests-loss-prevention.md)
   * [资产防盗](secirity-knowledge/protective-measures/assets-theft-prevention.md)
 
-## 钱包常见问题 <a id="faq"></a>
+## 钱包常见问题 <a href="faq" id="faq"></a>
 
 * [Solana钱包](faq/solana-wallet/README.md)
   * [关于Solana“关联账号”](faq/solana-wallet/associated-account.md)
@@ -35,7 +35,7 @@
   * [什么是观察钱包](faq/btcwallet/shen-me-shi-guan-cha-qian-bao.md)
   * [什么是找零地址](faq/btcwallet/change-address.md)
   * [什么是UTXO](faq/btcwallet/utxo.md)
-  * [什么是OP\_RETURN？](faq/btcwallet/op-return.md)
+  * [什么是OP_RETURN？](faq/btcwallet/op-return.md)
   * [什么是路径](faq/btcwallet/path.md)
   * [什么是隔离见证](faq/btcwallet/segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
@@ -52,11 +52,11 @@
   * [如何使用离线冷钱包](faq/multichain-wallet/coldwallet.md)
   * [什么是助记词](faq/multichain-wallet/mnemonic-phrase.md)
   * [什么是资产归集](faq/multichain-wallet/asset-collection.md)
-  * [什么是身份钱包\(HD\)?](faq/multichain-wallet/hd.md)
+  * [什么是身份钱包(HD)?](faq/multichain-wallet/hd.md)
   * [关于子钱包](faq/multichain-wallet/sub-wallets.md)
   * [什么是私钥](faq/multichain-wallet/private-key.md)
 
-## 钱包操作 <a id="wallet-operation"></a>
+## 钱包操作 <a href="wallet-operation" id="wallet-operation"></a>
 
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app.md)
@@ -70,7 +70,7 @@
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
 
-## 钱包管理 <a id="wallet-management"></a>
+## 钱包管理 <a href="wallet-management" id="wallet-management"></a>
 
 * [如何隐藏钱包？](wallet-management/hide-wallet-network.md)
 * [如何创建钱包？](wallet-management/create-wallet.md)
@@ -80,14 +80,14 @@
 * [如何同步钱包？](wallet-management/wallet-sync.md)
 * [如何一键迁移钱包数据？](wallet-management/wallet-data-migration.md)
 
-## 代币管理 <a id="token-management"></a>
+## 代币管理 <a href="token-management" id="token-management"></a>
 
 * [如何添加代币？](token-management/add-token.md)
 * [如何搜索代币？](token-management/search-token.md)
 * [如何删除代币？](token-management/delete-token.md)
 * [如何提交代币？](token-management/submit-token.md)
 
-## 转账教程 <a id="transfer-tutorial"></a>
+## 转账教程 <a href="transfer-tutorial" id="transfer-tutorial"></a>
 
 * [如何收款？](transfer-tutorial/receive-token.md)
 * [如何转账到钱包/交易所？](transfer-tutorial/transfer-to-the-wallet-or-exchange.md)
@@ -96,9 +96,9 @@
 * [如何在发起转账时添加memo？](transfer-tutorial/add-memo.md)
 * [关于转账的安全事项](transfer-tutorial/about-safe-transfer.md)
 
-## DeFi教程 <a id="about-defi"></a>
+## DeFi教程 <a href="about-defi" id="about-defi"></a>
 
----
+***
 
 * [什么是DeFi？](what-is-defi.md)
 * [什么是DEX?](about-dex.md)
@@ -118,7 +118,7 @@
   * [PuddingSwap（HSC）使用教程](how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](how-to-trade-on-dex/dex-sushi.md)
 
-## 常见问题 <a id="fqa"></a>
+## 常见问题 <a href="fqa" id="fqa"></a>
 
 * [我往合约转账了怎么办？](fqa/do-not-transfer-to-contract-address.md)
 * [不同公链间不能直接转账](fqa/transfer-from-different-chains.md)
@@ -127,9 +127,10 @@
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
 
-## 产品公告 <a id="announcement"></a>
+## 产品公告 <a href="announcement" id="announcement"></a>
 
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（10/14/2021）：波卡钱包升级；兼容Sollet协议，支持更多链接钱包方式。](announcement/update/ban-ben-geng-xin-ri-zhi-10142021-bo-ka-qian-bao-sheng-ji-jian-rong-sollet-xie-yi-zhi-chi-geng-duo-li.md)
   * [版本更新日志（09/29/2021）：支持Solana；用户体验优化。](announcement/update/new-version-support-solana.md)
   * [版本更新日志（09/18/2021）：支持NFT展示；行情页面优化；用户体验优化。](announcement/update/update-new-version.md)
   * [版本更新日志（09/03/2021）：首页支持DeFi数据展示、钱包安全提示升级](announcement/update/ban-ben-geng-xin-ri-zhi-09032021-shou-ye-zhi-chi-defi-shu-ju-zhan-shi-qian-bao-an-quan-ti-shi-sheng.md)
@@ -142,15 +143,14 @@
   * [版本更新日志（29/01/2021）：新增6项优化内容](announcement/update/ban-ben-geng-xin-ri-zhi-29012021-xin-zeng-6-xiang-you-hua-nei-rong.md)
   * [版本更新日志（22/01/2021）：正式支持OKExChain](announcement/update/ban-ben-geng-xin-ri-zhi-22012021-zheng-shi-zhi-chi-okexchain.md)
   * [版本更新日志（25/12/2020）：正式支持Polkadot和Kusama链](announcement/update/untitled.md)
-  * [版本更新日志（21/12/2020）：支持火币生态链\(Heco）](announcement/update/ban-ben-geng-xin-ri-zhi-21122020-zhi-chi-huo-bi-sheng-tai-lian-heco.md)
+  * [版本更新日志（21/12/2020）：支持火币生态链(Heco）](announcement/update/ban-ben-geng-xin-ri-zhi-21122020-zhi-chi-huo-bi-sheng-tai-lian-heco.md)
   * [版本更新日志（30/10/2020）：iOS支持DApp浮窗](announcement/update/ban-ben-geng-xin-ri-zhi-30102020ios-zhi-chi-dapp-fu-chuang.md)
 
----
+***
 
 * [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
-## 联系我们 <a id="contact-us"></a>
+## 联系我们 <a href="contact-us" id="contact-us"></a>
 
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
-
