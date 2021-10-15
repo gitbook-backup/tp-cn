@@ -62,7 +62,7 @@
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app.md)
 * [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
   * [为什么不能直接往合约地址转账？](wallet-operation/about-public-chain-transfer/not-transfer-to-contract.md)
-* [关于自定义代币](wallet-operation/custom-token.md)
+* [关于自定义代币](wallet-operation/about-custom-token.md)
 * [如何自主更新代币图标？](wallet-operation/submit-token.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
   * [Moonriver-添加自定义网络教程](wallet-operation/about-custom-networks/moonriver-add-custom-network.md)
