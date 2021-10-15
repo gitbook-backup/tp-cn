@@ -37,7 +37,7 @@
   * [什么是UTXO](faq/btcwallet/utxo.md)
   * [什么是OP_RETURN？](faq/btcwallet/op-return.md)
   * [什么是路径](faq/btcwallet/path.md)
-  * [什么是隔离见证](faq/btcwallet/segwit.md)
+  * [什么是隔离见证](faq/btcwallet/what-is-btc-segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
   * [什么是EIP-1559？](faq/ethwallet/eip-1559.md)
   * [Eth 2.0质押宝规则](faq/ethwallet/eth2.0-staking-vault.md)
