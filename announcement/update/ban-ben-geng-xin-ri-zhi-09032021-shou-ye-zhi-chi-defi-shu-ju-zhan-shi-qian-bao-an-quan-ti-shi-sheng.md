@@ -4,17 +4,17 @@
 
 Android最新版本号：1.3.2
 
-iOS最新版本号：pro 3.1.2\(93\)
+iOS最新版本号：pro 3.1.2(93)
 
 App Store: 1.6.3
 
 **【版本更新内容】**
 
-1.首页支持DeFi数据展示  
-2.钱包安全提示升级  
-3.波卡系列支持自定义添加网络  
-4.波场支持自定义添加代币  
-5.支持DAS域名解析  
+1.首页支持DeFi数据展示\
+2.钱包安全提示升级\
+3.波卡系列支持自定义添加网络\
+4.波场支持自定义添加代币\
+5.支持DAS域名解析\
 6.升级分享功能
 
 **【部分更新内容详解】**
@@ -73,9 +73,8 @@ App Store: 1.6.3
 
 ![](../../.gitbook/assets/wechatimg138.png)
 
-\*\*\*\*
+****
 
 **【版本更新方式】**
 
-App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://tokenpocket.pro/)）
-
+App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://tokenpocket.pro)）

@@ -4,19 +4,19 @@
 
 以TokenPocket官网为例：
 
-1.确认浏览器中输入的域名为：[https://tokenpocket.pro/](https://tokenpocket.pro/) 注：务必使用 https 协议访问官网，而非 http。
+1.确认浏览器中输入的域名为：[https://tokenpocket.pro/](https://tokenpocket.pro) 注：务必使用 https 协议访问官网，而非 http。
 
 重要的事说三遍！！ 
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/！)
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/！) ****
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)** **
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/！)\*\*\*\*
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)****
 
 2.确认浏览器输入框左侧有🔒或**🛡️**等安全图标；
 
-![](../../.gitbook/assets/1%20%2815%29.png)
+![](<../../.gitbook/assets/1 (15).png>)
 
 
 
@@ -34,11 +34,11 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 **谨记，在以上三步检查都确认无误的情况下，才可继续下载安装** **TokenPocket。**
 
--其他验证途径：
+\-其他验证途径：
 
 1.把鼠标移至官网主页二维码图案，假官网并不显示任何二维码，真官网会显示手机app下载二维码。
 
-![](../../.gitbook/assets/1-kao-bei-2%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-2 (1).png>)
 
 2.PC端页面点击下载，真官网可直接跳转到「APP Store」或「Google Play」下载页面，假官网仅跳转至手机下载页面；
 
@@ -56,7 +56,7 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 ![](../../.gitbook/assets/1-kao-bei-5.png)
 
-如遇到假官网，请点击TokenPocket官网：[https://tokenpocket.pro/](https://tokenpocket.pro/右下角-【咨询客服】-把相关信息反馈给官方工作人员；) 右下角-【咨询客服】-把相关信息反馈给官方工作人员；
+如遇到假官网，请点击TokenPocket官网：[https://tokenpocket.pro/](https://tokenpocket.pro/%E5%8F%B3%E4%B8%8B%E8%A7%92-%E3%80%90%E5%92%A8%E8%AF%A2%E5%AE%A2%E6%9C%8D%E3%80%91-%E6%8A%8A%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF%E5%8F%8D%E9%A6%88%E7%BB%99%E5%AE%98%E6%96%B9%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%EF%BC%9B) 右下角-【咨询客服】-把相关信息反馈给官方工作人员；
 
 ![](../../.gitbook/assets/1-kao-bei-6.png)
 
@@ -76,7 +76,7 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 1.网页搜索[http://appleid.apple.com](http://appleid.apple.com)，点击「创建您的Apple ID」进入注册新Apple ID页面，填写相关信息：地区需选择为【美国】；邮箱和手机号码应是有效且正在使用的，后续会通过邮箱和手机号进行ID验证，全部填写完后点击「继续」。
 
-![](../../.gitbook/assets/1%20%2817%29.png)
+![](<../../.gitbook/assets/1 (17).png>)
 
 2.邮箱和手机号将会陆续收到6位数字的验证码，按照提示输入验证码，海外Apple ID就注册成功了。
 
@@ -86,41 +86,40 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 注：请使用本人注册的海外ID账户进行登录下载；请勿使用他人账户；请勿泄漏账户名称及账户密码，谨防诈骗。
 
-![](../../.gitbook/assets/1-kao-bei-%20%282%29.png)
+![](<../../.gitbook/assets/1-kao-bei- (2).png>)
 
 
 
 2.由于是新的ID，会出现所示的提示，点击【检查】，勾选【同意】，即可进入下一步；
 
-![](../../.gitbook/assets/1-kao-bei-2%20%283%29.png)
+![](<../../.gitbook/assets/1-kao-bei-2 (3).png>)
 
 3.按照下图所示填写相关信息，填写完成后点击【下一页】；
 
-![](../../.gitbook/assets/1-kao-bei-3%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-3 (1).png>)
 
 4.登录完成后，在App Store里搜索“TokenPocket”，即可下载正版TokenPocket App;
 
-![](../../.gitbook/assets/1-kao-bei-4%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-4 (1).png>)
 
 5.请认准APP发布者信息为TOKENPOCKET FOUNDATION LTD.，其余均为假冒软件，谨防受骗！
 
-![](../../.gitbook/assets/1-kao-bei-5%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-5 (1).png>)
 
-\*\*\*\*
+****
 
 4.如果你手机有海外Apple ID，点击TokenPocket官网首页【手机下载】，即可进入「APP Store」下载。
 
 注意：在 App Store 中以下这些均为假冒 TokenPocket App：
 
--TokenPocket-Novel 
+\-TokenPocket-Novel 
 
--TokenPocket-Climb 
+\-TokenPocket-Climb 
 
--TokenPocket Diary
+\-TokenPocket Diary
 
 从App Store 下载TokenPocket时，请务必切换至海外 Apple ID，并请认准开发者为**TOKENPOCKET FOUNDATION LTD.**开发的App，其他所有的均为假冒TokenPocket App。
 
 网络骗子手段不断升级，请注意警惕和防范，增强对真假官网及真假APP的辨别能力，确保自身资金安全！
 
-\*\*\*\*
-
+****

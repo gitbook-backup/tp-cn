@@ -4,7 +4,7 @@
 
 Android最新版本号：1.1.8
 
-iOS pro 3.1.2\(75\)  App Store 1.4.8
+iOS pro 3.1.2(75)  App Store 1.4.8
 
 **【主要更新内容】**
 
@@ -24,21 +24,19 @@ iOS pro 3.1.2\(75\)  App Store 1.4.8
 
 **【更新功能介绍】**
 
-**\#1.** **支持OKExChain，新老用户都可以通过钱包的添加底层界面进行OKExChain的创建或导入。**
+**#1.** **支持OKExChain，新老用户都可以通过钱包的添加底层界面进行OKExChain的创建或导入。**
 
 **（**[**OKExChain钱包创建**](https://www.yuque.com/tokenpocket/gz8u7f/klgi7z)**）**
 
-![1.png](https://cdn.nlark.com/yuque/0/2021/png/2443216/1611321537010-51314735-1f78-4022-95df-c39f00821036.png?x-oss-process=image%2Fresize%2Cw_1500)
+![1.png](https://cdn.nlark.com/yuque/0/2021/png/2443216/1611321537010-51314735-1f78-4022-95df-c39f00821036.png?x-oss-process=image%2Fresize%2Cw\_1500)
 
-**\#2.  优化Heco钱包在收款时提示窗口，明显标注Heco钱包在充提币时都用Heco通道，最大程度避免因为提币使用通道错误而带来的一系列手续费和时间的浪费。**
+**#2.  优化Heco钱包在收款时提示窗口，明显标注Heco钱包在充提币时都用Heco通道，最大程度避免因为提币使用通道错误而带来的一系列手续费和时间的浪费。**
 
-![2.png](https://cdn.nlark.com/yuque/0/2021/png/2443216/1611321656690-c4b79b4d-b59d-4a19-a0b1-7bab60312574.png?x-oss-process=image%2Fresize%2Cw_1500)
+![2.png](https://cdn.nlark.com/yuque/0/2021/png/2443216/1611321656690-c4b79b4d-b59d-4a19-a0b1-7bab60312574.png?x-oss-process=image%2Fresize%2Cw\_1500)
 
-![&#x8BC6;&#x522B;&#x4E0B;&#x8F7D;TP&#x94B1;&#x5305;](https://cdn.nlark.com/yuque/0/2020/png/2443216/1608714818001-c0df3347-0660-49f7-a7e4-d738a790a806.png?x-oss-process=image%2Fresize%2Cw_152)
-
-
-
-\*\*\*\*
+![识别下载TP钱包](https://cdn.nlark.com/yuque/0/2020/png/2443216/1608714818001-c0df3347-0660-49f7-a7e4-d738a790a806.png?x-oss-process=image%2Fresize%2Cw\_152)
 
 
+
+****
 

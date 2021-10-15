@@ -4,13 +4,13 @@
 
 **【版本更新详情】**
 
-‌iOS pro 3.1.3\(89\) 
+‌iOS pro 3.1.3(89) 
 
 Android 1.2.9
 
 App Store 1.6.0 
 
-\*\*\*\*
+****
 
 **【主要更新内容】**
 
@@ -26,7 +26,6 @@ App Store 1.6.0
 
 **【版本更新方式】**
 
-‌App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://www.tokenpocket.pro/)）
+‌App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://www.tokenpocket.pro)）
 
-\*\*\*\*
-
+****

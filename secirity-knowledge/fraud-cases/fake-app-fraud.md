@@ -1,9 +1,8 @@
 # 假App诈骗
 
-  
+\
 骗子会开发和正版的钱包高度相似的App，以假乱真，导致用户在创建或者导入钱包的时候，骗子后台的服务器就会默默记录并同步到他们特定的服务器，这样用户在后续的操作中就有极大的风险被骗子盗币了。
 
 所以，用户一定要通过官方渠道来下载和使用钱包。
 
-**TokenPocket 唯一官方网址：**[**https://www.tokenpocket.pro/**](https://www.tokenpocket.pro/)\*\*\*\*
-
+**TokenPocket 唯一官方网址：**[**https://www.tokenpocket.pro/**](https://www.tokenpocket.pro)****

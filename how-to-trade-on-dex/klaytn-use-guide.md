@@ -1,6 +1,6 @@
 # 如何在TokenPocket使用Klaytn?
 
-**关于**[**Klaytn**](https://www.klaytn.com/)  
+**关于**[**Klaytn**](https://www.klaytn.com)****\
 ****Klaytn是以服务为中心的企业级分布式信任区块链平台。它通过高效的“混合”设计，结合了公共区块链（分散数据和控制，分布式治理）和私有区块链（低延迟，高可扩展性）的最优功能。Klaytn与全球众多知名品牌的参与合作，通过共同的不懈努力，创建可靠的去中心化业务平台。
 
 **如何在TokenPocket创建Klaytn钱包？**
@@ -15,15 +15,15 @@
 
 ![](../.gitbook/assets/chuang-jian-qian-bao-2.jpg)
 
-**相关文章：**  
-1）[如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)  
+**相关文章：**\
+****1）[如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)\
 2）[如何导入钱包？](https://tphelp.gitbook.io/cn/wallet-management/import-wallet)
 
-\*\*\*\*
+****
 
-**如何使用**[**OrbitBridge**](https://bridge.orbitchain.io/)**将以太坊的资产转入Klaytn钱包?**
+**如何使用**[**OrbitBridge**](https://bridge.orbitchain.io)**将以太坊的资产转入Klaytn钱包?**
 
-1、打开[OrbitBridge](https://bridge.orbitchain.io/)网页（目前不支持App端的操作），点击右上角【Select Coin】选择需要转入Klaytn链的代币；
+1、打开[OrbitBridge](https://bridge.orbitchain.io)网页（目前不支持App端的操作），点击右上角【Select Coin】选择需要转入Klaytn链的代币；
 
 ![](../.gitbook/assets/o1.png)
 
@@ -49,8 +49,8 @@
 
 7、接着输入代币的接收地址**，**然后点击【CONVERT NOW】进行跨链兑换；
 
-**注意：1）输入接收地址时，请确认是否为该链的代币接收地址。  
-2）兑换时，钱包需要预留一部分的手续费/税费。**
+**注意：1）输入接收地址时，请确认是否为该链的代币接收地址。**\
+**2）兑换时，钱包需要预留一部分的手续费/税费。**
 
 ![](../.gitbook/assets/o4.png)
 
@@ -65,6 +65,4 @@
 {% hint style="info" %}
 本教程仅为DApp在钱包端的操作指南，不代表TokenPocket的投资建议。投资有风险，您须充分认识风险，并自行作出投资决策。
 {% endhint %}
-
-
 

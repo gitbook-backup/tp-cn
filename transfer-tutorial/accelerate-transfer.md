@@ -4,11 +4,11 @@
 
 注意：一般情况下，以太坊链上的转账比较拥堵，转账仅在未上链前才能取消。
 
-![](../.gitbook/assets/jia-su-1%20%282%29.png)
+![](<../.gitbook/assets/jia-su-1 (2).png>)
 
 2、进入页面后，点击【加速后】一栏自定义矿工费；
 
-![](../.gitbook/assets/jia-su-3%20%282%29.png)
+![](<../.gitbook/assets/jia-su-3 (2).png>)
 
 3、根据需求选择矿工费，也可点击【自定义】设置Gas price 和 Gas limit，然后点击【确认】；
 
@@ -18,14 +18,13 @@
 
 4、设置完成后，点击【确定加速】；
 
-![](../.gitbook/assets/jia-su-2%20%282%29.png)
+![](<../.gitbook/assets/jia-su-2 (2).png>)
 
-  
+\
 5、确认信息无误后，点击【确认支付】；
 
-![](../.gitbook/assets/jia-su-5%20%281%29.png)
+![](<../.gitbook/assets/jia-su-5 (1).png>)
 
 6、输入钱包密码后，点击【确认】完成交易加速。
 
 ![](../.gitbook/assets/jia-su-6.png)
-
