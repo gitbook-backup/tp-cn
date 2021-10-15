@@ -6,7 +6,7 @@
 * 商务邮箱：bd@tokenpocket.pro
 * 提交DApp：dapp@tokenpocket.pro
 * 微信公众号：TokenPocket钱包
-* 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro/)
+* 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro)
 
 
 
@@ -14,8 +14,8 @@
 
 * [项目上线申请](https://www.tokenpocket.pro/zh/submit/dapp)
 * [代币收录申请](https://www.tokenpocket.pro/zh/submit/token)
+* [NFT收录申请](https://tokenpocket.pro/zh/submit/nft)
 
 **关注我们**
 
-[官方网站](https://www.tokenpocket.pro/)  ｜ [新浪微博](https://weibo.com/u/6482870061?is_all=1)  \|  [Facebook](https://www.facebook.com/TokenPocket)  \|  [Medium](https://medium.com/@tokenpocket.gm)  \|  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://twitter.com/TokenPocket_TP)
-
+[官方网站](https://www.tokenpocket.pro)  ｜ [新浪微博](https://weibo.com/u/6482870061?is_all=1)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Medium](https://medium.com/@tokenpocket.gm)  |  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://twitter.com/TokenPocket_TP)
