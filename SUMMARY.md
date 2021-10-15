@@ -58,6 +58,7 @@
 
 ## 钱包操作 <a href="wallet-operation" id="wallet-operation"></a>
 
+* [如何下载TokenPocket APP？](wallet-operation/ru-he-xia-zai-tokenpocket-app.md)
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app.md)
 * [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
