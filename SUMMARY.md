@@ -50,7 +50,7 @@
   * [OKExChain钱包升级](faq/oktwallet/okexchain-qian-bao-sheng-ji.md)
 * [多链钱包](faq/multichain-wallet/README.md)
   * [如何使用离线冷钱包](faq/multichain-wallet/coldwallet.md)
-  * [什么是助记词](faq/multichain-wallet/mnemonic-phrase.md)
+  * [什么是助记词](faq/multichain-wallet/secret-recovery-phrase.md)
   * [什么是资产归集](faq/multichain-wallet/what-is-asset-collection.md)
   * [什么是身份钱包(HD)?](faq/multichain-wallet/hd.md)
   * [关于子钱包](faq/multichain-wallet/sub-wallets.md)
