@@ -10,9 +10,7 @@
 
 点击下方链接查看苹果手机如何在App Store下载TokenPocket App？
 
-[https://help.tokenpocket.pro/cn/wallet-operation/download-tokenpocket-app](https://help.tokenpocket.pro/cn/wallet-operation/download-tokenpocket-app)
-
-
+[https://help.tokenpocket.pro/cn/wallet-operation/download-tokenpocket-app-1](https://help.tokenpocket.pro/cn/wallet-operation/download-tokenpocket-app-1)
 
 
 
