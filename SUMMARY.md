@@ -127,6 +127,7 @@
 * [交易所【提现资产】到钱包未到账](fqa/fail-to-receive-assets-from-exchanges.md)
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
+* [Eth 2.0服务协议](fqa/eth-2.0-fu-wu-xie-yi.md)
 
 ## 产品公告 <a href="announcement" id="announcement"></a>
 
