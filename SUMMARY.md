@@ -35,7 +35,7 @@
   * [什么是观察钱包](faq/btcwallet/shen-me-shi-guan-cha-qian-bao.md)
   * [什么是找零地址](faq/btcwallet/change-address.md)
   * [什么是UTXO](faq/btcwallet/utxo.md)
-  * [什么是OP_RETURN？](faq/btcwallet/op-return.md)
+  * [什么是OP\_RETURN？](faq/btcwallet/op-return.md)
   * [什么是路径](faq/btcwallet/path.md)
   * [什么是隔离见证](faq/btcwallet/what-is-btc-segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
@@ -127,7 +127,6 @@
 * [交易所【提现资产】到钱包未到账](fqa/fail-to-receive-assets-from-exchanges.md)
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
-* [Eth 2.0服务协议](fqa/eth-2.0-fu-wu-xie-yi.md)
 
 ## 产品公告 <a href="announcement" id="announcement"></a>
 
@@ -156,3 +155,7 @@
 
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
+
+## 相关协议 <a href="agreements" id="agreements"></a>
+
+* [Eth 2.0服务协议](agreements/eth-2.0-terms.md)
