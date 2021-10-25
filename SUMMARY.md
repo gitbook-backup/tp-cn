@@ -58,6 +58,7 @@
 
 ## 钱包操作 <a href="wallet-operation" id="wallet-operation"></a>
 
+* [如何收藏DAPP和TIP-001协议？](wallet-operation/ru-he-shou-cang-dapp-he-tip001-xie-yi.md)
 * [如何下载TokenPocket APP？](wallet-operation/download-tokenpocket-app.md)
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app-1.md)
