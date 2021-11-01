@@ -18,7 +18,7 @@
 
 <mark style="color:red;">所以，当你在使用钱包的过程中，出现以下界面的时候，就是在向你询问授权（Approve）操作，那就一定要多加小心，多次确认当前你访问的链接是否是安全、可信的，才可以继续操作！</mark>
 
-![](https://lh5.googleusercontent.com/YHbzi1kd0XiwjPtUZJAX13ee8nzQYZLOEAcUFWoxxFPalopFeqeYOL1rMPCIe8UqQPZb0TW3FjuF8mPkWZIz3nCas-DiaSCsP9aCeEbsogWfT9pxlzEqVb2zq5TJNmi5taqveVsm)
+![](../../.gitbook/assets/002.png)
 
 **授权（Approve）有什么危险？**
 
