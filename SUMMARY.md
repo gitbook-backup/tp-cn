@@ -151,7 +151,7 @@
 
 ***
 
-* [致中国境内用户：TokenPocket 产品政策调整说明](zhi-zhong-guo-jing-nei-yong-hu-tokenpocket-chan-pin-zheng-ce-tiao-zheng-shuo-ming.md)
+* [致中国境内用户：TokenPocket 产品政策调整说明](TokenPocket-product-policy-adjustment-instructions.md)
 * [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
 ## 联系我们 <a href="contact-us" id="contact-us"></a>
