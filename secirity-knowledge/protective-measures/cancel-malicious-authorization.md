@@ -2,21 +2,23 @@
 
 Approve即授权。它允许持有 Token 的用户，通过调用 Approve 方法，授权给指定账户一定额度，赋予该账户自由支配额度内 Token 的权力。如果授权给恶意账户，那么授权资产就会有极大风险。
 
+[about-approve.md](about-approve.md "mention")
+
 **如何查看钱包地址是否授权？**
 
--手机端操作教程-
+\-手机端操作教程-
 
 1.打开TokenPocket App，搜索栏搜索「CoinTool」，系统将会自动显示各条链的权限，点击您所需要查询的链，即可进入授权查询页面；
 
-![](../../.gitbook/assets/1%20%2818%29.png)
+![](<../../.gitbook/assets/1 (18).png>)
 
 2.以波场为例，点击「CoinTool（TRON权限管理）」，点击「我知道了」，进入TRX授权查询页面。
 
-![](../../.gitbook/assets/1-kao-bei-%20%283%29.png)
+![](<../../.gitbook/assets/1-kao-bei- (3).png>)
 
 3.按照提示输入您需要查询的地址，地址授权情况就会出现在下方，如果该地址未授权，则会提示「你没有授权过合约，很棒！」
 
-![](../../.gitbook/assets/1-kao-bei-2%20%284%29.png)
+![](<../../.gitbook/assets/1-kao-bei-2 (4).png>)
 
 这里是查询到该地址授权USDT的两个记录，那么界面中的说明是什么意思呢？
 
@@ -34,17 +36,17 @@ Approve即授权。它允许持有 Token 的用户，通过调用 Approve 方法
 
 
 
--电脑端操作教程-
+\-电脑端操作教程-
 
 **区块浏览器查询（以TRON为例）**
 
-1.使用电脑打开TRON区块浏览器https://tronscan.io/\#/，输入钱包地址，进入「账户」页面。点击【授权列表】，即可查看钱包地址的授权情况；
+1.使用电脑打开TRON区块浏览器https://tronscan.io/#/，输入钱包地址，进入「账户」页面。点击【授权列表】，即可查看钱包地址的授权情况；
 
-![](../../.gitbook/assets/1-kao-bei-6%20%282%29.png)
+![](<../../.gitbook/assets/1-kao-bei-6 (2).png>)
 
 2.「授权列表」中，可以查看当前授权的地址。
 
-![](../../.gitbook/assets/1-kao-bei-7%20%282%29.png)
+![](<../../.gitbook/assets/1-kao-bei-7 (2).png>)
 
 **如何确认恶意授权地址？**
 
@@ -54,17 +56,17 @@ Approve即授权。它允许持有 Token 的用户，通过调用 Approve 方法
 
 1.任意点开一个授权地址，点击【通证余额】，点开任意代币进行「通证转账」查看；
 
-![](../../.gitbook/assets/1-kao-bei-8%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-8 (1).png>)
 
 2.在部分转账中，盗币者会附上备注，以空投为诱饵，让用户通过第三方的DApp来进行兑换。这是最常见的一种获取用户授权的方法，请注意防范！！切勿不要相信任何来路不明的空投，避免因小失大！！
 
-![](../../.gitbook/assets/1-kao-bei-9%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-9 (1).png>)
 
 特征二：授权地址发行多个同类型代币
 
 1.经过授权地址查看，发现该地址发行有多个TRC10的Token内容如下：
 
-![](../../.gitbook/assets/1-kao-bei-10%20%281%29.png)
+![](<../../.gitbook/assets/1-kao-bei-10 (1).png>)
 
 2.这么多TRC10类型的Token，又不能在Swap中兑换，那肯定是另有他用，逐个点开查看Token得到以下内容：
 
@@ -83,4 +85,3 @@ Token介绍里面都附带了链接，用户打开Token介绍访问链接并授�
 在确认该授权地址为恶意地址后，打开TokenPocket，进入CoinTool授权查询页面，选择需要取消授权的合约地址，点击【取消授权】完成上链操作，即可完成。。
 
 ![](../../.gitbook/assets/1-kao-bei-12.png)
-
