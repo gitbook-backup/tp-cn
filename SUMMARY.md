@@ -133,6 +133,7 @@
 ## 产品公告 <a href="announcement" id="announcement"></a>
 
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（11/5/2021）:新版本优化及操作指引](announcement/update/ban-ben-geng-xin-ri-zhi-1152021-xin-ban-ben-you-hua-ji-cao-zuo-zhi-yin.md)
   * [版本更新日志（10/14/2021）：波卡钱包升级；兼容Sollet协议，支持更多链接钱包方式。](announcement/update/version-update-log-october-14-2021.md)
   * [版本更新日志（09/29/2021）：支持Solana；用户体验优化。](announcement/update/new-version-support-solana.md)
   * [版本更新日志（09/18/2021）：支持NFT展示；行情页面优化；用户体验优化。](announcement/update/update-new-version.md)
