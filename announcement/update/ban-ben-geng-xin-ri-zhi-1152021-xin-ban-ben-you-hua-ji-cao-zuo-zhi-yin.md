@@ -68,6 +68,10 @@ TokenPocket仍对大陆IP继续保留钱包的基础服务功能，转账、收�
 
 ![](<../../.gitbook/assets/1 拷贝 6.png>)
 
+更多了解请点击-
+
+[How to collect DAPP and TP-001 protocol.md](<../../wallet-operation/How to collect DAPP and TP-001 protocol.md> "mention")
+
 <mark style="color:red;">**目前市场上出现诸多下载TokenPocket国际版的诈骗行文，TokenPocket在此严正声明，TokenPocket没有“国际版本”，请广大用户谨防上当受骗。**</mark>
 
 <mark style="color:red;">请注意！TokenPocket作为一款自托管钱包，私钥、助记词等最重要的信息都存在用户的设备上。无论什么情况，TokenPocket都不会跟您索要私钥、助记词等！TokenPocket也不会主动与您进行任何联系，切勿相信任何自称“官方客服”的人员的联系！</mark>
