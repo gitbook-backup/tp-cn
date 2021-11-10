@@ -22,7 +22,7 @@
 * [安全措施](secirity-knowledge/protective-measures/README.md)
   * [在Telegram上如何辨别真假群管理员以及群组？](secirity-knowledge/protective-measures/zai-telegram-shang-ru-he-bian-bie-zhen-jia-qun-guan-li-yuan-yi-ji-qun-zu.md)
   * [授权（Approve）一文详解！](secirity-knowledge/protective-measures/about-approve.md)
-  * [取消恶意授权，请马上行动！](secirity-knowledge/protective-measures/cancel-malicious-authorization.md)
+  * [如何查看/取消恶意Approve（授权）？](secirity-knowledge/protective-measures/cancel-malicious-authorization.md)
   * [三步辨别真假官网 手把手教你下载TokenPocket APP](secirity-knowledge/protective-measures/identify-the-official-website.md)
   * [资产防丢](secirity-knowledge/protective-measures/assests-loss-prevention.md)
   * [资产防盗](secirity-knowledge/protective-measures/assets-theft-prevention.md)
