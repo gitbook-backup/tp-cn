@@ -22,6 +22,8 @@ OKExChain: [https://github.com/TP-Lab/tokens/tree/master/okexchain](https://gith
 
 Polygon (Matic): [https://github.com/TP-Lab/tokens/tree/master/polygon(matic)](https://github.com/TP-Lab/tokens/tree/master/polygon\(matic\))
 
+IOST: [https://github.com/TP-Lab/tokens/tree/master/iost](https://github.com/TP-Lab/tokens/tree/master/iost)
+
 ### **所需资料如下：**‌
 
 **1.代币图标**
@@ -35,7 +37,7 @@ Polygon (Matic): [https://github.com/TP-Lab/tokens/tree/master/polygon(matic)](h
 ```
 {% endcode %}
 
-提示：你可以使用以下工具裁剪图标大小： 
+提示：你可以使用以下工具裁剪图标大小：&#x20;
 
 1）[onlinepngtools](https://onlinepngtools.com/resize-png) 可将图片大小裁剪为 256 x 256‌
 
@@ -95,9 +97,9 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 2\. 点击【直接转账】进入页面，输入收款账号和3000 TPT数量，然后选择矿工费，点击【确认】，确认信息无误后点击【确认支付】完成3000 TPT的转账。‌
 
-**注意：**收款地址为 **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** （可底下扫码获取）。仅支持收取BSC、HECO以及ETH链上的TPT，请转账前再三确认！ 
+**注意：**收款地址为 **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** （可底下扫码获取）。仅支持收取BSC、HECO以及ETH链上的TPT，请转账前再三确认！&#x20;
 
-  
+&#x20;&#x20;
 
 ![](../.gitbook/assets/code.jpeg)
 
@@ -194,4 +196,4 @@ TokenPocket团队允许任何人向原仓库提交代币申请。 但是，这�
 管理员在进一步验证后，将在 request进行合并。 如果有任何其他需要或需更改的地方，将以链上信息为准进行订正。‌
 
 管理员将Pull request合并后，代币的图标即可更新。**请勿重复提交Pull request !** 感谢你的耐心等待。[\
-](https://app.gitbook.com/@tokenpocket-gm/s/tutorial-series/\~/drafts/-M_yHrzLg8i88f4fnBpi/the-usage-tutorial-of-okexchain-test-okex)
+](https://app.gitbook.com/@tokenpocket-gm/s/tutorial-series/\~/drafts/-M\_yHrzLg8i88f4fnBpi/the-usage-tutorial-of-okexchain-test-okex)
