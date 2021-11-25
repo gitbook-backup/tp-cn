@@ -24,6 +24,18 @@ Polygon (Matic): [https://github.com/TP-Lab/tokens/tree/master/polygon(matic)](h
 
 IOST: [https://github.com/TP-Lab/tokens/tree/master/iost](https://github.com/TP-Lab/tokens/tree/master/iost)
 
+Solana: [https://github.com/TP-Lab/tokens/tree/master/solana](https://github.com/TP-Lab/tokens/tree/master/solana)
+
+Fantom: [https://github.com/TP-Lab/tokens/tree/master/fantom](https://github.com/TP-Lab/tokens/tree/master/fantom)
+
+Klaytn: [https://github.com/TP-Lab/tokens/tree/master/klaytn](https://github.com/TP-Lab/tokens/tree/master/klaytn)
+
+Arbitrum: [https://github.com/TP-Lab/tokens/tree/master/arbitrum](https://github.com/TP-Lab/tokens/tree/master/arbitrum)
+
+Avalanche-C: [https://github.com/TP-Lab/tokens/tree/master/Avalanche-C](https://github.com/TP-Lab/tokens/tree/master/Avalanche-C)
+
+Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://github.com/TP-Lab/tokens/tree/master/optimistic)
+
 ### **所需资料如下：**‌
 
 **1.代币图标**
