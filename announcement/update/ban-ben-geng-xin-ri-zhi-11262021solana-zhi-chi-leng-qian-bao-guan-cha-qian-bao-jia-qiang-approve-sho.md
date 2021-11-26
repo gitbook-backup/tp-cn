@@ -20,7 +20,7 @@ iOS：1.7.0
 
 5.优化自定义网络模块，断网时也能添加自定义网络
 
-6.优化walletConnect稳定性
+6.优化WalletConnect稳定性
 
 7.EVM链交易面板显示数据详情
 
@@ -39,3 +39,7 @@ iOS：1.7.0
 <mark style="color:red;">请注意：不要参与来路不明的DApp，不要参与没有开源的DApp，不要参与没有审计报告的DApp，不要参与匿名团队的DApp，不要轻信社区传播的任何项目。</mark>
 
 ![](<../../.gitbook/assets/image (21).png>)
+
+**【版本更新方式】**‌
+
+App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[https://tokenpocket.pro/](https://tokenpocket.pro)）
