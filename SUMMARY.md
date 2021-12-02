@@ -135,8 +135,8 @@
 
 ## 产品公告 <a href="#announcement" id="announcement"></a>
 
-* [公告专区](announcement/announcement.md)
-* [2021/12/02关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
+* [公告专区](announcement/announcement/README.md)
+  * [2021/12/02关于EOS节点维护升级的通知](announcement/announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
   * [版本更新日志（11/26/2021）:Solana支持冷钱包/观察钱包；加强Approve授权提醒。](announcement/update/ban-ben-geng-xin-ri-zhi-11262021solana-zhi-chi-leng-qian-bao-guan-cha-qian-bao-jia-qiang-approve-sho.md)
   * [版本更新日志（11/5/2021）:新版本优化及操作指引](announcement/update/ban-ben-geng-xin-ri-zhi-1152021-xin-ban-ben-you-hua-ji-cao-zuo-zhi-yin.md)
