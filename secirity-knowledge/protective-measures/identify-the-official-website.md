@@ -6,11 +6,11 @@
 
 1.确认浏览器中输入的域名为：[https://tokenpocket.pro/](https://tokenpocket.pro) 注：务必使用 https 协议访问官网，而非 http。
 
-重要的事说三遍！！ 
+重要的事说三遍！！&#x20;
 
 **请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)** **
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81) ****&#x20;
 
 **请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)****
 
@@ -112,9 +112,9 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 注意：在 App Store 中以下这些均为假冒 TokenPocket App：
 
-\-TokenPocket-Novel 
+\-TokenPocket-Novel&#x20;
 
-\-TokenPocket-Climb 
+\-TokenPocket-Climb&#x20;
 
 \-TokenPocket Diary
 
