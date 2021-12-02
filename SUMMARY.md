@@ -2,14 +2,14 @@
 
 * [帮助文档](README.md)
 
-## 基础知识 <a href="the-basics" id="the-basics"></a>
+## 基础知识 <a href="#the-basics" id="the-basics"></a>
 
 * [什么是区块链？](the-basics/what-is-blockchain.md)
 * [什么是去中心化钱包？](the-basics/what-is-a-decentralized-wallet.md)
 * [什么是私钥、助记词和密码？](the-basics/what-is-a-private-key-mnemonic-and-password.md)
 * [什么是矿工费？](the-basics/what-is-the-miner-fee.md)
 
-## 安全知识 <a href="secirity-knowledge" id="secirity-knowledge"></a>
+## 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
   * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
@@ -28,7 +28,7 @@
   * [资产防丢](secirity-knowledge/protective-measures/assests-loss-prevention.md)
   * [资产防盗](secirity-knowledge/protective-measures/assets-theft-prevention.md)
 
-## 钱包常见问题 <a href="faq" id="faq"></a>
+## 钱包常见问题 <a href="#faq" id="faq"></a>
 
 * [Solana钱包](faq/solana-wallet/README.md)
   * [关于Solana“关联账号”](faq/solana-wallet/associated-account.md)
@@ -59,7 +59,7 @@
   * [关于子钱包](faq/multichain-wallet/sub-wallets.md)
   * [什么是私钥](faq/multichain-wallet/private-key.md)
 
-## 钱包操作 <a href="wallet-operation" id="wallet-operation"></a>
+## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
 * [如何创建DApp List?](wallet-operation/How-to-create-dapp-list.md)
 * [如何收藏DAPP和TIP-001协议？](wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md)
@@ -76,7 +76,7 @@
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
 
-## 钱包管理 <a href="wallet-management" id="wallet-management"></a>
+## 钱包管理 <a href="#wallet-management" id="wallet-management"></a>
 
 * [如何隐藏钱包？](wallet-management/hide-wallet-network.md)
 * [如何创建钱包？](wallet-management/create-wallet.md)
@@ -86,14 +86,14 @@
 * [如何同步钱包？](wallet-management/wallet-sync.md)
 * [如何一键迁移钱包数据？](wallet-management/wallet-data-migration.md)
 
-## 代币管理 <a href="token-management" id="token-management"></a>
+## 代币管理 <a href="#token-management" id="token-management"></a>
 
 * [如何添加代币？](token-management/add-token.md)
 * [如何搜索代币？](token-management/search-token.md)
 * [如何删除代币？](token-management/delete-token.md)
 * [如何提交代币？](token-management/submit-token.md)
 
-## 转账教程 <a href="transfer-tutorial" id="transfer-tutorial"></a>
+## 转账教程 <a href="#transfer-tutorial" id="transfer-tutorial"></a>
 
 * [如何收款？](transfer-tutorial/receive-token.md)
 * [如何转账到钱包/交易所？](transfer-tutorial/transfer-to-the-wallet-or-exchange.md)
@@ -102,7 +102,7 @@
 * [如何在发起转账时添加memo？](transfer-tutorial/add-memo.md)
 * [关于转账的安全事项](transfer-tutorial/about-safe-transfer.md)
 
-## DeFi教程 <a href="about-defi" id="about-defi"></a>
+## DeFi教程 <a href="#about-defi" id="about-defi"></a>
 
 ***
 
@@ -124,7 +124,7 @@
   * [PuddingSwap（HSC）使用教程](how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](how-to-trade-on-dex/dex-sushi.md)
 
-## 常见问题 <a href="fqa" id="fqa"></a>
+## 常见问题 <a href="#fqa" id="fqa"></a>
 
 * [我往合约转账了怎么办？](fqa/do-not-transfer-to-contract-address.md)
 * [不同公链间不能直接转账](fqa/transfer-from-different-chains.md)
@@ -133,9 +133,10 @@
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
 
-## 产品公告 <a href="announcement" id="announcement"></a>
+## 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
+* [关于EOS节点维护升级的通知](announcement/guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
   * [版本更新日志（11/26/2021）:Solana支持冷钱包/观察钱包；加强Approve授权提醒。](announcement/update/ban-ben-geng-xin-ri-zhi-11262021solana-zhi-chi-leng-qian-bao-guan-cha-qian-bao-jia-qiang-approve-sho.md)
   * [版本更新日志（11/5/2021）:新版本优化及操作指引](announcement/update/ban-ben-geng-xin-ri-zhi-1152021-xin-ban-ben-you-hua-ji-cao-zuo-zhi-yin.md)
@@ -160,11 +161,11 @@
 * [致中国境内用户：TokenPocket 产品政策调整说明](TokenPocket-product-policy-adjustment-instructions.md)
 * [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
-## 联系我们 <a href="contact-us" id="contact-us"></a>
+## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
 
-## 相关协议 <a href="agreements" id="agreements"></a>
+## 相关协议 <a href="#agreements" id="agreements"></a>
 
 * [Eth 2.0服务协议](agreements/eth-2.0-terms.md)
