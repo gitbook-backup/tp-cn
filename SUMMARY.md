@@ -20,7 +20,6 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
-  * [如果使用Approve查看/取消授权？](secirity-knowledge/protective-measures/How-to-check/cancel-Approval-in-\[Approve].md)
   * [在Telegram上如何辨别真假群管理员以及群组？](secirity-knowledge/protective-measures/zai-telegram-shang-ru-he-bian-bie-zhen-jia-qun-guan-li-yuan-yi-ji-qun-zu.md)
   * [授权（Approve）一文详解！](secirity-knowledge/protective-measures/about-approve.md)
   * [如何查看/取消恶意Approve（授权）？](secirity-knowledge/protective-measures/cancel-malicious-authorization.md)
