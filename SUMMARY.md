@@ -113,7 +113,7 @@
   * [TokenPocket一文带你玩转Avalanche!](how-to-trade-on-dex/avalanche-use-guide.md)
   * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/fantom-use-guide.md)
   * [TokenPocket一文带你玩转Arbitrum!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
-  * [跨链聚合闪兑平台Xswap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
+  * [跨链聚合闪兑平台Transit Swap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
   * [如何在TokenPocket玩转Polygon（Matic）?](how-to-trade-on-dex/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
   * [如何在TokenPocket使用Klaytn?](how-to-trade-on-dex/klaytn-use-guide.md)
   * [Uniswap（以太坊）使用教程](how-to-trade-on-dex/dex-uniswap.md)
