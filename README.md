@@ -10,6 +10,8 @@
 
 * 客服邮箱：service@tokenpocket.pro
 * 商务邮箱：bd@tokenpocket.pro
+* 提交DApp：dapp@tokenpocket.pro
+* 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro)
 
 **项目方**
 
