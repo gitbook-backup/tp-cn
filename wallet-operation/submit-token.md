@@ -14,7 +14,7 @@ HECO：[https://github.com/TP-Lab/tokens/tree/master/heco](https://github.com/TP
 
 TRON： 目前暂不支持上传Tron​链的代币图标，请勿提交。‌
 
-EOS：[https://github.com/TP-Lab/tokens/tree/master/eos](https://github.com/TP-Lab/tokens/tree/master/eos)​‌
+EOS：目前暂不支持上传EOS​链的代币图标，请勿提交。‌​‌
 
 HSC：[https://github.com/TP-Lab/tokens/tree/master/hsc](https://github.com/TP-Lab/tokens/tree/master/hsc)‌
 
