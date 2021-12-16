@@ -4,7 +4,7 @@
 
 :mobile\_phone:手机端下载：🍎 [**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697) **** 🤖 [**安卓**](https://play.google.com/store/apps/details?id=vip.mytokenpocket) 。
 
-![](<.gitbook/assets/image (21).png>)
+![](<.gitbook/assets/画板 1 拷贝.png>)
 
 **客服咨询**
 
