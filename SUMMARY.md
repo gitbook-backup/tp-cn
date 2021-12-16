@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TokenPocket](README.md)
+* [TokenPocket简介](README.md)
 
 ## 基础知识 <a href="#the-basics" id="the-basics"></a>
 
