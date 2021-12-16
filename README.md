@@ -17,5 +17,5 @@ TokenPocket是全球领先的多链自托管钱包，支持BTC、ETH、BSC、Pol
 
 **关注我们**
 
-[官方网站](https://www.tokenpocket.pro) |  [Medium](https://medium.com/@tokenpocket.gm)  |  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://help.tokenpocket.pro/cn/) ｜[Discord](https://discord.gg/bjzwFT5Rzj) ｜[Telegram](https://t.me/Transit\_Finance)
+[官方网站](https://www.tokenpocket.pro) |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://twitter.com/TokenPocket\_TP)｜[Github](https://help.tokenpocket.pro/cn/) ｜[Discord](https://discord.gg/bjzwFT5Rzj)&#x20;
 
