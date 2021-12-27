@@ -7,6 +7,7 @@
 * 提交DApp：dapp@tokenpocket.pro
 * 微信公众号：TokenPocket钱包
 * 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro)
+* Discord: [https://discord.gg/bjzwFT5Rzj](https://discord.gg/bjzwFT5Rzj)
 
 
 
@@ -18,4 +19,4 @@
 
 **关注我们**
 
-[官方网站](https://www.tokenpocket.pro)  ｜ [新浪微博](https://weibo.com/u/6482870061?is\_all=1)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Medium](https://medium.com/@tokenpocket.gm)  |  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://twitter.com/TokenPocket\_TP) | [YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A)
+[官方网站](https://www.tokenpocket.pro)  ｜ [新浪微博](https://weibo.com/u/6482870061?is\_all=1)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Medium](https://medium.com/@tokenpocket.gm)  |  [Twitter](https://medium.com/@tokenpocket.gm)｜[Github](https://twitter.com/TokenPocket\_TP) | [YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) | [Discord](https://discord.gg/bjzwFT5Rzj)

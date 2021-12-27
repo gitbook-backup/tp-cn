@@ -12,6 +12,7 @@
 * 商务邮箱：bd@tokenpocket.pro
 * 提交DApp：dapp@tokenpocket.pro
 * 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro)
+* Discord: [https://discord.gg/bjzwFT5Rzj](https://discord.gg/bjzwFT5Rzj)
 
 **项目方**
 
