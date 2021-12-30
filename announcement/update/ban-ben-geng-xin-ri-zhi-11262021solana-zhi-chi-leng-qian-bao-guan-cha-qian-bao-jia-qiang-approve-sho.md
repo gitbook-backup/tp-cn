@@ -38,7 +38,7 @@ iOS：1.7.0
 
 <mark style="color:red;">请注意：不要参与来路不明的DApp，不要参与没有开源的DApp，不要参与没有审计报告的DApp，不要参与匿名团队的DApp，不要轻信社区传播的任何项目。</mark>
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1).png>)
 
 **【版本更新方式】**‌
 
