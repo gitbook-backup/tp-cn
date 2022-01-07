@@ -70,7 +70,7 @@
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
-* [如何使用观察钱包以及冷钱包？](wallet-operation/ru-he-shi-yong-guan-cha-qian-bao-yi-ji-leng-qian-bao.md)
+* [如何使用观察钱包以及冷钱包？](wallet-operation/how-to-use-watch-wallet-cold-wallet.md)
 * [如何创建DApp List?](wallet-operation/How-to-create-dapp-list.md)
 * [如何收藏DAPP和TIP-001协议？](wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md)
 * [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
