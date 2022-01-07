@@ -60,6 +60,7 @@
 
 ## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
+* [如何使用观察钱包以及冷钱包？](wallet-operation/ru-he-shi-yong-guan-cha-qian-bao-yi-ji-leng-qian-bao.md)
 * [如何创建DApp List?](wallet-operation/How-to-create-dapp-list.md)
 * [如何收藏DAPP和TIP-001协议？](wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md)
 * [如何下载TokenPocket APP？](wallet-operation/download-tokenpocket-app.md)
