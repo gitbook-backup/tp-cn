@@ -60,14 +60,9 @@
 
 ## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
-* [如何使用观察钱包以及冷钱包？](wallet-operation/ru-he-shi-yong-guan-cha-qian-bao-yi-ji-leng-qian-bao.md)
-* [如何创建DApp List?](wallet-operation/How-to-create-dapp-list.md)
-* [如何收藏DAPP和TIP-001协议？](wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md)
 * [如何下载TokenPocket APP？](wallet-operation/download-tokenpocket-app.md)
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app-1.md)
-* [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
-  * [为什么不能直接往合约地址转账？](wallet-operation/about-public-chain-transfer/not-transfer-to-contract.md)
 * [关于自定义代币](wallet-operation/about-custom-token.md)
 * [如何自主更新代币图标？](wallet-operation/submit-token.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
@@ -75,6 +70,11 @@
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
+* [如何使用观察钱包以及冷钱包？](wallet-operation/ru-he-shi-yong-guan-cha-qian-bao-yi-ji-leng-qian-bao.md)
+* [如何创建DApp List?](wallet-operation/How-to-create-dapp-list.md)
+* [如何收藏DAPP和TIP-001协议？](wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md)
+* [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
+  * [为什么不能直接往合约地址转账？](wallet-operation/about-public-chain-transfer/not-transfer-to-contract.md)
 
 ## 钱包管理 <a href="#wallet-management" id="wallet-management"></a>
 
