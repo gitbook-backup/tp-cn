@@ -159,7 +159,7 @@
 
 ***
 
-* [NFT应用功能说明](nft-ying-yong-gong-neng-shuo-ming.md)
+* [NFT应用功能说明](nft-application.md)
 * [致中国境内用户：TokenPocket 产品政策调整说明](TokenPocket-product-policy-adjustment-instructions.md)
 * [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
