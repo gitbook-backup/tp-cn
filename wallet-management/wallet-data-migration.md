@@ -31,7 +31,7 @@
 
 6、在接收设备上点击【使用“文件“打开】；
 
-![](../.gitbook/assets/qian-yi-6.jpg)
+![](<../.gitbook/assets/5 (7).png>)
 
 7、点击【存储】；
 
@@ -45,7 +45,7 @@
 
 **注意：在另一设备上成功导入数据后，请将接收的文件删除。**
 
-![](../.gitbook/assets/qian-yi-9.jpg)
+![](<../.gitbook/assets/6 (5).png>)
 
 ****
 
@@ -54,7 +54,7 @@
 **安卓手机操作步骤：**\
 ****1、打开TokenPocket，点击底部【我的】；
 
-![](../.gitbook/assets/qian-yi-1.jpg)
+![](<../.gitbook/assets/7 (2).png>)
 
 2、点击【一键迁移】；
 
