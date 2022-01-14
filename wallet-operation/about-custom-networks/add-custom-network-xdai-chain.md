@@ -14,7 +14,7 @@ description: 本教程通过自定义网络添加xDAI Chain进行演示
 
 1、打开TokenPocket钱包，点击右上角第一个图标【添加钱包】；
 
-![](<../../.gitbook/assets/1 (35).png>)
+![](<../../.gitbook/assets/1 (35) (1).png>)
 
 2、列表拉到底部，点击【添加自定义网络】；
 

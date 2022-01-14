@@ -19,7 +19,7 @@
 
 3、点击【开始迁移】；
 
-![](<../.gitbook/assets/2 (22).png>)
+![](<../.gitbook/assets/2 (22) (1).png>)
 
 4、如需迁移至**同一设备上**的TokenPocket Pro版本，在弹出的窗口找到并点击【TokenPocket Pro】进行传送即可；
 
