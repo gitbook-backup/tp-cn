@@ -36,7 +36,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 5.请认准APP发布者信息为TOKENPOCKET FOUNDATION LTD.，其余均为假冒软件，谨防受骗！
 
-![](<../.gitbook/assets/2 (18).png>)
+![](<../.gitbook/assets/2 (18) (1).png>)
 
 **TOKENPOCKET钱包迁移教程**
 
@@ -46,7 +46,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 2.点击【开始迁移】，在下方工具栏中找到App store版TokenPocket APP进行钱包数据迁移。至此，您已完成将TestFlight版TokenPocket APP钱包数据迁移至App store版TokenPocket APP的操作。
 
-![](<../.gitbook/assets/3 (16).png>)
+![](<../.gitbook/assets/3 (16) (1).png>)
 
 **注意：**
 

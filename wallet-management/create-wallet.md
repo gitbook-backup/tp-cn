@@ -1,16 +1,16 @@
 # 如何创建钱包？
 
-1、打开TokenPocket钱包后，点击【我没有钱包】；  
+1、打开TokenPocket钱包后，点击【我没有钱包】； &#x20;
 
-![](../.gitbook/assets/11.png)
+![](<../.gitbook/assets/1 (32).png>)
 
 2、选择想要创建的底层钱包；（此处以以太坊钱包为例）
 
-![](../.gitbook/assets/10%20%281%29.png)
+![](<../.gitbook/assets/10 (1).png>)
 
 3、点击【创建钱包】；
 
-![](../.gitbook/assets/4%20%283%29.png)
+![](<../.gitbook/assets/4 (3).png>)
 
 4、依次设置【钱包名】和【密码】，然后勾选【服务及隐私条款】，点击【创建钱包】；
 
@@ -26,5 +26,4 @@
 
 7、至此，您的新钱包已经创建成功。
 
-![](../.gitbook/assets/8%20%281%29.png)
-
+![](<../.gitbook/assets/2 (16).png>)

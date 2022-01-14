@@ -11,23 +11,23 @@
 **iOS手机操作步骤：**\
 1、打开TokenPocket，点击底部【我的】；
 
-![](../.gitbook/assets/qian-yi-1.jpg)
+![](<../.gitbook/assets/1 (22).png>)
 
-2、点击【钱包数据迁移】；
+2、点击【系统设置】，点击【钱包数据迁移】；
 
-![](../.gitbook/assets/qian-yi-2.jpg)
 
-3、点击【开始迁移】；（下载TokenPocket Pro版本可以点击【安装指引】进行安装Pro版本。）
 
-![](../.gitbook/assets/qian-yi-3.jpg)
+3、点击【开始迁移】；
+
+![](<../.gitbook/assets/2 (22).png>)
 
 4、如需迁移至**同一设备上**的TokenPocket Pro版本，在弹出的窗口找到并点击【TokenPocket Pro】进行传送即可；
 
-![](../.gitbook/assets/qian-yi-5.png)
+![](<../.gitbook/assets/3 (15).png>)
 
 5、如需将钱包数据进行迁移到**另一部设备**上，点击【AirDrop】功能传送数据至接收设备；
 
-![](<../.gitbook/assets/qian-yi-4 (1).jpg>)
+![](<../.gitbook/assets/4 (13).png>)
 
 6、在接收设备上点击【使用“文件“打开】；
 

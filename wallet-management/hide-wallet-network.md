@@ -2,15 +2,15 @@
 
 1.打开TokenPocket后，点击左上角的钱包名；
 
-![](<../.gitbook/assets/1 (23).png>)
+![](<../.gitbook/assets/1 (27).png>)
 
 2.点击左上角钱包图案，可对钱包进行排序和管理；
 
-![](<../.gitbook/assets/2 (16).png>)
+![](<../.gitbook/assets/2 (17).png>)
 
 3.进入管理钱包页面，点击左下角图案（如图）；
 
-![](<../.gitbook/assets/3 (15).png>)
+![](<../.gitbook/assets/3 (17).png>)
 
 4.点击【网络管理】，进入网络管理页面；
 

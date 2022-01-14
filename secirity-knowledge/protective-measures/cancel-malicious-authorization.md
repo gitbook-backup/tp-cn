@@ -12,7 +12,7 @@ Approve即授权。它允许持有 Token 的用户，通过调用 Approve 方法
 
 <mark style="color:red;">**注：DeBank目前暂不支持TRON授权管理查询，请在本文最下方查阅取消TRON恶意授权操作教程。**</mark>
 
-![](<../../.gitbook/assets/1 (22) (1).png>)
+![](<../../.gitbook/assets/1 (22) (1) (1).png>)
 
 2）以BSC地址为例，授权页面会出现钱包余额，其中Token总敞口为Token的总价值；点击价格旁边的小三角形，会出现该代币的相关授权信息：
 

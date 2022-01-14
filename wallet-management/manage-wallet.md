@@ -2,7 +2,7 @@
 
 1、打开TokenPocket后，点击右下角【我的】- 选择【钱包管理】；
 
-![](../.gitbook/assets/guan-li-qian-bao-2.png)
+![](<../.gitbook/assets/1 (23).png>)
 
 2、点击右上角的【排序】按钮可对多个钱包进行排序；
 

@@ -2,11 +2,9 @@
 
 1、打开TokenPocket后，点击左上角的钱包名；
 
-![](../.gitbook/assets/qie-huan-1.png)
+![](<../.gitbook/assets/1 (30).png>)
 
 2、点击需要切换的钱包即可。
 
 ![](../.gitbook/assets/qie-huan-2.jpg)
-
-
 
