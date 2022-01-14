@@ -14,4 +14,4 @@
 
 三、假冒TokenPocket电报群管理员进行欺骗：
 
-![](<../../.gitbook/assets/3 (19).png>)
+![](<../../.gitbook/assets/3 (19) (1).png>)
