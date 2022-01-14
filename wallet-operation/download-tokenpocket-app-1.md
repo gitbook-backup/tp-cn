@@ -32,7 +32,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 4.登录完成后，在App Store里搜索“TokenPocket”，即可下载正版TokenPocket App;
 
-![](<../.gitbook/assets/1 (23).png>)
+![](<../.gitbook/assets/1 (23) (1).png>)
 
 5.请认准APP发布者信息为TOKENPOCKET FOUNDATION LTD.，其余均为假冒软件，谨防受骗！
 
