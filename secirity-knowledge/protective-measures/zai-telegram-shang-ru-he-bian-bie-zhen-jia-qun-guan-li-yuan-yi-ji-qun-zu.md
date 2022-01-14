@@ -8,7 +8,7 @@
 
 真假管理Telegram个人名片信息对比
 
-![](https://telegra.ph/file/5c8e6f1ff56f1c7c7a34e.png)
+![](<../../.gitbook/assets/1 (26).png>)
 
 2\. Groups in common 共同群。假管理员，声称是客服/助手，然后居然没有跟你在同一个群里面，这也太可疑了吧？真实管理员，至少和你有一个共同群。
 
@@ -28,13 +28,15 @@
 1. 确保你是从[唯一TP钱包官网](http://tokenpocket.pro)或者官网上下载的钱包里面跳转到的群组。
 2. 目前唯一TP中文电报群链接为：https://t.me/tokenpocket\_cn。请务必认准
 
-![](https://telegra.ph/file/adaef834e958d8426719a.png)
+![](<../../.gitbook/assets/2 (24).png>)
 
 目前出现一个假群，链接为：https://t.me/tokenpocket\_C。与真实群的链接还是有所不同的。
 
 假群以及群链接，未来骗子有可能还会再更改
 
-![](https://telegra.ph/file/d9eac2d9ac29a1c53a51f.png)
+![](<../../.gitbook/assets/3 (17).png>)
+
+
 
 3\. 做好telegram个人隐私设置，不让其他人随意拉你进群。假管理员之前是有潜伏在真实的TP telegram社群一段时间（我们发现后第一时间将其移除），可能会利用一些科学手段，将真群的用户拉到假群，并且假群乍一看信息还和真实群及其相似,就上当了。那么如何防止这种情况发生呢？我们需要在别人邀请你进群的权限上做好设置，不让别人随意邀请你进入假群，诈骗群，以下为设置教程：
 

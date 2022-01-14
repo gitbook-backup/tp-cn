@@ -2,7 +2,7 @@
 
 1、打开TokenPocket钱包后，点击【我没有钱包】； &#x20;
 
-![](<../.gitbook/assets/1 (32).png>)
+![](<../.gitbook/assets/1 (34).png>)
 
 2、选择想要创建的底层钱包；（此处以以太坊钱包为例）
 
