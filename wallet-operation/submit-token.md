@@ -53,7 +53,7 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 1）[onlinepngtools](https://onlinepngtools.com/resize-png) 可将图片大小裁剪为 256 x 256‌
 
-![](../.gitbook/assets/1.jpg)
+![](../.gitbook/assets/如何自主更新代币图标？.png)
 
 2）[TinyPNG](https://tinypng.com) 可压缩优化图片大小
 
