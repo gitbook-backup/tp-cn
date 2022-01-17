@@ -110,6 +110,7 @@
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
+  * [TokenPocket带你一文玩转WAX！](how-to-trade-on-dex/tokenpocket-dai-ni-yi-wen-wan-zhuan-wax.md)
   * [TokenPocket一文带你玩转Solana!](how-to-trade-on-dex/solana-use-guide.md)
   * [TokenPocket一文带你玩转Avalanche!](how-to-trade-on-dex/avalanche-use-guide.md)
   * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/fantom-use-guide.md)
