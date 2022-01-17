@@ -140,6 +140,7 @@
 * [公告专区](announcement/announcement.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（01/17/2022): 支持WAX；支持NFT应用场景；支持NFT图片下载等。](announcement/update/version-update-log-January-17-2022.md)
   * [版本更新日志（12/31/2021):适配KeyPal硬件钱包，官网新增硬件钱包入口](announcement/update/version-update-log-dec-31-2021-support-keypal-hardware-wallet.md)
   * [版本更新日志（11/26/2021）:Solana支持冷钱包/观察钱包；加强Approve授权提醒。](announcement/update/ban-ben-geng-xin-ri-zhi-11262021solana-zhi-chi-leng-qian-bao-guan-cha-qian-bao-jia-qiang-approve-sho.md)
   * [版本更新日志（11/5/2021）:新版本优化及操作指引](announcement/update/ban-ben-geng-xin-ri-zhi-1152021-xin-ban-ben-you-hua-ji-cao-zuo-zhi-yin.md)
