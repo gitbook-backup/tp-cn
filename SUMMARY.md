@@ -60,6 +60,7 @@
 
 ## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
+* [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/set-nft.md)
 * [如何下载TokenPocket APP？](wallet-operation/download-tokenpocket-app.md)
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app-1.md)
@@ -110,7 +111,7 @@
 * [什么是DEX?](about-dex.md)
 * [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
-  * [TokenPocket带你一文玩转WAX！](how-to-trade-on-dex/tokenpocket-dai-ni-yi-wen-wan-zhuan-wax.md)
+  * [TokenPocket带你一文玩转WAX！](how-to-trade-on-dex/wax-use-guide.md)
   * [TokenPocket一文带你玩转Solana!](how-to-trade-on-dex/solana-use-guide.md)
   * [TokenPocket一文带你玩转Avalanche!](how-to-trade-on-dex/avalanche-use-guide.md)
   * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/fantom-use-guide.md)
