@@ -1,6 +1,10 @@
 # 如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？
 
-打开TokenPoctet APP，点击【详情】，点击右上角皮肤图案，进入设置页面；
+1.打开TokenPoctet APP，进入资产页面，点击【NFT】，点击右方【+】添加您的NFT资产。在搜索栏或自定义添加NFT中输入NFT合约地址，点击【+】即可添加。
+
+![](<../.gitbook/assets/nft7 zh.png>)
+
+2.打开TokenPoctet APP，点击【详情】，点击右上角皮肤图案，进入设置页面；
 
 ![](<../.gitbook/assets/nft1 zh.png>)
 
