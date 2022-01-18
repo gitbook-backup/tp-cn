@@ -63,3 +63,7 @@ iOS: 1.7.3
 点击左上角圆点，即可进入切换节点的页面。
 
 ![](../../.gitbook/assets/切换节点zh.png)
+
+**【版本更新方式】**
+
+App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：https://tokenpocket.pro/）
