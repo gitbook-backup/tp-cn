@@ -4,7 +4,7 @@
 
 Android最新版本号：1.2.2
 
-iOS pro/+/++/A 3.1.2\(79\) plus 3.1.2\(79\)
+iOS pro/+/++/A 3.1.2(79) plus 3.1.2(79)
 
 App Store 1.5.5
 
@@ -12,7 +12,7 @@ App Store 1.5.5
 
 1 OKExChain TEST
 
-2 Heco WalletConnect  
+2 Heco WalletConnect &#x20;
 
 3 波卡投票优化
 
@@ -40,7 +40,7 @@ App Store 1.5.5
 
 * 新增OKExChain测试链，摆脱在以太坊下测试节点的繁琐步骤，新建或导入钱包后可以查看到自己的测试代币类型和数量（测试币陆续添加中）。
 
-![](../../.gitbook/assets/1%20%284%29.png)
+![](<../../.gitbook/assets/1 (4).png>)
 
 * 部分链节点新增可查看区块高度，选中区块高度越大，延迟率越低的节点可以带来更好的DApp体验
 
@@ -48,9 +48,6 @@ App Store 1.5.5
 
 * HECO链支持WalletConnect，多一种方式来实现登录操作DApp
 
-![](../../.gitbook/assets/3%20%284%29.png)
+![](<../../.gitbook/assets/3 (4).png>)
 
 * 更多细节优化等您体验。
-
-![&#x8BC6;&#x522B;&#x4E0B;&#x8F7D;TP&#x94B1;&#x5305;](../../.gitbook/assets/9%20%283%29.png)
-
