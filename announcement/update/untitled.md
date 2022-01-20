@@ -4,7 +4,7 @@
 
 Android最新版本号：1.1.6
 
-iOS pro 3.1.3(70)  App Store 1.4.8
+iOS pro 3.1.3\(70\)  App Store 1.4.8
 
 **【主要更新内容】**
 
@@ -22,6 +22,13 @@ iOS pro 3.1.3(70)  App Store 1.4.8
 
 **【更新功能介绍】**
 
-**#1. 支持Polkadot公链，新老用户都可以通过钱包的添加底层界面进行Polkadot的导入或创建。（**[**波卡钱包创建**](https://www.yuque.com/tokenpocket/gz8u7f/cf034q)**）**
+**\#1. 支持Polkadot公链，新老用户都可以通过钱包的添加底层界面进行Polkadot的导入或创建。（**[**波卡钱包创建**](https://www.yuque.com/tokenpocket/gz8u7f/cf034q)**）**
 
-**#2. 支持Polkadot公链，新老用户都可以通过钱包的添加底层界面进行Kusama的导入或创建。**
+![](../../.gitbook/assets/1%20%283%29.png)
+
+**\#2. 支持Polkadot公链，新老用户都可以通过钱包的添加底层界面进行Kusama的导入或创建。**
+
+![](../../.gitbook/assets/001.png)
+
+![](../../.gitbook/assets/7cbb00bcd911383efcb68975f3c8e2d.jpg)
+
