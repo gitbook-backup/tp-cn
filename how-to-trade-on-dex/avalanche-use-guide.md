@@ -6,35 +6,35 @@ Avalanche雪崩协议是对开发者最为友好的、可定制化高性能公�
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Avalanche，点击【添加钱包】；
 
-![](../.gitbook/assets/1-kao-bei-%20%284%29.png)
+![](<../.gitbook/assets/1 (48).png>)
 
 2、点击【创建钱包】，继续点击【创建钱包】；
 
-![](../.gitbook/assets/1-kao-bei-2%20%285%29.png)
+![](<../.gitbook/assets/2 (27).png>)
 
 3、依次设置【钱包名称】和【密码】，然后勾选【服务及隐私条款】，点击【创建钱包】；然后开始备份助记词，点击【备份完成，进行验证】；
 
 **注意：请勿将助记词透露给任何人！**
 
-![](../.gitbook/assets/1-kao-bei-3%20%285%29.png)
+![](<../.gitbook/assets/3 (20).png>)
 
 4、按照顺序验证助记词，然后点击【确认】。至此，你已经成功创建Avalanche钱包。
 
-![](../.gitbook/assets/1-kao-bei-4%20%283%29.png)
+![](<../.gitbook/assets/4 (14).png>)
 
 **如何在TokenPocket导入Avalanche钱包？**
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Avalanche，点击【添加钱包】；
 
-![](../.gitbook/assets/1-kao-bei-5%20%282%29.png)
+![](<../.gitbook/assets/5 (7).png>)
 
 2、点击【导入钱包】，继续点击【私钥导入】或【助记词导入】；
 
-![](../.gitbook/assets/1-kao-bei-6%20%283%29.png)
+![](<../.gitbook/assets/6 (5).png>)
 
 3、以助记词导入为例，输入备份的【助记词】及【钱包名称】、【密码】，勾选【服务及隐私条款】；点击【导入钱包】，至此，你已经成功导入Avalanche钱包。
 
-![](../.gitbook/assets/1-kao-bei-7%20%283%29.png)
+![](<../.gitbook/assets/7 (5).png>)
 
 **注意：请勿将助记词透露给任何人！**
 
@@ -44,15 +44,14 @@ Avalanche雪崩协议是对开发者最为友好的、可定制化高性能公�
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Avalanche，点击右上角【+】，点击【创建钱包】；
 
-![](../.gitbook/assets/1-kao-bei-8%20%282%29.png)
+![](<../.gitbook/assets/8 (2).png>)
 
 2、点击【一键同步】；
 
-![](../.gitbook/assets/1-kao-bei-9%20%282%29.png)
+![](<../.gitbook/assets/9 (4).png>)
 
 3、勾选【可同步钱包】，点击【开始同步】；至此，Avalanche钱包网络已同步完成，可在资产页面选择Avalanche查看。
 
-![](../.gitbook/assets/1-kao-bei-10%20%282%29.png)
+![](<../.gitbook/assets/10 (2).png>)
 
 **注意：为保证您的资金安全，请勿将助记词或私钥透露给任何人！**
-

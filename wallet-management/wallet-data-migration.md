@@ -23,15 +23,15 @@
 
 4、如需迁移至**同一设备上**的TokenPocket Pro版本，在弹出的窗口找到并点击【TokenPocket Pro】进行传送即可；
 
-![](<../.gitbook/assets/3 (15).png>)
+![](<../.gitbook/assets/3 (15) (1).png>)
 
 5、如需将钱包数据进行迁移到**另一部设备**上，点击【AirDrop】功能传送数据至接收设备；
 
-![](<../.gitbook/assets/4 (13).png>)
+![](<../.gitbook/assets/4 (13) (1).png>)
 
 6、在接收设备上点击【使用“文件“打开】；
 
-![](<../.gitbook/assets/5 (7).png>)
+![](<../.gitbook/assets/5 (7) (1).png>)
 
 7、点击【存储】；
 
@@ -45,7 +45,7 @@
 
 **注意：在另一设备上成功导入数据后，请将接收的文件删除。**
 
-![](<../.gitbook/assets/6 (5).png>)
+![](<../.gitbook/assets/6 (5) (1).png>)
 
 ****
 
@@ -54,7 +54,7 @@
 **安卓手机操作步骤：**\
 ****1、打开TokenPocket，点击底部【我的】；
 
-![](<../.gitbook/assets/7 (2).png>)
+![](<../.gitbook/assets/7 (2) (1).png>)
 
 2、点击【一键迁移】；
 

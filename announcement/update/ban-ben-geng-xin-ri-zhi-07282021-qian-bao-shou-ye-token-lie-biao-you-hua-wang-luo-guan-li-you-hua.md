@@ -1,10 +1,10 @@
 # 版本更新日志（07/28/2021）：钱包首页Token列表优化，网络管理优化
 
-![](../../.gitbook/assets/xin-ban-ben-tp-banner.png)
+![](<../../.gitbook/assets/1 (45).png>)
 
 **【版本更新详情】**
 
-‌iOS pro 3.1.3(90) 
+‌iOS pro 3.1.3(90)&#x20;
 
 Android 1.3.0
 

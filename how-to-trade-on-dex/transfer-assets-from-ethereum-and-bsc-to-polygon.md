@@ -10,21 +10,21 @@
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Polygon （Matic），点击【添加钱包】；
 
-![](../.gitbook/assets/matic1.png)
+![](<../.gitbook/assets/1 (34).png>)
 
 2、点击【创建】，继续点击【创建钱包】；
 
-![](../.gitbook/assets/matic2.png)
+![](<../.gitbook/assets/2 (24).png>)
 
 3、依次设置【钱包名】和【密码】，然后勾选【服务及隐私条款】，点击【创建钱包】；然后开始备份助记词，点击【备份完成，进行验证】；
 
 注意：请勿将助记词透露给任何人！
 
-![](../.gitbook/assets/matic3.png)
+![](<../.gitbook/assets/3 (15).png>)
 
 4、按照顺序验证助记词，然后点击【确认】，至此，你已经成功添加Polygon（Matic）钱包。
 
-![](../.gitbook/assets/matic4.png)
+![](<../.gitbook/assets/4 (13).png>)
 
 ****
 
@@ -42,11 +42,11 @@
 
 1、在TokenPocket底部点击【发现】，然后顶部搜索【Polygon Bridge】**；**
 
-![](../.gitbook/assets/bridge1.jpg)
+![](<../.gitbook/assets/5 (9).png>)
 
 2、点击【Polygon Bridge】；（此处需科学上网）
 
-![](../.gitbook/assets/bridge2.jpg)
+![](<../.gitbook/assets/6 (6).png>)
 
 3、选择连接钱包的方式；（此处以选择Metamask为例）
 
@@ -105,7 +105,7 @@
 **如何使用xPollinate将BSC的资产跨链至Polygon？**\
 ****1、在TokenPocket底部点击【发现】，然后顶部搜索【xPollinate】，并点击进入页面**；**
 
-![](<../.gitbook/assets/1 (6).jpg>)
+![](<../.gitbook/assets/6 (6).png>)
 
 2、点击【Connect】连接钱包地址；（此处以BSC上的资产跨链到Matic为例）
 

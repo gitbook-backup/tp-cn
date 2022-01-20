@@ -28,7 +28,7 @@
 1. 确保你是从[唯一TP钱包官网](http://tokenpocket.pro)或者官网上下载的钱包里面跳转到的群组。
 2. 目前唯一TP中文电报群链接为：https://t.me/tokenpocket\_cn。请务必认准
 
-![](<../../.gitbook/assets/2 (24).png>)
+![](<../../.gitbook/assets/2 (24) (1).png>)
 
 目前出现一个假群，链接为：https://t.me/tokenpocket\_C。与真实群的链接还是有所不同的。
 

@@ -1,12 +1,10 @@
 # 版本更新日志（08/05/2021）：支持EIP-1559矿工费模式，更多详情优化
 
-![](../../.gitbook/assets/xin-ban-ben-1.3.1.png)
-
 **【版本更新详情】**
 
-Android最新版本号：1.3.1 
+Android最新版本号：1.3.1&#x20;
 
-iOS最新版本号：pro 3.1.2(92) 
+iOS最新版本号：pro 3.1.2(92)&#x20;
 
 App Store 1.6.2
 
@@ -25,8 +23,6 @@ App Store 1.6.2
 **如何使用EIP—1559模式的矿工费？**
 
 1）更新到最新版本后，点击【我的】--【系统设置】--【矿工费模式】--打开勾选即可开启。
-
-![](../../.gitbook/assets/eip-jiao-cheng-1.png)
 
 ![](../../.gitbook/assets/eip-jiao-cheng-2.png)
 

@@ -10,7 +10,7 @@
 
 二、假冒TokenPocket微信客服人员：
 
-![](<../../.gitbook/assets/2 (25).png>)
+![](<../../.gitbook/assets/2 (25) (1).png>)
 
 三、假冒TokenPocket电报群管理员进行欺骗：
 

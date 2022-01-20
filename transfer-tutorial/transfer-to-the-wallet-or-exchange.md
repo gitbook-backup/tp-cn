@@ -2,7 +2,7 @@
 
 1、打开TokenPocket，在【资产】页面选择需要提现的代币；（此处以提现BSC链的TPT为例）
 
-![](../.gitbook/assets/shou-kuan-1.jpg)
+![](<../.gitbook/assets/1 (42).png>)
 
 2、在底部点击【转账】；
 

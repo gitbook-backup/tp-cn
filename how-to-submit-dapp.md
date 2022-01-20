@@ -2,7 +2,7 @@
 
 1、打开[TokenPocket官网](https://www.tokenpocket.pro)，点击顶部导航栏的【提交DApp】；
 
-![](.gitbook/assets/ti-jiao-dapp1.jpg)
+![](<.gitbook/assets/1 (46).png>)
 
 2、依次填写信息，然后点击【提交】；
 

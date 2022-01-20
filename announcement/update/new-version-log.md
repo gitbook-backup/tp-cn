@@ -1,7 +1,5 @@
 # 版本更新日志（11/06/2021）：新增Klaytn链，升级波卡/Kusama
 
-![](../../.gitbook/assets/xin-ban-ben-guan-wang-banner-zhong-.png)
-
 **【版本更新详情】**
 
 Android最新版本号：1.2.8

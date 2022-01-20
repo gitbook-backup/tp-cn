@@ -8,37 +8,37 @@ Fantom是全球首个基于 DAG 技术并支持智能合约的高性能公链，
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Fantom，点击【添加钱包】；
 
-![](<../.gitbook/assets/1 (12).png>)
+![](<../.gitbook/assets/1 (44).png>)
 
 2、点击【创建钱包】，继续点击【创建钱包】；
 
-![](<../.gitbook/assets/2 (14).png>)
+![](<../.gitbook/assets/2 (26).png>)
 
 3、依次设置【钱包名称】和【密码】，然后勾选【服务及隐私条款】，点击【创建钱包】；然后开始备份助记词，点击【备份完成，进行验证】；
 
 **注意：请勿将助记词透露给任何人！**
 
-![](<../.gitbook/assets/3 (11).png>)
+![](<../.gitbook/assets/3 (22).png>)
 
 4、按照顺序验证助记词，然后点击【确认】。至此，你已经成功创建Fantom钱包。
 
-![](<../.gitbook/assets/4 (9).png>)
+![](<../.gitbook/assets/4 (11).png>)
 
 **如何在TokenPocket导入Fantom钱包？**
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Fantom，点击【添加钱包】；
 
-![](<../.gitbook/assets/1 (14).png>)
+![](<../.gitbook/assets/5 (10).png>)
 
 2、点击【导入钱包】，继续点击【私钥导入】或【助记词导入】；
 
-![](<../.gitbook/assets/2 (12).png>)
+![](<../.gitbook/assets/6 (5).png>)
 
 3、以助记词导入为例，输入备份的【助记词】及【钱包名称】、【密码】，勾选【服务及隐私条款】；点击【导入钱包】，至此，你已经成功导入Fantom钱包。
 
 **注意：请勿将助记词透露给任何人！**
 
-![](<../.gitbook/assets/3 (10).png>)
+![](<../.gitbook/assets/7 (4).png>)
 
 ****
 
@@ -48,14 +48,12 @@ Fantom是全球首个基于 DAG 技术并支持智能合约的高性能公链，
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Fantom，点击右上角【+】**，**点击【创建钱包】；
 
-![](<../.gitbook/assets/1 (13).png>)
+![](<../.gitbook/assets/8 (4).png>)
 
 2、继续点击【一键同步】；
 
-![](<../.gitbook/assets/2 (11).png>)
+![](<../.gitbook/assets/9 (5).png>)
 
 3、勾选【可同步钱包】，点击【开始同步】；至此，Fantom钱包网络已同步完成，可在资产页面选择Fantom查看。
-
-![](<../.gitbook/assets/3 (13).png>)
 
 **注意：为保证您的资金安全，请勿将助记词或私钥透露给任何人！**

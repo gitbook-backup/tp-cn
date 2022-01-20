@@ -23,11 +23,11 @@ App Store: 1.6.3
 
 1）更新最新版本后，点击【资产】页面，然后点击【DeFi】，即可查看当前正在使用的DeFi协议相关数据；
 
-![](../../.gitbook/assets/group-18719.png)
+![](<../../.gitbook/assets/1 (38).png>)
 
 2）此处以Pippi Shrimp为例，点击进入【Pippi Shrimp】，即可查看目前资金状态和流动性；
 
-![](../../.gitbook/assets/group-18720.png)
+![](<../../.gitbook/assets/2 (25).png>)
 
 3）点击【进入DApp】，在点击跳转弹框【我知道了】，即可进入Pippi Shrimp官方界面。
 

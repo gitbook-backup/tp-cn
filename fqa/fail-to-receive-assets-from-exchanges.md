@@ -11,7 +11,7 @@
 **如何在链上查看交易详情？**\
 ****1）打开TokenPocket，点击收款的代币后，点击【转入】，点击链接，进入页面后，扫码或者点击底部图标查看链上详情；
 
-![](../.gitbook/assets/cha-kan-lian-zhong-.png)
+![](<../.gitbook/assets/1 (21).png>)
 
 2）进入页面后，可在【Status】查看交易状态。
 
