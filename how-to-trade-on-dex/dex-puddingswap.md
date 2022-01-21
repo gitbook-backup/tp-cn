@@ -6,8 +6,6 @@
 **一、如何兑换交易？**\
 ****1、打开TokenPocket，选择或创建HSC钱包，点击底部【发现】，然后在顶部搜索PuddingSwap进入界面；
 
-![](<../.gitbook/assets/1 (31).png>)
-
 2、进入PuddingSwap页面后，右上角将默认链接钱包地址，点击后可以在列表中查看你的PUD余额；
 
 ![](../.gitbook/assets/3.jpg)
