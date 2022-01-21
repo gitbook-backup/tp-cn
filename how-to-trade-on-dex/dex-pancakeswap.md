@@ -8,8 +8,6 @@ PancakeSwap涉及的功能比较多，分别有【兑换】、【资金池】**�
 **一、如何使用【兑换】功能？**\
 1、打开TokenPocket，点击底部【发现】，然后在顶部搜索PancakeSwap即可找到并打开DApp；
 
-![](<../.gitbook/assets/1 (41).png>)
-
 2、DApp顶部是主要功能区，进行兑换操作前请先点击右上角连接钱包；点击左上角的导航栏可查看所有的功能；
 
 ![](../.gitbook/assets/dao-hang-lan-.jpg)

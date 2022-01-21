@@ -44,7 +44,4 @@ App Store 1.5.5
 ![](../../.gitbook/assets/2.png)
 
 * HECO链支持WalletConnect，多一种方式来实现登录操作DApp
-
-![](<../../.gitbook/assets/3 (4).png>)
-
 * 更多细节优化等您体验。
