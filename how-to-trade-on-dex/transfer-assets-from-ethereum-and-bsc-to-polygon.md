@@ -42,11 +42,7 @@
 
 1、在TokenPocket底部点击【发现】，然后顶部搜索【Polygon Bridge】**；**
 
-![](<../.gitbook/assets/5 (9).png>)
-
 2、点击【Polygon Bridge】；（此处需科学上网）
-
-![](<../.gitbook/assets/6 (6).png>)
 
 3、选择连接钱包的方式；（此处以选择Metamask为例）
 
