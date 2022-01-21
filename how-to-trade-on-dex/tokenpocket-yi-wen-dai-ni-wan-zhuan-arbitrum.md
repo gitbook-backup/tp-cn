@@ -16,7 +16,7 @@ TokenPocket正式上线以太坊 Layer2 扩容方案Arbitrum底层。用户在To
 
 **注意：请勿将助记词透露给任何人！**
 
-![](<../.gitbook/assets/3 (23).png>)
+![](<../.gitbook/assets/3 (23) (1).png>)
 
 4、按照顺序验证助记词，然后点击【确认】。至此，你已经成功添加Arbitrum钱包。
 

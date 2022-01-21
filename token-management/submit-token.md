@@ -6,12 +6,12 @@
 
 2、点击【提交Token】；
 
-![](<../.gitbook/assets/2 (20).png>)
+![](<../.gitbook/assets/2 (20) (1).png>)
 
 3、按顺序填写信息，然后点击【提交】即可。\
 （注意：代币提交完成后，管理员将会尽快审核您的申请，请耐心等待。）
 
-![](<../.gitbook/assets/3 (16).png>)
+![](../.gitbook/assets/如何提交代币？.png)
 
 **相关文章：**\
 1）[关于自定义代币](https://tphelp.gitbook.io/cn/wallet-operation/custom-token)\

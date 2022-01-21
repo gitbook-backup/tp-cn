@@ -2,7 +2,7 @@
 
 1、打开TokenPocket后，选择【我有钱包】；
 
-![](<../.gitbook/assets/1 (25).png>)
+![](<../.gitbook/assets/1 (25) (1).png>)
 
 2、选择需要导入的钱包；（此处以以太坊钱包为例）
 
