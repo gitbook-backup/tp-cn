@@ -12,10 +12,10 @@ TRON：[https://tronscan.io/ ](https://tronscan.io)
 
 ETH：[https://cn.etherscan.com/ ](https://cn.etherscan.com)
 
-BSC：[https://bscscan.com ](https://bscscan.com)
+BSC：[https://bscscan.com/](https://bscscan.com)
 
-HECO：https://hecoinfo.com/&#x20;
+HECO：[https://hecoinfo.com/ ](https://hecoinfo.com)
 
-OKX：https://www.oklink.com/&#x20;
+OK：[https://www.oklink.com/zh-cn](https://www.oklink.com/zh-cn)
 
-Polygon（MATIC）：https://polygonscan.com/
+Polygon（MATIC）：[https://polygonscan.com/](https://polygonscan.com)
