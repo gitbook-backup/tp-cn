@@ -4,9 +4,9 @@
 
 如有任何疑问，请点击[官网](https://www.tokenpocket.pro)或钱包App的在线客服进行咨询。
 
-一、冒充TokenPocket客服收费解决问题：
+一、冒充TokenPocket客服收费解决问题;
 
-![](<../../.gitbook/assets/1 (23).png>)
+![](<../../.gitbook/assets/Group 18919.png>)
 
 二、假冒TokenPocket微信客服人员：
 
