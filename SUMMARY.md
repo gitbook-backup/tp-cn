@@ -135,7 +135,7 @@
   * [BSC浏览器使用教程](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/README.md)
     * [如何在BSC区块浏览器查询交易记录？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/query-the-transfer-record-bsc.md)
     * [如何在BSC区块浏览器查询资产？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/ru-he-zai-bsc-qu-kuai-liu-lan-qi-cha-xun-zi-chan.md)
-    * [如何在BSC区块浏览器查询代币信息？](fqa/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-token-information-bsc.md)
+    * [如何在BSC区块浏览器查询代币信息？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/ru-he-zai-bsc-qu-kuai-liu-lan-qi-cha-xun-dai-bi-xin-xi.md)
   * [TRON浏览器使用教程](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/README.md)
     * [如何在TRON区块浏览器查询交易记录？](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-the-transfer-record-tron.md)
     * [如何在TRON区块浏览器查询资产？](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-wallet-address-tron.md)
