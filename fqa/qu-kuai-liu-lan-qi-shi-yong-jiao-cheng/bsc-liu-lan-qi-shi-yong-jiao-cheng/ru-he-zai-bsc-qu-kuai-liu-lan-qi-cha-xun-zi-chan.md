@@ -8,4 +8,4 @@
 
 ![](<../../../.gitbook/assets/Group 18917.png>)
 
-代币合约地址如何查看？
+<mark style="color:red;">****</mark>[<mark style="color:blue;">**代币合约地址如何查看？**</mark>](https://help.tokenpocket.pro/cn/fqa/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-token-information)<mark style="color:blue;">****</mark>
