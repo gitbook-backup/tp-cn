@@ -129,6 +129,13 @@
 
 ## 常见问题 <a href="#fqa" id="fqa"></a>
 
+* [区块浏览器使用教程](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/README.md)
+  * [什么是区块浏览器？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/shi-mo-shi-qu-kuai-liu-lan-qi.md)
+  * [什么是哈希值（交易哈希）？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/shi-mo-shi-ha-xi-zhi-jiao-yi-ha-xi.md)
+  * [BSC浏览器使用教程](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/README.md)
+    * [如何在BSC区块浏览器查询交易记录？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/query-the-transfer-record-bsc.md)
+    * [如何在BSC区块浏览器查询资产？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/ru-he-zai-bsc-qu-kuai-liu-lan-qi-cha-xun-zi-chan.md)
+    * [如何在BSC区块浏览器查询代币信息？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/ru-he-zai-bsc-qu-kuai-liu-lan-qi-cha-xun-dai-bi-xin-xi.md)
 * [我往合约转账了怎么办？](fqa/do-not-transfer-to-contract-address.md)
 * [不同公链间不能直接转账](fqa/transfer-from-different-chains.md)
 * [钱包【充值资产】到交易所未到账](fqa/fail-to-receive-assets-from-wallet.md)
