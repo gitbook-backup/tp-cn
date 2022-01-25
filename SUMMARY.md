@@ -150,6 +150,7 @@
 ## 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
+  * [2022/01/25 关于Kla y ten](announcement/announcement/20220125-guan-yu-klayten.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
   * [版本更新日志（01/17/2022): 支持WAX；支持NFT应用场景；支持NFT图片下载等。](announcement/update/version-update-log-January-17-2022.md)
