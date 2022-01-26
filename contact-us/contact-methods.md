@@ -5,7 +5,6 @@
 * 客服邮箱：service@tokenpocket.pro
 * 商务邮箱：bd@tokenpocket.pro
 * 提交DApp：dapp@tokenpocket.pro
-* 微信公众号：TokenPocket钱包
 * 论坛：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro)
 * Discord: [https://discord.gg/bjzwFT5Rzj](https://discord.gg/bjzwFT5Rzj)
 
