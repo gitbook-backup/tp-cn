@@ -150,7 +150,9 @@
 ## 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
-  * [2022/01/25 关于Kla y ten](announcement/announcement/20220125-guan-yu-klayten.md)
+  * [Page 1](announcement/announcement/page-1.md)
+  * [2022/01/27 关于TRON服务升级的通知](announcement/announcement/20220127-guan-yu-tron-fu-wu-sheng-ji-de-tong-zhi.md)
+  * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/20220125-guan-yu-klayten-wei-hu-sheng-ji-de-tong-zhi.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
   * [版本更新日志（01/27/2022）：新增市场页面，修复bug，用户体验优化。](announcement/update/ban-ben-geng-xin-ri-zhi-01272022-xin-zeng-shi-chang-ye-mian-xiu-fu-bug-yong-hu-ti-yan-you-hua.md)
