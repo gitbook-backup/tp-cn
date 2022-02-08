@@ -9,3 +9,7 @@
 <mark style="color:red;">**注意：合约地址是辨别真假代币的唯一标准，添加代币时请勿直接输入代币名称进行添加。**</mark>
 
 ![](<../../../.gitbook/assets/Group 18907.png>)
+
+3.点击【通证余额】，即可看到您目前的钱包所有资产，点击您所需要添加的资产，进入代币信息页面，点击合约地址即可复制。[**如何在资产页面添加代币？**](https://help.tokenpocket.pro/cn/token-management/add-token)
+
+![](<../../../.gitbook/assets/添加资产 (1).png>)
