@@ -8,4 +8,10 @@
 
 ![](<../../../.gitbook/assets/Group 18917.png>)
 
+3.点击【Token】，即可看到您目前的钱包所有资产，点击您所需要添加的资产，进入代币信息页面，点击合约地址即可复制。[**如何在资产页面添加代币？**](https://help.tokenpocket.pro/cn/token-management/add-token)****
+
+![](../../../.gitbook/assets/添加资产.png)
+
+
+
 <mark style="color:red;">****</mark>[<mark style="color:blue;">**代币合约地址如何查看？**</mark>](https://help.tokenpocket.pro/cn/fqa/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-token-information)<mark style="color:blue;">****</mark>
