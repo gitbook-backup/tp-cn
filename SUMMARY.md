@@ -158,6 +158,7 @@
   * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/20220125-guan-yu-klayten.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（02/11/2022）：修复BTC底层余额显示问题。](announcement/update/ban-ben-geng-xin-ri-zhi-02112022-xiu-fu-btc-di-ceng-yuexian-shi-wen-ti.md)
   * [版本更新日志（01/27/2022）：新增市场页面，修复bug，用户体验优化。](announcement/update/ban-ben-geng-xin-ri-zhi-01272022-xin-zeng-shi-chang-ye-mian-xiu-fu-bug-yong-hu-ti-yan-you-hua.md)
   * [版本更新日志（01/17/2022): 支持WAX；支持NFT应用场景；支持NFT图片下载等。](announcement/update/version-update-log-January-17-2022.md)
   * [版本更新日志（12/31/2021):适配KeyPal硬件钱包，官网新增硬件钱包入口](announcement/update/version-update-log-dec-31-2021-support-keypal-hardware-wallet.md)
