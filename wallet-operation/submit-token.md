@@ -158,7 +158,7 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 5\. 在【Commit changes】处填写代币信息和其他描述，然后点击【Commit changes】；‌
 
-**注意：**请在内容描述中添加 3000 TPT 的交易ID链接，否则无法通过审核。
+**注意：**<mark style="color:red;">**请在内容描述中添加 3000 TPT 的交易ID链接(提交步骤4中验证后的哈希值链接)，否则无法通过审核。**</mark>
 
 ![](../.gitbook/assets/github5.jpg)
 
