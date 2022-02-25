@@ -26,13 +26,11 @@ iOS: 1.7.7
 
 &#x20;
 
-【版本更新部分详情】
+**【版本更新部分详情】**
 
 1.新增NFT管理页面。
 
-如何管理NFT资产？
-
-&#x20;
+****[**如何管理NFT资产？**](https://help.tokenpocket.pro/cn/wallet-management/how-to-manage-my-nft-assets)****
 
 2.增加热门数据显示提醒。
 
@@ -41,3 +39,7 @@ iOS: 1.7.7
 3.优化Token详情页面。
 
 ![](<../../.gitbook/assets/发版2zh (1).png>)
+
+**【版本更新方式】**
+
+App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[https://tokenpocket.pro/](https://tokenpocket.pro)）
