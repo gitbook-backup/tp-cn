@@ -22,5 +22,5 @@
 
 **关注我们**
 
-[官方网站](https://www.tokenpocket.pro) |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://twitter.com/TokenPocket\_TP)｜[Discord](https://discord.gg/bjzwFT5Rzj)｜[YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A)&#x20;
+[官方网站](https://www.tokenpocket.pro) |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://twitter.com/TokenPocket\_TP)｜[YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A)&#x20;
 

@@ -86,6 +86,7 @@
 * [如何切换钱包？](wallet-management/switch-wallet.md)
 * [如何同步钱包？](wallet-management/wallet-sync.md)
 * [如何一键迁移钱包数据？](wallet-management/wallet-data-migration.md)
+* [如何管理NFT资产？](wallet-management/how-to-manage-my-nft-assets.md)
 
 ## 代币管理 <a href="#token-management" id="token-management"></a>
 
@@ -159,6 +160,7 @@
   * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/20220125-guan-yu-klayten.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（02/25/2022）：支持ERC1155；新增NFT管理页面；增加热门数据显示提醒.](announcement/update/version-update-feb-25.md)
   * [版本更新日志（02/11/2022）：修复BTC底层余额显示问题。](announcement/update/version-update-log-feb-11-2022-fix-issues-of-bitcoin-balance.md)
   * [版本更新日志（01/27/2022）：新增市场页面，修复bug，用户体验优化。](announcement/update/ban-ben-geng-xin-ri-zhi-01272022-xin-zeng-shi-chang-ye-mian-xiu-fu-bug-yong-hu-ti-yan-you-hua.md)
   * [版本更新日志（01/17/2022): 支持WAX；支持NFT应用场景；支持NFT图片下载等。](announcement/update/version-update-log-January-17-2022.md)
