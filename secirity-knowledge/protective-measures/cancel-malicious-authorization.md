@@ -6,35 +6,7 @@ Approve即授权。它允许持有 Token 的用户，通过调用 Approve 方法
 
 [about-approve.md](about-approve.md "mention")
 
-**---移动端操作教程---**
-
-1）打开TokenPocket APP，首先在资产页面选择对应的钱包网络，在\[发现页面]输入【DeBank】或【[https://debank.com/](https://debank.com)】，进入DeBank DApp，点击【连接钱包】，选择您所需要查询的钱包地址，点击下方【授权】按钮，进入授权管理页面；
-
-<mark style="color:red;">**注：DeBank目前暂不支持TRON授权管理查询，请在本文最下方查阅取消TRON恶意授权操作教程。**</mark>
-
-![](<../../.gitbook/assets/1 (22) (1) (1).png>)
-
-2）以BSC地址为例，授权页面会出现钱包余额，其中Token总敞口为Token的总价值；点击价格旁边的小三角形，会出现该代币的相关授权信息：
-
-<mark style="color:orange;">合约：授权的DApp/合约地址；</mark>
-
-<mark style="color:orange;">授权额度：当授权额度为“Infinite”时，即为无限授权，允许把该代币余额全部授权给对方；</mark>
-
-<mark style="color:orange;">风险敞口：授权代币的数量。</mark>
-
-![](<../../.gitbook/assets/1 拷贝 (2).png>)
-
-3）如您的钱包地址未进行过任何授权行为，则会显示【无匹配】；
-
-![](<../../.gitbook/assets/1 拷贝 2.png>)
-
-4）点击右方\[...]，点击【Cancel Approve】，支付取消授权所需要的矿工费；至此，您已完成取消恶意授权的操作。
-
-![](<../../.gitbook/assets/1 拷贝 3拷貝.png>)
-
 **----TRON授权查询---**
-
-****
 
 1.使用电脑打开TRON区块浏览器[https://tronscan.io/#/](https://tronscan.io/#/)，选择【连接钱包】，根据提示连接钱包
 
