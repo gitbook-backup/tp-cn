@@ -60,6 +60,7 @@
 
 ## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
+* [NFT认证规范](wallet-operation/NFT-Application-Specification.md)
 * [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/set-nft.md)
 * [如何下载TokenPocket APP？](wallet-operation/download-tokenpocket-app.md)
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
