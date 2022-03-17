@@ -46,9 +46,9 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**3、TPT捐赠数量已经提高到30,000 个；**</mark>
 
-<mark style="color:red;">**截止到2月28日晚20:00，20点以后提交的Logo申请都需要按照TPT-30,000捐赠数量。**</mark>
+<mark style="color:red;">**代币显示logo只是进行对代币信息进行丰富，并不能保证代币的绝对安全，也不代表TokenPocket的任何**</mark>
 
-[**点击查看DAO投票链接**](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)****
+<mark style="color:red;">**投资建议，请您注意风险！**</mark>
 
 ### **所需资料如下：**‌
 
