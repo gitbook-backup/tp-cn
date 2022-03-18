@@ -46,9 +46,9 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**3、TPT捐赠数量已经提高到30,000 个；**</mark>
 
-<mark style="color:red;">**代币显示logo只是进行对代币信息进行丰富，并不能保证代币的绝对安全，也不代表TokenPocket的任何**</mark>
+<mark style="color:red;">**4、因github的开放性，任何人都可以在提交的订单中留言，所以请不要相信任何第三方人员的留言，谨防诈骗。**</mark>
 
-<mark style="color:red;">**投资建议，请您注意风险！**</mark>
+<mark style="color:red;">**5、代币显示logo只是进行对代币信息进行丰富，并不能保证代币的绝对安全，也不代表TokenPocket的任何投资建议，请您注意风险！**</mark>
 
 ### **所需资料如下：**‌
 
