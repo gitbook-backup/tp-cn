@@ -15,7 +15,6 @@
 * [项目上线申请](https://www.tokenpocket.pro/zh/submit/dapp)
 * [代币收录申请](https://www.tokenpocket.pro/zh/submit/token)
 * [NFT收录申请](https://tokenpocket.pro/zh/submit/nft)
+* [自助提交Logo](https://tphelp.gitbook.io/cn/wallet-operation/submit-token)
 
-**关注我们**
-
-[官方网站](https://www.tokenpocket.pro)  ｜ [新浪微博](https://weibo.com/u/6482870061?is\_all=1)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Medium](https://medium.com/@tokenpocket.gm)  |  [Twitter](https://medium.com/@tokenpocket.gm)｜[YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) | [Discord](https://discord.gg/bjzwFT5Rzj)
+[官方网站](https://www.tokenpocket.pro)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Medium](https://medium.com/@tokenpocket.gm)  |  [Twitter](https://twitter.com/TokenPocket\_TP)｜[YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) | [Discord](https://discord.gg/bjzwFT5Rzj)
