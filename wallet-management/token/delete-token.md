@@ -2,4 +2,4 @@
 
 1、打开TokenPocket，选择你需要删除的代币，按住代币一栏向左划，点击【删除】即可。（此处以TPT为例）
 
-![](<../.gitbook/assets/1 (37) (1).png>)
+![](<../../.gitbook/assets/1 (37) (1).png>)

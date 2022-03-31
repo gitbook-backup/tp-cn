@@ -4,17 +4,17 @@
 
 1、打开TokenPocket，在【资产】页面点击【详情】进入钱包同步页面（此处以币安智能链网络同步到火币生态链网络为例）；
 
-![](<../.gitbook/assets/1 (28).png>)
+![](<../../.gitbook/assets/1 (28).png>)
 
 2、进入钱包管理页面后，点击【钱包同步】；
 
-![](../.gitbook/assets/tong-bu-1.jpg)
+![](../../.gitbook/assets/tong-bu-1.jpg)
 
 3、勾选需要同步的钱包后，点击【开始同步】即可完成同步功能。
 
-![](../.gitbook/assets/tong-bu-3.jpg)
+![](../../.gitbook/assets/tong-bu-3.jpg)
 
 **注意：**如您的钱包为HD钱包，在【资产】页面点击【详情】进入钱包同步页面。
 
-![](../.gitbook/assets/tong-bu-.jpg)
+![](../../.gitbook/assets/tong-bu-.jpg)
 

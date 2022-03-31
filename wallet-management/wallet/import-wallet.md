@@ -2,17 +2,17 @@
 
 1、打开TokenPocket后，选择【我有钱包】；
 
-![](<../.gitbook/assets/1 (25) (1).png>)
+![](<../../.gitbook/assets/1 (25) (1).png>)
 
 2、选择需要导入的钱包；（此处以以太坊钱包为例）
 
-![](../.gitbook/assets/10.png)
+![](../../.gitbook/assets/10.png)
 
 3、选择导入钱包的方式，此处以选择导入助记词为例；
 
-![](<../.gitbook/assets/2 (2).png>)
+![](<../../.gitbook/assets/2 (2).png>)
 
 4、按顺序依次输入助记词，设置钱包名和密码，勾选【服务及隐私条款】后，点击【开始导入】即可完成钱包导入。
 
-![](<../.gitbook/assets/3 (2).png>)
+![](<../../.gitbook/assets/3 (2).png>)
 

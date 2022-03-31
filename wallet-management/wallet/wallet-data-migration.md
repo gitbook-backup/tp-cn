@@ -11,7 +11,7 @@
 **iOS手机操作步骤：**\
 1、打开TokenPocket，点击底部【我的】；
 
-![](<../.gitbook/assets/1 (22).png>)
+![](<../../.gitbook/assets/1 (22).png>)
 
 2、点击【系统设置】，点击【钱包数据迁移】；
 
@@ -19,33 +19,33 @@
 
 3、点击【开始迁移】；
 
-![](<../.gitbook/assets/2 (22) (1).png>)
+![](<../../.gitbook/assets/2 (22) (1).png>)
 
 4、如需迁移至**同一设备上**的TokenPocket Pro版本，在弹出的窗口找到并点击【TokenPocket Pro】进行传送即可；
 
-![](<../.gitbook/assets/3 (15) (1).png>)
+![](<../../.gitbook/assets/3 (15) (1).png>)
 
 5、如需将钱包数据进行迁移到**另一部设备**上，点击【AirDrop】功能传送数据至接收设备；
 
-![](<../.gitbook/assets/4 (13) (1).png>)
+![](<../../.gitbook/assets/4 (13) (1).png>)
 
 6、在接收设备上点击【使用“文件“打开】；
 
-![](<../.gitbook/assets/5 (7) (1).png>)
+![](<../../.gitbook/assets/5 (7) (1).png>)
 
 7、点击【存储】；
 
-![](../.gitbook/assets/qian-yi-7.jpg)
+![](../../.gitbook/assets/qian-yi-7.jpg)
 
 8、然后点击右上角的【发送】按键；
 
-![](../.gitbook/assets/qian-yi-8.jpg)
+![](../../.gitbook/assets/qian-yi-8.jpg)
 
 9、弹出窗口后，找到并点击【TokenPocket】即可完成数据导入。
 
 **注意：在另一设备上成功导入数据后，请将接收的文件删除。**
 
-![](<../.gitbook/assets/6 (5) (1).png>)
+![](<../../.gitbook/assets/6 (5) (1).png>)
 
 ****
 
@@ -54,24 +54,24 @@
 **安卓手机操作步骤：**\
 ****1、打开TokenPocket，点击底部【我的】；
 
-![](<../.gitbook/assets/7 (2) (1).png>)
+![](<../../.gitbook/assets/7 (2) (1).png>)
 
 2、点击【一键迁移】；
 
-![](<../.gitbook/assets/qian-yi-3 (1).jpg>)
+![](<../../.gitbook/assets/qian-yi-3 (1).jpg>)
 
 3、点击【开始迁移】；
 
-![](<../.gitbook/assets/qian-yi-2 (1).jpg>)
+![](<../../.gitbook/assets/qian-yi-2 (1).jpg>)
 
 4、点击蓝牙进行传送到接收设备；（注意：请确保蓝牙已经打开并成功连接。）
 
-![](<../.gitbook/assets/qian-yi-1 (1).jpg>)
+![](<../../.gitbook/assets/qian-yi-1 (1).jpg>)
 
 5、接收设备完成接收后，重新进入TokenPocket，在【数据迁移】页面的右上角点击【开始导入】；
 
-![](../.gitbook/assets/qian-yi-4.jpg)
+![](../../.gitbook/assets/qian-yi-4.jpg)
 
 6、选择【蓝牙】即可导入你的钱包数据。
 
-![](../.gitbook/assets/qian-yi-5.jpg)
+![](../../.gitbook/assets/qian-yi-5.jpg)

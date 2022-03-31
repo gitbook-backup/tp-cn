@@ -2,26 +2,26 @@
 
 1.打开TokenPocket后，点击左上角的钱包名；
 
-![](<../.gitbook/assets/1 (29) (1).png>)
+![](<../../.gitbook/assets/1 (29) (1).png>)
 
 2.点击左上角钱包图案，可对钱包进行排序和管理；
 
-![](<../.gitbook/assets/2 (17).png>)
+![](<../../.gitbook/assets/2 (17).png>)
 
 3.进入管理钱包页面，点击左下角图案（如图）；
 
-![](<../.gitbook/assets/3 (18).png>)
+![](<../../.gitbook/assets/3 (18).png>)
 
 4.点击【网络管理】，进入网络管理页面；
 
-![](<../.gitbook/assets/4 (12) (1) (1).png>)
+![](<../../.gitbook/assets/4 (12) (1) (1).png>)
 
 5.选择任意一个钱包，点击右方【—】，即可隐藏该钱包;
 
-![](<../.gitbook/assets/5 (8) (1).png>)
+![](<../../.gitbook/assets/5 (8) (1).png>)
 
 注：如该网络存在未删除钱包，则无法进行隐藏；
 
 6.已隐藏钱包可在最下方【未展示网络】中查看，点击右方【+】，即可取消隐藏。
 
-![](<../.gitbook/assets/6 (4).png>)
+![](<../../.gitbook/assets/6 (4).png>)
