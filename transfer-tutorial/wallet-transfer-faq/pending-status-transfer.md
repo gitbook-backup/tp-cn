@@ -6,7 +6,7 @@
 
 在以太坊上，每笔交易都有一个值叫 nonce，这个值用于计算一个以太坊地址中**发出**的交易数量。一个以太坊地址里的所有转账会按照你发起转账的时间，给每一笔交易排序，从 0 开始计数。地址每发送一笔交易，交易的随机数 nonce 就会增加 1，而转入这个地址的交易则不会改变 nonce 值。
 
-![](../.gitbook/assets/nonce-zhi-.jpg)
+![](../../.gitbook/assets/nonce-zhi-.jpg)
 
 对于nonce值，以太坊区块链有三条规则：
 
@@ -18,9 +18,7 @@
 
 因此，通过[加速交易](https://tphelp.gitbook.io/cn/transfer-tutorial/cancel-and-accelerate-transfer)来加快转账速度的原理很简单，就是再发起一笔 nonce 值相同，但矿工费更高的转账，来覆盖原来的。这样这笔交易就会更快被打包，原来的转账则被替代掉。
 
-**相关文章：**  
-1）[如何管理未打包交易？](https://tphelp.gitbook.io/cn/faq/ethwallet/unpackaged)  
+**相关文章：**\
+1）[如何管理未打包交易？](https://tphelp.gitbook.io/cn/faq/ethwallet/unpackaged)\
 2）[如何在以太坊交易加速](https://tphelp.gitbook.io/cn/faq/ethwallet/transaction-accelerator)
-
-
 

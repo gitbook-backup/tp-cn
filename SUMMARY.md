@@ -62,9 +62,6 @@
 
 ## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
-* [关于DApp使用](wallet-operation/about-dapp/README.md)
-  * [如何创建DApp List?](wallet-operation/about-dapp/How-to-create-dapp-list.md)
-  * [如何收藏DAPP和TIP-001协议？](wallet-operation/about-dapp/How-to-collect-DAPP-and-TP-001-protocol.md)
 * [关于下载TokenPocket APP](wallet-operation/download-tp-app/README.md)
   * [如何下载TokenPocket APP？](wallet-operation/download-tp-app/download-tokenpocket-app.md)
   * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/download-tp-app/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
@@ -92,8 +89,12 @@
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
+* [关于DApp使用](wallet-operation/about-dapp/README.md)
+  * [如何创建DApp List?](wallet-operation/about-dapp/How-to-create-dapp-list.md)
+  * [如何收藏DAPP和TIP-001协议？](wallet-operation/about-dapp/How-to-collect-DAPP-and-TP-001-protocol.md)
 * [关于NFT使用](wallet-operation/about-nft/README.md)
   * [NFT认证规范](wallet-operation/about-nft/NFT-Application-Specification.md)
+  * [NFT应用功能说明](wallet-operation/about-nft/nft-application.md)
   * [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/about-nft/set-nft.md)
 * [关于自定义代币](wallet-operation/about-custom-token.md)
 * [如何使用观察钱包以及冷钱包？](wallet-operation/how-to-use-watch-wallet-cold-wallet.md)
@@ -111,6 +112,21 @@
 * [如何同步钱包？](wallet-management/wallet-sync.md)
 * [如何一键迁移钱包数据？](wallet-management/wallet-data-migration.md)
 * [如何管理NFT资产？](wallet-management/how-to-manage-my-nft-assets.md)
+* [区块浏览器使用教程](wallet-management/blockchain-explorer-tutorial/README.md)
+  * [什么是区块浏览器？](wallet-management/blockchain-explorer-tutorial/what-is-blockchain-explorer.md)
+  * [什么是哈希值（交易哈希）？](wallet-management/blockchain-explorer-tutorial/what-is-tx-hash.md)
+  * [BSC浏览器使用教程](wallet-management/blockchain-explorer-tutorial/bsc-explorer-tutorial/README.md)
+    * [如何在BSC区块浏览器查询交易记录？](wallet-management/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-the-transfer-record-bsc.md)
+    * [如何在BSC区块浏览器查询资产？](wallet-management/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-wallet-address-bsc.md)
+    * [如何在BSC区块浏览器查询代币信息？](wallet-management/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-token-info-bsc.md)
+  * [TRON浏览器使用教程](wallet-management/blockchain-explorer-tutorial/tron-explorer-tutorial/README.md)
+    * [如何在TRON区块浏览器查询交易记录？](wallet-management/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-the-transfer-record-tron.md)
+    * [如何在TRON区块浏览器查询资产？](wallet-management/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-wallet-address-tron.md)
+    * [如何在TRON区块浏览器查询代币信息？](wallet-management/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-token-info-tron.md)
+  * [ETH浏览器使用教程](wallet-management/blockchain-explorer-tutorial/eth-explorer-tutorial/README.md)
+    * [如何在ETH区块浏览器查询交易记录？](wallet-management/blockchain-explorer-tutorial/eth-explorer-tutorial/inquire-the-transfer-record-eth.md)
+    * [如何在ETH区块浏览器查询资产？](wallet-management/blockchain-explorer-tutorial/eth-explorer-tutorial/inquire-wallet-address-eth.md)
+    * [如何在ETH区块浏览器查询代币信息？](wallet-management/blockchain-explorer-tutorial/eth-explorer-tutorial/inquire-token-info-eth.md)
 
 ## 代币管理 <a href="#token-management" id="token-management"></a>
 
@@ -124,33 +140,17 @@
 * [关于转账的安全事项](transfer-tutorial/about-safe-transfer.md)
 * [关于不同公链的代币转账](transfer-tutorial/about-public-chain-transfer/README.md)
   * [为什么不能直接往合约地址转账？](transfer-tutorial/about-public-chain-transfer/not-transfer-to-contract.md)
-* [钱包转账常见问题](transfer-tutorial/wallet-transfer-faq.md)
+* [钱包转账常见问题](transfer-tutorial/wallet-transfer-faq/README.md)
+  * [我往合约转账了怎么办？](transfer-tutorial/wallet-transfer-faq/do-not-transfer-to-contract-address.md)
+  * [不同公链间不能直接转账](transfer-tutorial/wallet-transfer-faq/transfer-from-different-chains.md)
+  * [交易所【提现资产】到钱包未到账](transfer-tutorial/wallet-transfer-faq/fail-to-receive-assets-from-exchanges.md)
+  * [钱包【充值资产】到交易所未到账](transfer-tutorial/wallet-transfer-faq/fail-to-receive-assets-from-wallet.md)
+  * [为什么转账一直在打包，怎么办？](transfer-tutorial/wallet-transfer-faq/pending-status-transfer.md)
+  * [我转账失败了，为什么不给我退币？](transfer-tutorial/wallet-transfer-faq/why-do-not-return-my-coins.md)
 
 ## DeFi教程 <a href="#about-defi" id="about-defi"></a>
 
 ## 常见问题 <a href="#fqa" id="fqa"></a>
-
-* [区块浏览器使用教程](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/README.md)
-  * [什么是区块浏览器？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/shi-mo-shi-qu-kuai-liu-lan-qi.md)
-  * [什么是哈希值（交易哈希）？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/shi-mo-shi-ha-xi-zhi-jiao-yi-ha-xi.md)
-  * [BSC浏览器使用教程](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/README.md)
-    * [如何在BSC区块浏览器查询交易记录？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/query-the-transfer-record-bsc.md)
-    * [如何在BSC区块浏览器查询资产？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/bsc-liu-lan-qi-shi-yong-jiao-cheng/ru-he-zai-bsc-qu-kuai-liu-lan-qi-cha-xun-zi-chan.md)
-    * [如何在BSC区块浏览器查询代币信息？](fqa/blockchain-explorer-tutorial/bsc-explorer-tutorial/inquire-token-info-bsc.md)
-  * [TRON浏览器使用教程](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/README.md)
-    * [如何在TRON区块浏览器查询交易记录？](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-the-transfer-record-tron.md)
-    * [如何在TRON区块浏览器查询资产？](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-wallet-address-tron.md)
-    * [如何在TRON区块浏览器查询代币信息？](fqa/blockchain-explorer-tutorial/tron-explorer-tutorial/inquire-token-info-tron.md)
-  * [ETH浏览器使用教程](fqa/blockchain-explorer-tutorial/eth-explorer-tutorial/README.md)
-    * [如何在ETH区块浏览器查询交易记录？](fqa/blockchain-explorer-tutorial/eth-explorer-tutorial/inquire-the-transfer-record-eth.md)
-    * [如何在ETH区块浏览器查询资产？](fqa/blockchain-explorer-tutorial/eth-explorer-tutorial/inquire-wallet-address-eth.md)
-    * [如何在ETH区块浏览器查询代币信息？](fqa/blockchain-explorer-tutorial/eth-explorer-tutorial/inquire-token-info-eth.md)
-* [我往合约转账了怎么办？](fqa/do-not-transfer-to-contract-address.md)
-* [不同公链间不能直接转账](fqa/transfer-from-different-chains.md)
-* [钱包【充值资产】到交易所未到账](fqa/fail-to-receive-assets-from-wallet.md)
-* [交易所【提现资产】到钱包未到账](fqa/fail-to-receive-assets-from-exchanges.md)
-* [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
-* [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
 
 ## 开发者模块 <a href="#developer" id="developer"></a>
 
@@ -192,7 +192,6 @@
 
 ***
 
-* [NFT应用功能说明](nft-application.md)
 * [致中国境内用户：TokenPocket 产品政策调整说明](TokenPocket-product-policy-adjustment-instructions.md)
 * [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
