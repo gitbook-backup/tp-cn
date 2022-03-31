@@ -155,6 +155,11 @@
 * [如何提交DApp?](developer/submit-dapp.md)
 * [如何提交NFT？](developer/submit-nft.md)
 
+## 💻 插件钱包 <a href="#extension-wallet" id="extension-wallet"></a>
+
+* [插件钱包使用教程](extension-wallet/tutorial.md)
+* [插件钱包更新](extension-wallet/update-log.md)
+
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)

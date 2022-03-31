@@ -16,9 +16,10 @@
 
 **项目方**
 
-* [项目上线申请](https://www.tokenpocket.pro/zh/submit/dapp)
+* [DApp收录申请](https://www.tokenpocket.pro/zh/submit/dapp)
 * [代币收录申请](https://www.tokenpocket.pro/zh/submit/token)
 * [NFT收录申请](https://tokenpocket.pro/zh/submit/nft)
+* [logo收录提交](https://help.tokenpocket.pro/cn/developer/submit-logo)
 
 **关注我们**
 
