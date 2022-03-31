@@ -66,7 +66,6 @@
 * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
 * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app-1.md)
 * [关于自定义代币](wallet-operation/about-custom-token.md)
-* [如何自主更新代币图标？](wallet-operation/submit-token.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
   * [Moonriver-添加自定义网络教程](wallet-operation/about-custom-networks/moonriver-add-custom-network.md)
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
@@ -153,6 +152,11 @@
 * [交易所【提现资产】到钱包未到账](fqa/fail-to-receive-assets-from-exchanges.md)
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
+
+## 开发者模块 <a href="#developer" id="developer"></a>
+
+* [如何自主更新代币图标？](developer/submit-logo.md)
+* [如何提交代币？](developer/submit.md)
 
 ## 产品公告 <a href="#announcement" id="announcement"></a>
 
