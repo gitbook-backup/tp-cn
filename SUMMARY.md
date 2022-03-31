@@ -152,7 +152,6 @@
 * [钱包【充值资产】到交易所未到账](fqa/fail-to-receive-assets-from-wallet.md)
 * [交易所【提现资产】到钱包未到账](fqa/fail-to-receive-assets-from-exchanges.md)
 * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
-* [版本更新日志（30/10/2020）：iOS支持DApp浮窗](fqa/ban-ben-geng-xin-ri-zhi-30102020ios-zhi-chi-dapp-fu-chuang.md)
 * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
 
 ## 产品公告 <a href="#announcement" id="announcement"></a>
@@ -184,6 +183,7 @@
   * [版本更新日志（22/01/2021）：正式支持OKExChain](announcement/update/ban-ben-geng-xin-ri-zhi-22012021-zheng-shi-zhi-chi-okexchain.md)
   * [版本更新日志（25/12/2020）：正式支持Polkadot和Kusama链](announcement/update/untitled.md)
   * [版本更新日志（21/12/2020）：支持火币生态链(Heco）](announcement/update/ban-ben-geng-xin-ri-zhi-21122020-zhi-chi-huo-bi-sheng-tai-lian-heco.md)
+  * [版本更新日志（30/10/2020）：iOS支持DApp浮窗](announcement/update/ban-ben-geng-xin-ri-zhi-30102020ios-zhi-chi-dapp-fu-chuang.md)
 
 ***
 
