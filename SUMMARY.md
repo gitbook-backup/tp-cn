@@ -93,7 +93,6 @@
 * [如何添加代币？](token-management/add-token.md)
 * [如何搜索代币？](token-management/search-token.md)
 * [如何删除代币？](token-management/delete-token.md)
-* [如何提交代币？](token-management/submit-token.md)
 
 ## 转账教程 <a href="#transfer-tutorial" id="transfer-tutorial"></a>
 
@@ -108,20 +107,20 @@
 
 ***
 
+* [创建钱包教程](create-wallet-tutorial/README.md)
+  * [TokenPocket带您一文玩转Harmony](create-wallet-tutorial/harmony-use-guide.md)
+  * [TokenPocket带您一文玩转Moonbeam！](create-wallet-tutorial/moonbeam-use-guide.md)
+  * [TokenPocket带你一文玩转WAX！](create-wallet-tutorial/wax-use-guide.md)
+  * [TokenPocket一文带你玩转Solana!](create-wallet-tutorial/solana-use-guide.md)
+  * [TokenPocket一文带你玩转Avalanche!](create-wallet-tutorial/avalanche-use-guide.md)
+  * [TokenPocket一文带你玩转Fantom!](create-wallet-tutorial/fantom-use-guide.md)
+  * [TokenPocket一文带你玩转Arbitrum!](create-wallet-tutorial/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
+  * [如何在TokenPocket玩转Polygon（Matic）?](create-wallet-tutorial/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
+  * [如何在TokenPocket使用Klaytn?](create-wallet-tutorial/klaytn-use-guide.md)
 * [什么是DeFi？](what-is-defi.md)
 * [什么是DEX?](about-dex.md)
-* [如何提交DApp?](how-to-submit-dapp.md)
 * [如何在DEX上交易？](how-to-trade-on-dex/README.md)
-  * [TokenPocket带您一文玩转Harmony](how-to-trade-on-dex/harmony-use-guide.md)
-  * [TokenPocket带您一文玩转Moonbeam！](how-to-trade-on-dex/moonbeam-use-guide.md)
-  * [TokenPocket带你一文玩转WAX！](how-to-trade-on-dex/wax-use-guide.md)
-  * [TokenPocket一文带你玩转Solana!](how-to-trade-on-dex/solana-use-guide.md)
-  * [TokenPocket一文带你玩转Avalanche!](how-to-trade-on-dex/avalanche-use-guide.md)
-  * [TokenPocket一文带你玩转Fantom!](how-to-trade-on-dex/fantom-use-guide.md)
-  * [TokenPocket一文带你玩转Arbitrum!](how-to-trade-on-dex/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
   * [跨链聚合闪兑平台Transit Swap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
-  * [如何在TokenPocket玩转Polygon（Matic）?](how-to-trade-on-dex/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
-  * [如何在TokenPocket使用Klaytn?](how-to-trade-on-dex/klaytn-use-guide.md)
   * [Uniswap（以太坊）使用教程](how-to-trade-on-dex/dex-uniswap.md)
   * [PancakeSwap（BSC）使用教程](how-to-trade-on-dex/dex-pancakeswap.md)
   * [MDEX（HECO）使用教程](how-to-trade-on-dex/dex-mdex.md)
@@ -156,7 +155,9 @@
 ## 开发者模块 <a href="#developer" id="developer"></a>
 
 * [如何自主更新代币图标？](developer/submit-logo.md)
-* [如何提交代币？](developer/submit.md)
+* [如何提交代币？](developer/submit-token.md)
+* [如何提交DApp?](developer/submit-dapp.md)
+* [如何提交NFT？](developer/submit-nft.md)
 
 ## 产品公告 <a href="#announcement" id="announcement"></a>
 
