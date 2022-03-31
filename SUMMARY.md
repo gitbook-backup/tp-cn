@@ -8,6 +8,8 @@
 * [什么是去中心化钱包？](the-basics/what-is-a-decentralized-wallet.md)
 * [什么是私钥、助记词和密码？](the-basics/what-is-a-private-key-mnemonic-and-password.md)
 * [什么是矿工费？](the-basics/what-is-the-miner-fee.md)
+* [什么是DeFi？](the-basics/what-is-defi.md)
+* [什么是DEX?](the-basics/about-dex.md)
 
 ## 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
@@ -60,25 +62,47 @@
 
 ## 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
-* [NFT认证规范](wallet-operation/NFT-Application-Specification.md)
-* [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/set-nft.md)
-* [如何下载TokenPocket APP？](wallet-operation/download-tokenpocket-app.md)
-* [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
-* [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tokenpocket-app-1.md)
-* [关于自定义代币](wallet-operation/about-custom-token.md)
+* [关于DApp使用](wallet-operation/about-dapp/README.md)
+  * [如何创建DApp List?](wallet-operation/about-dapp/How-to-create-dapp-list.md)
+  * [如何收藏DAPP和TIP-001协议？](wallet-operation/about-dapp/How-to-collect-DAPP-and-TP-001-protocol.md)
+* [关于下载TokenPocket APP](wallet-operation/download-tp-app/README.md)
+  * [如何下载TokenPocket APP？](wallet-operation/download-tp-app/download-tokenpocket-app.md)
+  * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/download-tp-app/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
+  * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tp-app/download-tokenpocket-app-1.md)
+* [如何在DEX上交易？](wallet-operation/how-to-trade-on-dex/README.md)
+  * [跨链聚合闪兑平台Transit Swap2.0 教程](wallet-operation/how-to-trade-on-dex/xswap2.0-guide.md)
+  * [Uniswap（以太坊）使用教程](wallet-operation/how-to-trade-on-dex/dex-uniswap.md)
+  * [PancakeSwap（BSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-pancakeswap.md)
+  * [MDEX（HECO）使用教程](wallet-operation/how-to-trade-on-dex/dex-mdex.md)
+  * [JustSwap（TRON）使用教程](wallet-operation/how-to-trade-on-dex/dex-justswap.md)
+  * [PuddingSwap（HSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-puddingswap.md)
+  * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
+* [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
+  * [TokenPocket带您一文玩转Harmony](wallet-operation/create-wallet-tutorial/harmony-use-guide.md)
+  * [TokenPocket带您一文玩转Moonbeam！](wallet-operation/create-wallet-tutorial/moonbeam-use-guide.md)
+  * [TokenPocket带你一文玩转WAX！](wallet-operation/create-wallet-tutorial/wax-use-guide.md)
+  * [TokenPocket一文带你玩转Solana!](wallet-operation/create-wallet-tutorial/solana-use-guide.md)
+  * [TokenPocket一文带你玩转Avalanche!](wallet-operation/create-wallet-tutorial/avalanche-use-guide.md)
+  * [TokenPocket一文带你玩转Fantom!](wallet-operation/create-wallet-tutorial/fantom-use-guide.md)
+  * [TokenPocket一文带你玩转Arbitrum!](wallet-operation/create-wallet-tutorial/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
+  * [如何在TokenPocket玩转Polygon（Matic）?](wallet-operation/create-wallet-tutorial/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
+  * [如何在TokenPocket使用Klaytn?](wallet-operation/create-wallet-tutorial/klaytn-use-guide.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
   * [Moonriver-添加自定义网络教程](wallet-operation/about-custom-networks/moonriver-add-custom-network.md)
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
   * [如何添加自定义网络？](wallet-operation/about-custom-networks/add-custom-network-xdai-chain.md)
   * [如何删除自定义网络？](wallet-operation/about-custom-networks/delete-custom-network.md)
+* [关于NFT使用](wallet-operation/about-nft/README.md)
+  * [NFT认证规范](wallet-operation/about-nft/NFT-Application-Specification.md)
+  * [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/about-nft/set-nft.md)
+* [关于自定义代币](wallet-operation/about-custom-token.md)
 * [如何使用观察钱包以及冷钱包？](wallet-operation/how-to-use-watch-wallet-cold-wallet.md)
-* [如何创建DApp List?](wallet-operation/How-to-create-dapp-list.md)
-* [如何收藏DAPP和TIP-001协议？](wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md)
-* [关于不同公链的代币转账](wallet-operation/about-public-chain-transfer/README.md)
-  * [为什么不能直接往合约地址转账？](wallet-operation/about-public-chain-transfer/not-transfer-to-contract.md)
 
-## 钱包管理 <a href="#wallet-management" id="wallet-management"></a>
+## 🛠 钱包管理 <a href="#wallet-management" id="wallet-management"></a>
 
+* [如何添加代币？](wallet-management/add-token.md)
+* [如何搜索代币？](wallet-management/search-token.md)
+* [如何删除代币？](wallet-management/delete-token.md)
 * [如何隐藏钱包？](wallet-management/hide-wallet-network.md)
 * [如何创建钱包？](wallet-management/create-wallet.md)
 * [如何导入钱包？](wallet-management/import-wallet.md)
@@ -90,11 +114,7 @@
 
 ## 代币管理 <a href="#token-management" id="token-management"></a>
 
-* [如何添加代币？](token-management/add-token.md)
-* [如何搜索代币？](token-management/search-token.md)
-* [如何删除代币？](token-management/delete-token.md)
-
-## 转账教程 <a href="#transfer-tutorial" id="transfer-tutorial"></a>
+## 钱包转账 <a href="#transfer-tutorial" id="transfer-tutorial"></a>
 
 * [如何收款？](transfer-tutorial/receive-token.md)
 * [如何转账到钱包/交易所？](transfer-tutorial/transfer-to-the-wallet-or-exchange.md)
@@ -102,31 +122,11 @@
 * [如何加速转账交易？](transfer-tutorial/accelerate-transfer.md)
 * [如何在发起转账时添加memo？](transfer-tutorial/add-memo.md)
 * [关于转账的安全事项](transfer-tutorial/about-safe-transfer.md)
+* [关于不同公链的代币转账](transfer-tutorial/about-public-chain-transfer/README.md)
+  * [为什么不能直接往合约地址转账？](transfer-tutorial/about-public-chain-transfer/not-transfer-to-contract.md)
+* [钱包转账常见问题](transfer-tutorial/wallet-transfer-faq.md)
 
 ## DeFi教程 <a href="#about-defi" id="about-defi"></a>
-
-***
-
-* [创建钱包教程](create-wallet-tutorial/README.md)
-  * [TokenPocket带您一文玩转Harmony](create-wallet-tutorial/harmony-use-guide.md)
-  * [TokenPocket带您一文玩转Moonbeam！](create-wallet-tutorial/moonbeam-use-guide.md)
-  * [TokenPocket带你一文玩转WAX！](create-wallet-tutorial/wax-use-guide.md)
-  * [TokenPocket一文带你玩转Solana!](create-wallet-tutorial/solana-use-guide.md)
-  * [TokenPocket一文带你玩转Avalanche!](create-wallet-tutorial/avalanche-use-guide.md)
-  * [TokenPocket一文带你玩转Fantom!](create-wallet-tutorial/fantom-use-guide.md)
-  * [TokenPocket一文带你玩转Arbitrum!](create-wallet-tutorial/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
-  * [如何在TokenPocket玩转Polygon（Matic）?](create-wallet-tutorial/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
-  * [如何在TokenPocket使用Klaytn?](create-wallet-tutorial/klaytn-use-guide.md)
-* [什么是DeFi？](what-is-defi.md)
-* [什么是DEX?](about-dex.md)
-* [如何在DEX上交易？](how-to-trade-on-dex/README.md)
-  * [跨链聚合闪兑平台Transit Swap2.0 教程](how-to-trade-on-dex/xswap2.0-guide.md)
-  * [Uniswap（以太坊）使用教程](how-to-trade-on-dex/dex-uniswap.md)
-  * [PancakeSwap（BSC）使用教程](how-to-trade-on-dex/dex-pancakeswap.md)
-  * [MDEX（HECO）使用教程](how-to-trade-on-dex/dex-mdex.md)
-  * [JustSwap（TRON）使用教程](how-to-trade-on-dex/dex-justswap.md)
-  * [PuddingSwap（HSC）使用教程](how-to-trade-on-dex/dex-puddingswap.md)
-  * [SushiSwap（OKEX）使用教程](how-to-trade-on-dex/dex-sushi.md)
 
 ## 常见问题 <a href="#fqa" id="fqa"></a>
 

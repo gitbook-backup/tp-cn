@@ -70,7 +70,7 @@ TokenPocket仍对大陆IP继续保留钱包的基础服务功能，转账、收�
 
 更多了解请点击-
 
-[How-to-collect-DAPP-and-TP-001-protocol.md](../../wallet-operation/How-to-collect-DAPP-and-TP-001-protocol.md "mention")
+[How-to-collect-DAPP-and-TP-001-protocol.md](../../wallet-operation/about-dapp/How-to-collect-DAPP-and-TP-001-protocol.md "mention")
 
 <mark style="color:red;">**目前市场上出现诸多下载TokenPocket国际版的诈骗行文，TokenPocket在此严正声明，TokenPocket没有“国际版本”，请广大用户谨防上当受骗。**</mark>
 

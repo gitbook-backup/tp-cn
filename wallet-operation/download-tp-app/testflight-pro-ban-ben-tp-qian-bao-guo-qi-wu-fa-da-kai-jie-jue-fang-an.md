@@ -38,30 +38,30 @@ ps：如果备份时间较长，是因为手机中数据过多导致的，耐心
 
 **第一步：使用电脑导出所需文件**
 
-![](<../.gitbook/assets/1 (19).png>)
+![](<../../.gitbook/assets/1 (19).png>)
 
-![](<../.gitbook/assets/2 (15).png>)
+![](<../../.gitbook/assets/2 (15).png>)
 
-![](<../.gitbook/assets/1 (25).png>)
+![](<../../.gitbook/assets/1 (25).png>)
 
-![](<../.gitbook/assets/4 (10).png>)
+![](<../../.gitbook/assets/4 (10).png>)
 
-![](<../.gitbook/assets/5 (5).png>)
+![](<../../.gitbook/assets/5 (5).png>)
 
 在解决问题过程中我们发现好多用户并不会设置文件后缀，是因为一般的系统默认是关闭了可以查看和修改后缀的功能，需要用户单独设置一下，所以这里补充一段如何开启的教程。（以win10为例，其他系统类似）
 
 1、随意打开一个文件夹，点击左上角【文件】的位置在打开的菜单中选择【选项】；
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 2、在文件夹选项中点击【查看】在高级设置里把【隐藏已知文件类型的扩展名】的√去掉，然后点击右下角【确定】即可；
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 3、如果系统不是win10自己无法操作，那么可以去百度下。
 
 **第二步：获取到的文件传输到手机中并打开使用App Store版本TP钱包导入。**
 
-![](<../.gitbook/assets/2 (27).png>)
+![](<../../.gitbook/assets/2 (27).png>)
 
 **大家一定一定一定要养成备份私钥的良好习惯**

@@ -10,21 +10,21 @@
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Polygon （Matic），点击【添加钱包】；
 
-![](<../.gitbook/assets/1 (34).png>)
+![](<../../.gitbook/assets/1 (34).png>)
 
 2、点击【创建】，继续点击【创建钱包】；
 
-![](<../.gitbook/assets/2 (24).png>)
+![](<../../.gitbook/assets/2 (24).png>)
 
 3、依次设置【钱包名】和【密码】，然后勾选【服务及隐私条款】，点击【创建钱包】；然后开始备份助记词，点击【备份完成，进行验证】；
 
 注意：请勿将助记词透露给任何人！
 
-![](<../.gitbook/assets/3 (15).png>)
+![](<../../.gitbook/assets/3 (15).png>)
 
 4、按照顺序验证助记词，然后点击【确认】，至此，你已经成功添加Polygon（Matic）钱包。
 
-![](<../.gitbook/assets/4 (13).png>)
+![](<../../.gitbook/assets/4 (13).png>)
 
 ****
 
@@ -46,90 +46,90 @@
 
 3、选择连接钱包的方式；（此处以选择Metamask为例）
 
-![](../.gitbook/assets/br1.jpg)
+![](../../.gitbook/assets/br1.jpg)
 
 4、确认授权信息无误后，点击【确认】以进行账号授权；
 
-![](../.gitbook/assets/br2.jpg)
+![](../../.gitbook/assets/br2.jpg)
 
 5、进入Polygon Bridge页面后，点击顶部【Back to Wallet】；
 
-![](../.gitbook/assets/b6.jpg)
+![](../../.gitbook/assets/b6.jpg)
 
 6、选择需要充值到Polygon的币，然后点击【Deposit】；（此处以充值USDT到Polygon为例）
 
-![](../.gitbook/assets/deposit.jpg)
+![](../../.gitbook/assets/deposit.jpg)
 
 7、在输入框输入需要充值的金额（点击MAX可以直接填充该币所有资产），然后点击【Transfer】进行转账；
 
-![](../.gitbook/assets/br4.jpg)
+![](../../.gitbook/assets/br4.jpg)
 
 8、确认充值的方向为从以太坊 到 Matic，然后点击【Continue】；
 
 注意：该过程不支持委托或质押的资产进行转账跨链。
 
-![](../.gitbook/assets/br5.jpg)
+![](../../.gitbook/assets/br5.jpg)
 
 9、该充值过程包含两笔交易（授权充值和完成充值），继续点击【Continue】；
 
-![](../.gitbook/assets/br6.jpg)
+![](../../.gitbook/assets/br6.jpg)
 
 10、再次确认转账方向和转账模式，然后点击【Continue】以继续；
 
 注意：如果需要提现回以太坊链，需要约三小时的赎回期。
 
-![](../.gitbook/assets/br7.jpg)
+![](../../.gitbook/assets/br7.jpg)
 
 
 
 11、确认交易信息无误后，点击【确认支付】进行转账授权；
 
-![](../.gitbook/assets/br8.jpg)
+![](../../.gitbook/assets/br8.jpg)
 
 12、完成支付后，再点击【Continue】进行确认该笔交易；
 
-![](../.gitbook/assets/br10.jpg)
+![](../../.gitbook/assets/br10.jpg)
 
 13、确认交易信息无误后，点击【确认支付】进行转账。耐心等待几分钟后，即可收到转账成功的提示，刷新后，可以在Polygon钱包查看资产。
 
 注意：如需调整矿工费，可点击【矿工费】自行调整Gas Price和Gas Limit。
 
-![](../.gitbook/assets/br013.jpg)
+![](../../.gitbook/assets/br013.jpg)
 
 
 
 **如何使用xPollinate将BSC的资产跨链至Polygon？**\
 ****1、在TokenPocket底部点击【发现】，然后顶部搜索【xPollinate】，并点击进入页面**；**
 
-![](<../.gitbook/assets/6 (6).png>)
+![](<../../.gitbook/assets/6 (6).png>)
 
 2、点击【Connect】连接钱包地址；（此处以BSC上的资产跨链到Matic为例）
 
-![](../.gitbook/assets/op2.jpg)
+![](../../.gitbook/assets/op2.jpg)
 
 3、选择所需跨链的网络为BSC，即从BSC链的资产转账至Matic；
 
-![](../.gitbook/assets/op02.jpg)
+![](../../.gitbook/assets/op02.jpg)
 
 4、选择需要跨链的代币；（目前仅支持稳定币，此处以USDT为例）
 
-![](../.gitbook/assets/op3.jpg)
+![](../../.gitbook/assets/op3.jpg)
 
 5、确认授权的钱包地址无误后，点击【确认】；
 
-![](../.gitbook/assets/op4.jpg)
+![](../../.gitbook/assets/op4.jpg)
 
 ****
 
 5、输入发送代币的数量后，接收数量将自动填充，然后点击【Swap】进行兑换；
 
-![](../.gitbook/assets/op5.jpg)
+![](../../.gitbook/assets/op5.jpg)
 
 6、确认交易信息无误后，点击【确认支付】，然后输入钱包密码即可进行转账。转账成功后，可在Matic链的钱包中进行查看资产。
 
 提示：点击【矿工费】可以调整Gas费以防止链上拥堵情况。
 
-![](../.gitbook/assets/op6.jpg)
+![](../../.gitbook/assets/op6.jpg)
 
 ****
 

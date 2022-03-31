@@ -7,13 +7,13 @@
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后往下滑动找到Klaytn图标后，点击【添加钱包】；
 
-![](../.gitbook/assets/chuang-jian-qian-bao-1.jpg)
+![](../../.gitbook/assets/chuang-jian-qian-bao-1.jpg)
 
 2、点击【创建】进行创建Klaytn钱包；
 
 **注意：创建钱包后，请务必保管好助记词/私钥，并且不要泄露给任何人！**
 
-![](../.gitbook/assets/chuang-jian-qian-bao-2.jpg)
+![](../../.gitbook/assets/chuang-jian-qian-bao-2.jpg)
 
 **相关文章：**\
 ****1）[如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)\
@@ -25,42 +25,42 @@
 
 1、打开[OrbitBridge](https://bridge.orbitchain.io)网页（目前不支持App端的操作），点击右上角【Select Coin】选择需要转入Klaytn链的代币；
 
-![](../.gitbook/assets/o1.png)
+![](../../.gitbook/assets/o1.png)
 
 2、点击需要转账的代币，然后点击【OK】；（此处以转入ETH为例）
 
-![](../.gitbook/assets/cha-ru-2.png)
+![](../../.gitbook/assets/cha-ru-2.png)
 
 3、选择一组ETH验证组，点击【OK】继续；
 
-![](../.gitbook/assets/cha-ru-3.jpg)
+![](../../.gitbook/assets/cha-ru-3.jpg)
 
 4、接下来在【FROM CHAIN】中点击下拉按钮进行选择转出代币的链；（此处以从以太坊链到Klaytn链为例）
 
-![](../.gitbook/assets/o2.png)
+![](../../.gitbook/assets/o2.png)
 
 5、随后将出现弹窗连接钱包；（支持链接MateMask钱包）
 
-![](../.gitbook/assets/lian-jie-qian-bao-.png)
+![](../../.gitbook/assets/lian-jie-qian-bao-.png)
 
 6、钱包连接成功后，输入转出代币的数量，然后在【TO CHAIN】中选择Klaytn链，接收代币数量将自动显示；
 
-![](../.gitbook/assets/o3.png)
+![](../../.gitbook/assets/o3.png)
 
 7、接着输入代币的接收地址**，**然后点击【CONVERT NOW】进行跨链兑换；
 
 **注意：1）输入接收地址时，请确认是否为该链的代币接收地址。**\
 **2）兑换时，钱包需要预留一部分的手续费/税费。**
 
-![](../.gitbook/assets/o4.png)
+![](../../.gitbook/assets/o4.png)
 
 8、确认交易信息无误后，点击【Confirm】**，**然后在弹出的钱包页面点击【确认】继续下一步；
 
-![](../.gitbook/assets/o5.png)
+![](../../.gitbook/assets/o5.png)
 
 9、等待片刻后，将弹出转账完成的通知。点击【Tx History】可在浏览器[**EXPLORER**](https://bridge.orbitchain.io/history)查看转账情况。转账完成后，可进入Klaytn钱包进行查看资产。至此，您可以开始在Klaytn链体验各种DApp。
 
-![](../.gitbook/assets/o7.png)
+![](../../.gitbook/assets/o7.png)
 
 {% hint style="info" %}
 本教程仅为DApp在钱包端的操作指南，不代表TokenPocket的投资建议。投资有风险，您须充分认识风险，并自行作出投资决策。

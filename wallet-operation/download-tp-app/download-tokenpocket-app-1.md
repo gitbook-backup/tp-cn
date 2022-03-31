@@ -8,7 +8,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 1.网页搜索[http://appleid.apple.com](http://appleid.apple.com)，点击「创建您的Apple ID」进入注册新Apple ID页面，填写相关信息：地区需选择为【美国】；邮箱和手机号码应是有效且正在使用的，后续会通过邮箱和手机号进行ID验证，全部填写完后点击「继续」。
 
-![](<../.gitbook/assets/1 (45).png>)
+![](<../../.gitbook/assets/1 (45).png>)
 
 2.邮箱和手机号将会陆续收到6位数字的验证码，按照提示输入验证码，海外Apple ID就注册成功了。
 
@@ -18,25 +18,25 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 注：请使用本人注册的海外ID账户进行登录下载；请勿使用他人账户；请勿泄漏账户名称及账户密码，谨防诈骗。
 
-![](<../.gitbook/assets/2 (28).png>)
+![](<../../.gitbook/assets/2 (28).png>)
 
 
 
 2.由于是新的ID，会出现所示的提示，点击【检查】，勾选【同意】，即可进入下一步；
 
-![](<../.gitbook/assets/3 (23).png>)
+![](<../../.gitbook/assets/3 (23).png>)
 
 3.按照下图所示填写相关信息，填写完成后点击【下一页】；
 
-![](<../.gitbook/assets/4 (15).png>)
+![](<../../.gitbook/assets/4 (15).png>)
 
 4.登录完成后，在App Store里搜索“TokenPocket”，即可下载正版TokenPocket App;
 
-![](<../.gitbook/assets/1 (23) (1).png>)
+![](<../../.gitbook/assets/1 (23) (1).png>)
 
 5.请认准APP发布者信息为TOKENPOCKET FOUNDATION LTD.，其余均为假冒软件，谨防受骗！
 
-![](<../.gitbook/assets/2 (18) (1).png>)
+![](<../../.gitbook/assets/2 (18) (1).png>)
 
 **TOKENPOCKET钱包迁移教程**
 
@@ -44,7 +44,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 2.点击【开始迁移】，在下方工具栏中找到App store版TokenPocket APP进行钱包数据迁移。至此，您已完成将TestFlight版TokenPocket APP钱包数据迁移至App store版TokenPocket APP的操作。
 
-![](<../.gitbook/assets/3 (16) (1).png>)
+![](<../../.gitbook/assets/3 (16) (1).png>)
 
 **注意：**
 

@@ -1,8 +1,8 @@
 # NFT认证规范
 
-![](../.gitbook/assets/中文.png)
+![](../../.gitbook/assets/中文.png)
 
-![](../.gitbook/assets/认证-zh.png)
+![](../../.gitbook/assets/认证-zh.png)
 
 #### 认证规则说明👇
 
