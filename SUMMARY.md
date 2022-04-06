@@ -154,6 +154,7 @@
 * [如何提交代币？](developer/submit-token.md)
 * [如何提交DApp?](developer/submit-dapp.md)
 * [如何提交NFT？](developer/submit-nft.md)
+* [如何提交公链？](developer/submit-chain.md)
 
 ## 💻 插件钱包 <a href="#extension-wallet" id="extension-wallet"></a>
 
