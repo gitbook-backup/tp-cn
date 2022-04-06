@@ -96,8 +96,6 @@
   * [NFT认证规范](wallet-operation/about-nft/NFT-Application-Specification.md)
   * [NFT应用功能说明](nft-application.md)
   * [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/about-nft/set-nft.md)
-* [关于自定义代币](wallet-operation/about-custom-token.md)
-* [如何使用观察钱包以及冷钱包？](wallet-operation/how-to-use-watch-wallet-cold-wallet.md)
 
 ## 🛠 钱包管理 <a href="#wallet-management" id="wallet-management"></a>
 
@@ -105,6 +103,8 @@
   * [如何添加代币？](wallet-management/token/add-token.md)
   * [如何搜索代币？](wallet-management/token/search-token.md)
   * [如何删除代币？](wallet-management/token/delete-token.md)
+  * [如何管理NFT资产？](wallet-management/token/how-to-manage-my-nft-assets.md)
+  * [关于自定义代币](wallet-management/token/about-custom-token.md)
 * [钱包管理](wallet-management/wallet/README.md)
   * [如何隐藏钱包？](wallet-management/wallet/hide-wallet-network.md)
   * [如何创建钱包？](wallet-management/wallet/create-wallet.md)
@@ -113,7 +113,7 @@
   * [如何切换钱包？](wallet-management/wallet/switch-wallet.md)
   * [如何同步钱包？](wallet-management/wallet/wallet-sync.md)
   * [如何一键迁移钱包数据？](wallet-management/wallet/wallet-data-migration.md)
-* [如何管理NFT资产？](wallet-management/how-to-manage-my-nft-assets.md)
+  * [如何使用观察钱包以及冷钱包？](wallet-management/wallet/how-to-use-watch-wallet-cold-wallet.md)
 * [区块浏览器使用教程](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/README.md)
   * [什么是区块浏览器？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/shi-mo-shi-qu-kuai-liu-lan-qi.md)
   * [什么是哈希值（交易哈希）？](fqa/qu-kuai-liu-lan-qi-shi-yong-jiao-cheng/shi-mo-shi-ha-xi-zhi-jiao-yi-ha-xi.md)
