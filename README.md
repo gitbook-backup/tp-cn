@@ -1,6 +1,6 @@
 # TokenPocket简介
 
-[TokenPocket](https://www.tokenpocket.pro)是全球领先的多链自托管钱包，支持BTC、ETH、BSC、Polygon、Solana、HECO、Klaytn、Avalanche、Tron、OEC、HSC、Fantom、Polkadot、Kusama、EOS等主流公链，钱包私钥储存在用户的设备中，并且永远不会上传到服务器，用户可以完全掌控加密资产。TokenPocket已为全球1000多万用户提供安全可靠的服务，月活用户超500万，遍布全球200多个国家和地区。
+[TokenPocket](https://www.tokenpocket.pro)是全球领先的多链自托管钱包，支持BTC、ETH、BSC、Polygon、Solana、HECO、Klaytn、Avalanche、Tron、OEC、HSC、Fantom、Polkadot、Kusama、EOS等主流公链，钱包私钥储存在用户的设备中，并且永远不会上传到服务器，用户可以完全掌控加密资产。TokenPocket已为全球1000多万用户提供安全可靠的服务，月活用户超350万，遍布全球200多个国家和地区。
 
 :mobile\_phone:手机端下载：🍎 [**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697) **** 🤖 [**安卓**](https://play.google.com/store/apps/details?id=vip.mytokenpocket) 。
 
