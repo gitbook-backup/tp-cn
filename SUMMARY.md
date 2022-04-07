@@ -75,6 +75,7 @@
   * [PuddingSwap（HSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
+  * [TokenPocket带你一文玩转KCC！](wallet-operation/create-wallet-tutorial/kcc-use-guide.md)
   * [TokenPocket带您一文玩转Harmony](wallet-operation/create-wallet-tutorial/harmony-use-guide.md)
   * [TokenPocket带您一文玩转Moonbeam！](wallet-operation/create-wallet-tutorial/moonbeam-use-guide.md)
   * [TokenPocket带你一文玩转WAX！](wallet-operation/create-wallet-tutorial/wax-use-guide.md)
