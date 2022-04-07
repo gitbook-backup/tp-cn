@@ -162,6 +162,7 @@
 * [插件钱包使用教程](extension-wallet/tutorial.md)
 * [插件钱包更新](extension-wallet/update-log.md)
 * [隐私政策](extension-wallet/privacy-policy.md)
+* [使用协议](extension-wallet/term-of-use.md)
 
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
