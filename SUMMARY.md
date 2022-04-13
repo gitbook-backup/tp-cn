@@ -159,7 +159,13 @@
 
 ## 💻 插件钱包 <a href="#extension-wallet" id="extension-wallet"></a>
 
-* [插件钱包使用教程](extension-wallet/tutorial.md)
+* [插件钱包常见问题](extension-wallet/faq/README.md)
+  * [基本功能介绍](extension-wallet/faq/ji-ben-gong-neng-jie-shao.md)
+  * [TokenPocket插件钱包安装教程](extension-wallet/faq/installation-tutorial.md)
+  * [使用教程](extension-wallet/faq/use-tutorial/README.md)
+    * [如何导入/创建钱包？](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
+    * [如何连接TokenPocket插件钱包？](extension-wallet/faq/use-tutorial/how-to-connect-with-tp-extension-wallet.md)
+    * [如何在TokenPocket插件钱包中使用兑换功能？](extension-wallet/faq/use-tutorial/how-to-swap.md)
 * [插件钱包更新](extension-wallet/update-log.md)
 * [隐私政策](extension-wallet/privacy-policy.md)
 * [使用协议](extension-wallet/term-of-use.md)
