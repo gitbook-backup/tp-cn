@@ -1,6 +1,6 @@
 # TokenPocket带您一文玩转Conflux eSpace!
 
-**如何创建Conflux eSpace钱包？**
+**如何在TokenPocket创建Conflux eSpace钱包？**
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Conflux eSpace，点击<mark style="color:blue;">**【添加钱包】**</mark>；点击<mark style="color:blue;">**【创建钱包】**</mark>，继续点击<mark style="color:blue;">**【创建钱包】**</mark>；
 
