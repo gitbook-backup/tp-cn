@@ -18,7 +18,7 @@
 
 **如何在TokenPocket导入Conflux eSpace钱包？**
 
-1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Conflux eSpace，点击<mark style="color:blue;">【添加钱包】</mark>；点击<mark style="color:blue;">【导入钱包】</mark>，继续点击<mark style="color:blue;">【私钥导入】或【助记词导入】</mark>；以助记词导入为例，输入备份的【助记词】及【钱包名称】、【密码】，勾选【服务及隐私条款】；点击<mark style="color:blue;">【导入钱包】；</mark>
+1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Conflux eSpace，点击<mark style="color:blue;">**【添加钱包】**</mark>；点击<mark style="color:blue;">**【导入钱包】**</mark>，继续点击<mark style="color:blue;">**【私钥导入】或【助记词导入】**</mark>；以助记词导入为例，输入备份的【助记词】及【钱包名称】、【密码】，勾选【服务及隐私条款】；点击<mark style="color:blue;">【导入钱包】；</mark>
 
 ![](<../../.gitbook/assets/wax1 zh.png>)
 
