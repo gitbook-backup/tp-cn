@@ -170,6 +170,10 @@
 * [隐私政策](extension-wallet/privacy-policy.md)
 * [使用协议](extension-wallet/term-of-use.md)
 
+## ⚡ Transit Swap
+
+* [代币列表更新](transit-swap/token-list-update.md)
+
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
