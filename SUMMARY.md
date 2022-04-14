@@ -64,7 +64,7 @@
 
 * [关于下载TokenPocket APP](wallet-operation/download-tp-app/README.md)
   * [如何下载TokenPocket APP？](wallet-operation/download-tp-app/download-tokenpocket-app.md)
-  * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/download-tp-app/testflight-pro-ban-ben-tp-qian-bao-guo-qi-wu-fa-da-kai-jie-jue-fang-an.md)
+  * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/download-tp-app/testflight-pro-solution.md)
   * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tp-app/download-tokenpocket-app-1.md)
 * [如何在DEX上交易？](wallet-operation/how-to-trade-on-dex/README.md)
   * [跨链聚合闪兑平台Transit Swap2.0 教程](wallet-operation/how-to-trade-on-dex/transit-swap.md)
@@ -75,6 +75,7 @@
   * [PuddingSwap（HSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
+  * [TokenPocket带您一文玩转Conflux eSpace!](wallet-operation/create-wallet-tutorial/cfx-use-guide.md)
   * [TokenPocket带你一文玩转KCC！](wallet-operation/create-wallet-tutorial/kcc-use-guide.md)
   * [TokenPocket带您一文玩转Harmony](wallet-operation/create-wallet-tutorial/harmony-use-guide.md)
   * [TokenPocket带您一文玩转Moonbeam！](wallet-operation/create-wallet-tutorial/moonbeam-use-guide.md)

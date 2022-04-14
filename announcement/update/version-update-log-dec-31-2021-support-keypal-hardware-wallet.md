@@ -40,7 +40,7 @@ PIN码是指KeyPal设备的密码，注意，请保存好您所设置的PIN码�
 
 在使用设置中查看蓝牙是否开启；在【关于】-【设备信息】中查看您的KeyPal设备蓝牙名称。确认名称无误后，点击蓝牙名称，并输入您的蓝牙匹配码（蓝牙匹配码会显示在KeyPal中）
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 ![](<../../.gitbook/assets/image (25) (1).png>)
 

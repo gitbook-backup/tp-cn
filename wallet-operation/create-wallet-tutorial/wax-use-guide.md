@@ -10,7 +10,7 @@
 
 **注意：请勿将私钥透露给任何人！**
 
-![](<../../.gitbook/assets/wax2 zh new.png>)
+![](<../../.gitbook/assets/wax2 zh new (2).png>)
 
 3、WAX账户转账创建需要通过交易所提币并备注或钱包转账并备注的方式向转入账号<mark style="color:red;">**2WAXP**</mark>进行创建。转账完成后，点击【激活账号】，系统会自动认证转账并为您激活账户。
 
