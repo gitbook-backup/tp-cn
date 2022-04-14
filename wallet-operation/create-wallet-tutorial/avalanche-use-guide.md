@@ -20,7 +20,7 @@ Avalanche雪崩协议是对开发者最为友好的、可定制化高性能公�
 
 4、按照顺序验证助记词，然后点击【确认】。至此，你已经成功创建Avalanche钱包。
 
-![](<../../.gitbook/assets/4 (14).png>)
+![](<../../.gitbook/assets/4 (14) (1).png>)
 
 **如何在TokenPocket导入Avalanche钱包？**
 
@@ -44,7 +44,7 @@ Avalanche雪崩协议是对开发者最为友好的、可定制化高性能公�
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Avalanche，点击右上角【+】，点击【创建钱包】；
 
-![](<../../.gitbook/assets/8 (2).png>)
+![](<../../.gitbook/assets/8 (2) (1).png>)
 
 2、点击【一键同步】；
 

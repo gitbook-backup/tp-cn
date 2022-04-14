@@ -159,7 +159,7 @@
 
 ## 💻 插件钱包 <a href="#extension-wallet" id="extension-wallet"></a>
 
-* [插件钱包常见问题](extension-wallet/faq/README.md)
+* [插件钱包常见问题](extension-wallet/tutorial.md)
   * [基本功能介绍](extension-wallet/faq/ji-ben-gong-neng-jie-shao.md)
   * [TokenPocket插件钱包安装教程](extension-wallet/faq/installation-tutorial.md)
   * [使用教程](extension-wallet/faq/use-tutorial/README.md)
@@ -177,6 +177,7 @@
   * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/20220125-guan-yu-klayten.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（04/13/2022）: Transit Swap添加活动中心，支持第三方Token List; 新增余额缓冲机制；支持NFT显示24h交易价格；优化转账页面合约地址提醒；等](announcement/update/version-update-Apr-13.md)
   * [版本更新日志（03/31/2022）: 支持EOS、TRON连接硬件钱包；Token详情页面优化；支持OKX品牌升级。](announcement/update/version-update-Apr-2.md)
   * [版本更新日志（03/11/2022）：市场页面支持波场链；市场页面支持跨链服务；市场页面UI优化；](announcement/update/version-update-mar-11.md)
   * [版本更新日志（02/25/2022）：支持ERC1155；新增NFT管理页面；增加热门数据显示提醒.](announcement/update/version-update-feb-25.md)

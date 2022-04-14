@@ -20,13 +20,13 @@ TokenPocket正式上线以太坊 Layer2 扩容方案Arbitrum底层。用户在To
 
 4、按照顺序验证助记词，然后点击【确认】。至此，你已经成功添加Arbitrum钱包。
 
-![](<../../.gitbook/assets/4 (16).png>)
+![](<../../.gitbook/assets/4 (16) (1).png>)
 
 **如何在TokenPocket导入Arbitrum钱包？**
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Arbitrum，点击【添加钱包】；
 
-![](<../../.gitbook/assets/5 (12).png>)
+![](<../../.gitbook/assets/5 (12) (1).png>)
 
 2、点击【导入钱包】，继续点击【私钥导入】或【助记词导入】；
 
@@ -36,7 +36,7 @@ TokenPocket正式上线以太坊 Layer2 扩容方案Arbitrum底层。用户在To
 
 **注意：请勿将助记词透露给任何人！**
 
-![](<../../.gitbook/assets/7 (6).png>)
+![](<../../.gitbook/assets/7 (6) (1).png>)
 
 4、点击【导入钱包】，至此，你已经成功导入Arbitrum钱包。
 
