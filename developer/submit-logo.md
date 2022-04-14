@@ -120,7 +120,7 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 1\. 打开TokenPocket App，点击底部【资产】，选择TPT，进入页面后点击【转账】
 
-‌![](<../.gitbook/assets/1 (26).png>)![](../.gitbook/assets/111.png)
+‌![](<../.gitbook/assets/1 (26) (1).png>)![](../.gitbook/assets/111.png)
 
 2\. 点击【直接转账】进入页面，输入收款账号和30,000 TPT数量，然后选择矿工费，点击【确认】，确认信息无误后点击【确认支付】完成30,000 TPT的转账。‌
 
