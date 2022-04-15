@@ -173,7 +173,8 @@
 
 ## ⚡ Transit Swap
 
-* [代币列表更新](transit-swap/token-list-update.md)
+* [代币列表更新](transit-swap/token-list-update/README.md)
+  * [代幣列表更新 （04/15/2022）](transit-swap/token-list-update/token-list-update-april-15-2022.md)
 
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
