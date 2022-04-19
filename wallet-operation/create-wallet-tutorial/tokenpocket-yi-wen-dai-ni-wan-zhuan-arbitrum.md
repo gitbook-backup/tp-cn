@@ -56,6 +56,6 @@ TokenPocket正式上线以太坊 Layer2 扩容方案Arbitrum底层。用户在To
 
 3、勾选【可同步钱包】，点击【开始同步】；至此，Arbitrum钱包网络已同步完成，可在资产页面选择Arbitrum查看。
 
-![](<../../.gitbook/assets/11 (3).png>)
+![](<../../.gitbook/assets/11 (3) (1).png>)
 
 **注意：为保证您的资金安全，请勿将助记词或私钥透露给任何人！**
