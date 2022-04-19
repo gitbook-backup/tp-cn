@@ -95,7 +95,7 @@
   * [如何创建DApp List?](wallet-operation/about-dapp/How-to-create-dapp-list.md)
   * [如何收藏DAPP和TIP-001协议？](wallet-operation/about-dapp/How-to-collect-DAPP-and-TP-001-protocol.md)
 * [关于NFT使用](wallet-operation/about-nft/README.md)
-  * [NFT皮肤加载说明](wallet-operation/about-nft/NFT.md)
+  * [NFT皮肤赛使用教程](wallet-operation/about-nft/NFT.md)
   * [NFT认证规范](wallet-operation/about-nft/NFT-Application-Specification.md)
   * [NFT应用功能说明](nft-application.md)
   * [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/about-nft/set-nft.md)
