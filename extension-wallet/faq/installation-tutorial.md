@@ -10,11 +10,11 @@
 
 2.进入Chrome商店，点击<mark style="color:orange;">**【添加至Chrome】**</mark>；
 
-
+![](../../.gitbook/assets/WechatIMG369.png)
 
 3.点击添加至<mark style="color:orange;">**【扩展程序】**</mark>；
 
-
+![](../../.gitbook/assets/WechatIMG370.png)
 
 4.成功将TokenPocket添加至浏览器扩展功能后，点击<mark style="color:orange;">**【开始使用】**</mark>.
 
@@ -24,15 +24,15 @@
 
 1. 点击[https://extension.tokenpocket.pro/#/](https://extension.tokenpocket.pro/#/)，进入TokenPocket插件钱包官网，将鼠标移动至<mark style="color:orange;">**【插件钱包】**</mark>，点击<mark style="color:orange;">**【本地下载】**</mark>；
 
-
+![](../../.gitbook/assets/WechatIMG293.png)
 
 2\. 解压TokenPocket插件钱包安装包为文件夹；
 
-
+![](../../.gitbook/assets/WechatIMG371.png)
 
 3.打开chrome浏览器，点击<mark style="color:orange;">**【设置】**</mark>-<mark style="color:orange;">【</mark><mark style="color:orange;">**扩展功能】**</mark>-打开<mark style="color:orange;">**【开发者模式】【加载已解压的扩展程序】**</mark>，载入TokenPocket插件钱包安装文件夹。
 
-
+![](<../../.gitbook/assets/Group 1.png>)
 
 4\. 成功将TokenPocket插件钱包添加至浏览器扩展功能后，点击<mark style="color:orange;">**【开始使用】**</mark>;
 
