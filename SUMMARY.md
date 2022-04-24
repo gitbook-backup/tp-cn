@@ -168,7 +168,8 @@
     * [如何导入/创建钱包？](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
     * [如何连接TokenPocket插件钱包？](extension-wallet/faq/use-tutorial/how-to-connect-with-tp-extension-wallet.md)
     * [如何在TokenPocket插件钱包中使用兑换功能？](extension-wallet/faq/use-tutorial/how-to-swap.md)
-* [插件钱包更新](extension-wallet/update-log.md)
+* [插件钱包更新](extension-wallet/update-log/README.md)
+  * [TokenPocket品牌升级(04/24/2022)](<extension-wallet/update-log/Officially-Upgraded .md>)
 * [隐私政策](extension-wallet/privacy-policy.md)
 * [使用协议](extension-wallet/term-of-use.md)
 
