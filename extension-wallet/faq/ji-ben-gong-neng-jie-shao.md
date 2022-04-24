@@ -2,7 +2,7 @@
 
 <mark style="color:orange;">**一、主页面基本介绍**</mark>
 
-![](<../../.gitbook/assets/Group 26.png>)
+![](<../../.gitbook/assets/Group 18990 (1).png>)
 
 <mark style="color:orange;">**二、关于【创建账户】**</mark>
 
