@@ -6,6 +6,10 @@
 
 因此，该操作存在非常大的安全隐患！
 
+{% embed url="https://www.youtube.com/watch?v=iIvBlgOgjJA" %}
+关于Approve视频讲解
+{% endembed %}
+
 **为什么要授权（Approve）？**
 
 用以太坊网络举例，由于ETH是原生资产，在向目标智能合约转账的时候，本身会携带ETH资产到目标合约中；而非原生资产ERC20代币在向目标合约转账时，只是更改ERC20代币合约本身的账本信息，目标合约不会收到任何通知，因此approve操作是告知ERC20代币合约，将来某授权账号可以划转我的资产。
