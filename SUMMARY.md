@@ -220,7 +220,7 @@
 
 ## 📩 联系我们 <a href="#contact-us" id="contact-us"></a>
 
-* [加入我们](contact-us/jia-ru-wo-men.md)
+* [加入我们](contact-us/jiaru.md)
 * [联系方式](contact-us/contact-methods.md)
 * [司法协助政策](contact-us/help-policy.md)
 
