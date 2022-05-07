@@ -6,7 +6,7 @@
 
 因此，该操作存在非常大的安全隐患！
 
-{% embed url="https://www.youtube.com/watch?v=iIvBlgOgjJA" %}
+{% embed url="https://www.bilibili.com/video/BV1ZS4y1w76m?spm_id_from=333.999.0.0" %}
 关于Approve视频讲解
 {% endembed %}
 
@@ -39,3 +39,4 @@
 3.创建新的钱包，在授权等操作完成后，将Token转到新的钱包地址，该地址由于没有授权历史所以较为安全.&#x20;
 
 （注：授权清理也不意味着绝对安全，目前市面上没有任何工具可以保障完全清理干净）
+
