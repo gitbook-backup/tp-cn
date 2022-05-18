@@ -1,4 +1,4 @@
-# 版本更新日志（01/17/2022): 支持WAX；支持NFT应用场景；支持NFT图片下载等。
+# 版本更新日志（01/17/2022)
 
 **【版本更新详情】**
 
@@ -66,4 +66,4 @@ iOS: 1.7.3
 
 **【版本更新方式】**
 
-App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[https://tokenpocket.pro/](https://tokenpocket.pro)）
+App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[https://tokenpocket.pro/](https://tokenpocket.pro/)）

@@ -26,8 +26,8 @@
 **提示：**未到账不要慌，从交易所充币到去中心化钱包，本质是将资产转移到链上，未到账并不代表你的资产丢失。
 
 **常见的公链浏览器：**\
-[以太坊浏览器](https://cn.etherscan.com)\
-[币安智能链](https://bscscan.com)\
-[火币生态链](https://hecoinfo.com)\
+[以太坊浏览器](https://cn.etherscan.com/)\
+[币安智能链](https://bscscan.com/)\
+[火币生态链](https://hecoinfo.com/)\
 [波场链](https://tronscan.io/#/)
 

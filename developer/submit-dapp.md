@@ -1,6 +1,6 @@
 # 如何提交DApp?
 
-1、打开[TokenPocket官网](https://www.tokenpocket.pro)，点击顶部导航栏的【提交DApp】；
+1、打开[TokenPocket官网](https://www.tokenpocket.pro/)，点击顶部导航栏的【提交DApp】；
 
 ![](<../.gitbook/assets/1 (46).png>)
 

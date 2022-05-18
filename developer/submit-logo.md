@@ -69,7 +69,7 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 ![](../.gitbook/assets/如何自主更新代币图标？.png)
 
-2）[TinyPNG](https://tinypng.com) 可压缩优化图片大小
+2）[TinyPNG](https://tinypng.com/) 可压缩优化图片大小
 
 ![](<../.gitbook/assets/2 (1).jpg>)
 
@@ -106,7 +106,7 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 **3. 使用checksum格式的合约地址**
 
-Checksum地址是指在以太坊网络中包含大写和小写字母的合约地址。你可以通过在[以太坊浏览器](https://cn.etherscan.com)搜索代币的合约地址，搜索完成后，在左上角的地址即为checksum格式的合约地址。例如USDT的checksum格式的合约地址为：\
+Checksum地址是指在以太坊网络中包含大写和小写字母的合约地址。你可以通过在[以太坊浏览器](https://cn.etherscan.com/)搜索代币的合约地址，搜索完成后，在左上角的地址即为checksum格式的合约地址。例如USDT的checksum格式的合约地址为：\
 0x6B175474E89094C44Da98b954 EedeAC495271d0F。
 
 或者可以点击[转换工具](https://piyolab.github.io/sushiether/RunScrapboxCode/?web3=1.0.0-beta.33\&code=https://scrapbox.io/api/code/sushiether/web3.js\_-\_Ethereum\_%E3%81%AE%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%B5%E3%83%A0%E4%BB%98%E3%81%8D%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/demo.js)把合约地址转换为checksum格式的地址。

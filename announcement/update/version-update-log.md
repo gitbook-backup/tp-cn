@@ -1,4 +1,4 @@
-# 版本更新日志（07/07/2021）: Klaytn网络支持自定义代币，更多细节优化
+# 版本更新日志（07/07/2021）
 
 ![](<../../.gitbook/assets/版本更新日志（07\_07\_2021）\_ Klaytn网络支持自定义代币，更多细节优化.png>)
 
@@ -26,6 +26,6 @@ App Store 1.6.0&#x20;
 
 **【版本更新方式】**
 
-‌App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://www.tokenpocket.pro)）
+‌App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://www.tokenpocket.pro/)）
 
 ****

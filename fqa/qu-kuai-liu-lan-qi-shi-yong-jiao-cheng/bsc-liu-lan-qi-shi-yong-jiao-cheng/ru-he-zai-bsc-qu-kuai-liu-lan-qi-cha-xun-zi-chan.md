@@ -1,6 +1,6 @@
 # 如何在BSC区块浏览器查询资产？
 
-1.打开TokenPocket APP，在DApp浏览器内输入[https://bscscan.com/](https://bscscan.com)，进入BSC区块浏览器。在搜索栏输入您的BSC钱包地址。
+1.打开TokenPocket APP，在DApp浏览器内输入[https://bscscan.com/](https://bscscan.com/)，进入BSC区块浏览器。在搜索栏输入您的BSC钱包地址。
 
 ![](<../../../.gitbook/assets/Group 18894.png>)
 

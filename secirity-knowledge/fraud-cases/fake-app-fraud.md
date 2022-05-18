@@ -5,4 +5,4 @@
 
 所以，用户一定要通过官方渠道来下载和使用钱包。
 
-**TokenPocket 唯一官方网址：**[**https://www.tokenpocket.pro/**](https://www.tokenpocket.pro)****
+**TokenPocket 唯一官方网址：**[**https://www.tokenpocket.pro/**](https://www.tokenpocket.pro/)****

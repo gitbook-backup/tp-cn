@@ -1,4 +1,4 @@
-# 版本更新日志（09/03/2021）：首页支持DeFi数据展示、钱包安全提示升级
+# 版本更新日志（09/03/2021）
 
 **【版本更新详情】**
 
@@ -77,4 +77,4 @@ App Store: 1.6.3
 
 **【版本更新方式】**
 
-App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://tokenpocket.pro)）
+App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://tokenpocket.pro/)）

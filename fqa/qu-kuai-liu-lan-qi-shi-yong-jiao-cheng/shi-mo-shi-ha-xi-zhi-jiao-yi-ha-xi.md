@@ -8,7 +8,7 @@
 
 **没有交易哈希怎么查询交易记录？（以BSC为例）**
 
-打开TokenPocket APP，在DApp浏览器内输入[https://bscscan.com/](https://bscscan.com)，进入BSC区块浏览器。在搜索栏输入发送方或接收方钱包地址，找到相对应时间的那笔转账记录即可查看相关信息。
+打开TokenPocket APP，在DApp浏览器内输入[https://bscscan.com/](https://bscscan.com/)，进入BSC区块浏览器。在搜索栏输入发送方或接收方钱包地址，找到相对应时间的那笔转账记录即可查看相关信息。
 
 ![](<../../.gitbook/assets/Group 18894.png>)
 

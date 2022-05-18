@@ -1,6 +1,6 @@
 # 如何在TokenPocket玩转Polygon（Matic）?
 
-**关于**[**Polygon（Matic）**](https://polygon.technology)****
+**关于**[**Polygon（Matic）**](https://polygon.technology/)****
 
 目前，TokenPocket已经支持Polygon（原Matic），用户在TokenPocket即可创建并体验Polygon（Matic）。Polygon的愿景是建造以太坊的区块链互联网，它提供了一个通用框架，允许开发人员利用以太坊安全性创建定制的，专注应用程序的链，并提供一个可互操作的网络，将各种不同的扩展解决方案链接在一起，例如Layer 2 的扩容方案Rollups和侧链等。
 
@@ -33,7 +33,7 @@
 **关于**[**Polygon Bridge**](https://wallet.matic.network/bridge/)****\
 ****如果要将资金从**以太坊**转到Polygon，必须经过所谓的“桥“，而“桥“通过锁定和铸造机制来工作。在Polygon上，用户可以选择使用两个桥：**Plasma Bridge**和**PoS Bridge**。Plasma Bridge从以太坊主链继承安全性，但是赎回过程需要7天。PoS桥由同一组验证者和质押的MATIC来保护链本身的安全，因此赎回时间较短，约为三个小时。
 
-**关于**[**xPollinate**](https://www.xpollinate.io)\
+**关于**[**xPollinate**](https://www.xpollinate.io/)\
 支持Polygon、BSC、xDAI三条链上的资金互转，可将**BSC支持的资产**转移到Polygon与xDAI上，目前只支持跨稳定币。
 
 以下为详细步骤：

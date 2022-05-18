@@ -4,7 +4,7 @@
 
 以TokenPocket官网为例：
 
-1.确认浏览器中输入的域名为：[https://tokenpocket.pro/](https://tokenpocket.pro) 注：务必使用 https 协议访问官网，而非 http。
+1.确认浏览器中输入的域名为：[https://tokenpocket.pro/](https://tokenpocket.pro/) 注：务必使用 https 协议访问官网，而非 http。
 
 重要的事说三遍！！&#x20;
 

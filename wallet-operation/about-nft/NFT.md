@@ -1,6 +1,6 @@
 # NFT皮肤赛使用教程
 
-1、打开TP钱包，点击【发现】在新品区或推荐位打开DApp，如果是iOS用户，可以直接[**使用链接**](https://tp-lab.tokenpocket.pro/mint-skin-2/index.html#/)打开访问。
+1、打开TP钱包，点击【发现】在新品区或推荐位打开DApp，如果是iOS用户，可以直接[**使用链接**](https://tp-lab.tokenpocket.pro/mint-skin-2/index.html?utm\_source=tokenpocket#/)打开访问。
 
 ![](<../../.gitbook/assets/11 (3).png>)
 

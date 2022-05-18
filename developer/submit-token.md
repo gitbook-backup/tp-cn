@@ -1,6 +1,6 @@
 # 如何提交代币？
 
-1、点击链接进入TokenPocket官网：[https://www.tokenpocket.pro/](https://www.tokenpocket.pro)，点击导航栏【项目提交】；
+1、点击链接进入TokenPocket官网：[https://www.tokenpocket.pro/](https://www.tokenpocket.pro/)，点击导航栏【项目提交】；
 
 ![](<../.gitbook/assets/1 (36) (1).png>)
 

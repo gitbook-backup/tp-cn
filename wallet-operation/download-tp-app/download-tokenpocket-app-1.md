@@ -60,4 +60,4 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 Email：service@tokenpocket.pro
 
-论坛  ：[fans.tokenpocket.pro](https://fans.tokenpocket.pro)
+论坛  ：[fans.tokenpocket.pro](https://fans.tokenpocket.pro/)

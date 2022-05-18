@@ -1,5 +1,7 @@
 # 多链批量转账工具
 
+![](../.gitbook/assets/RoundCorner.png)
+
 #### <mark style="color:blue;">**工具简介：**</mark>
 
 TokenPocket多链批量转账工具，支持ETH、BSC、HECO、OKXChain、Polygon等十几条EVM公链合约批量转账，大大的简化了转账流程，使用费用更低，更方便。

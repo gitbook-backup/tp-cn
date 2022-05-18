@@ -40,7 +40,7 @@
 **提示：**由于区块链转账的不可逆性，TokenPocket无法取消、撤回已经成功的转账，而是需要由收款方（交易所）帮助你找回未到账的币。
 
 **常见的公链浏览器：**\
-[以太坊浏览器](https://cn.etherscan.com)\
-[币安智能链](https://bscscan.com)\
-[火币生态链](https://hecoinfo.com)\
+[以太坊浏览器](https://cn.etherscan.com/)\
+[币安智能链](https://bscscan.com/)\
+[火币生态链](https://hecoinfo.com/)\
 [波场链](https://tronscan.io/#/)

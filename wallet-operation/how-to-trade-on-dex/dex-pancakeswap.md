@@ -1,6 +1,6 @@
 # PancakeSwap（BSC）使用教程
 
-**关于**[**PancakeSwap**](https://pancakeswap.finance)\
+**关于**[**PancakeSwap**](https://pancakeswap.finance/)\
 PancakeSwap是一个自动做市商（“AMM”），目前近允许在**币安智能链**上交换两个代币。它快速、便宜，并且允许任何人参与。
 
 PancakeSwap涉及的功能比较多，分别有【兑换】、【资金池】**、**【Staking】和【跨链桥】等功能，这里我们主要讲解兑换和资金池这两大块功能。

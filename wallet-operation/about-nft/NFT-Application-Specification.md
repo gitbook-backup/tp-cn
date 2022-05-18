@@ -6,4 +6,4 @@
 
 #### 认证规则说明👇
 
-[https://help.tokenpocket.pro/cn/nft-application?utm\_source=tokenpocket](https://help.tokenpocket.pro/cn/nft-application)
+[https://help.tokenpocket.pro/cn/nft-application?utm\_source=tokenpocket](https://help.tokenpocket.pro/cn/nft-application?utm\_source=tokenpocket)
