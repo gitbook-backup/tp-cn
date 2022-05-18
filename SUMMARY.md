@@ -150,6 +150,7 @@
   * [钱包【充值资产】到交易所未到账](fqa/fail-to-receive-assets-from-wallet.md)
   * [为什么转账一直在打包，怎么办？](fqa/pending-status-transfer.md)
   * [我转账失败了，为什么不给我退币？](fqa/why-do-not-return-my-coins.md)
+* [多链批量转账工具](transfer-tutorial/Token-BatchSender.md)
 
 ## 👨💻 开发者模块 <a href="#developer" id="developer"></a>
 
