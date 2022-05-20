@@ -184,7 +184,8 @@
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
-  * [🔥 2022/05/18 关于TokenPocket技术服务升级的通知](announcement/announcement/technical-service.md)
+  * [🔥 2022/05/20 Polygon（Matic）链升级公告](announcement/announcement/May-20.md)
+  * [2022/05/18 关于TokenPocket技术服务升级的通知](announcement/announcement/technical-service.md)
   * [2022/01/27 关于TRON服务升级的通知](announcement/announcement/20220127-guan-yu-tron-fu-wu-sheng-ji-de-tong-zhi.md)
   * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/20220125-guan-yu-klayten.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
