@@ -59,7 +59,7 @@
   * [什么是身份钱包(HD)?](faq/multichain-wallet/hd.md)
   * [关于子钱包](faq/multichain-wallet/sub-wallets.md)
   * [什么是私钥](faq/multichain-wallet/private-key.md)
-* [杀毒软件误报](faq/sha-du-ruan-jian-wu-bao.md)
+* [杀毒软件误报](faq/White-list.md)
 
 ## 🔩 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
