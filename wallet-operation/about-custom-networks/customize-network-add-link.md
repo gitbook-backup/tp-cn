@@ -12,7 +12,7 @@ description: 使用TP钱包向您的社区推荐其他网络，方便用户快�
 
 #### 参数讲解：
 
-1）如果您要推广的网络在[NetworkList](https://github.com/TP-Lab/networklist-org)里包含了，则 参数3，参数4，参数5可不传
+1）如果您要推广的网络在[NetworkList](https://github.com/TP-Lab/networklist-org)里包含了，则 参数3，参数4，参数5，参数6可不传
 
 2）如果您要推广的网络不在[NetworkLis](https://github.com/TP-Lab/networklist-org)t里，则 所有参数都为必填
 
