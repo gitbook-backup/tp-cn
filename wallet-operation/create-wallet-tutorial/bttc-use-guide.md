@@ -1,10 +1,10 @@
 # TokenPocket带您一文玩转BitTorrent！
 
-1、打开[**TokenPocket App**](https://tokenpocket.pro/)，点击左上角切换钱包底层，然后选择BTTC，点击【添加钱包】；点击【创建钱包】，继续点击【创建钱包】；
+1、打开[**TokenPocket App**](https://tokenpocket.pro/)，点击左上角切换钱包底层，然后选择BTTC，点击<mark style="color:orange;">**【添加钱包】**</mark>；点击<mark style="color:orange;">**【创建钱包】**</mark>，继续点击<mark style="color:orange;">**【创建钱包】**</mark>；
 
 ![](<../../.gitbook/assets/bttc cn1.png>)
 
-2、依次设置【钱包名称】和【密码】，然后勾选【用户协议】，点击【创建钱包】；然后开始备份助记词，点击【备份完成，进行验证】；按顺序填入备份好的钱包助记词，点击【确认】。
+2、依次设置<mark style="color:orange;">**【钱包名称】**</mark>和<mark style="color:orange;">**【密码】**</mark>，然后勾选<mark style="color:orange;">**【用户协议】**</mark>，点击<mark style="color:orange;">**【创建钱包】**</mark>；然后开始备份助记词，点击<mark style="color:orange;">**【备份完成，进行验证】**</mark>；按顺序填入备份好的钱包助记词，点击<mark style="color:orange;">**【确认】**</mark>。
 
 ![](<../../.gitbook/assets/bttc cn2.png>)
 
@@ -20,11 +20,11 @@
 
 &#x20;****&#x20;
 
-1、打开TokenPocket App，点击左上角切换钱包底层，然后选择BTTC，点击【添加钱包】；点击【导入钱包】，继续点击【私钥导入】或【助记词导入】；
+1、打开TokenPocket App，点击左上角切换钱包底层，然后选择BTTC，点击<mark style="color:orange;">**【添加钱包】**</mark>；点击<mark style="color:orange;">**【导入钱包】**</mark>，继续点击<mark style="color:orange;">**【私钥导入】**</mark>或<mark style="color:orange;">**【助记词导入】**</mark>；
 
 ![](<../../.gitbook/assets/bttc cn4.png>)
 
-2、以助记词导入为例，输入备份的【助记词】及【钱包名称】、【密码】，勾选【服务及隐私条款】；点击【导入钱包】；
+2、以助记词导入为例，输入备份的<mark style="color:orange;">**【助记词】**</mark>及<mark style="color:orange;">**【钱包名称】**</mark>、<mark style="color:orange;">**【密码】**</mark>，勾选<mark style="color:orange;">**【服务及隐私条款】**</mark>；点击<mark style="color:orange;">**【导入钱包】**</mark>；
 
 ![](<../../.gitbook/assets/bttc cn5.png>)
 
@@ -44,7 +44,7 @@
 
 &#x20;
 
-1、打开TokenPocket App，点击左上角切换钱包底层，然后选择BTTC，点击右上角【+】；点击【创建钱包】，继续点击【一键同步】，勾选【可同步钱包】，点击【开始同步】；
+1、打开TokenPocket App，点击左上角切换钱包底层，然后选择BTTC，点击右上角<mark style="color:orange;">**【+】**</mark>；点击<mark style="color:orange;">**【创建钱包】**</mark>，继续点击<mark style="color:orange;">**【一键同步】**</mark>，勾选<mark style="color:orange;">**【可同步钱包】**</mark>，点击<mark style="color:orange;">**【开始同步】**</mark>；
 
 ![](<../../.gitbook/assets/bttc cn6.png>)
 
