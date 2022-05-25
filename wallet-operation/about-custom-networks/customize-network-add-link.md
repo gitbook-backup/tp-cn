@@ -6,7 +6,7 @@ description: 使用TP钱包向您的社区推荐其他网络，方便用户快�
 
 #### 定制化URL拼接规则:
 
- [http://tp-lab.tokenpocket.pro/AddChain/index.html?locale=参数1&chainId=参数2&name=参数3&rpc=参数4&nativeCurrencyName=参数5](http://tp-lab.tokenpocket.pro/AddChain/index.html?locale=参数1&chainId=参数2&name=参数3&rpc=参数4&nativeCurrencyName=参数5)
+&#x20;<mark style="color:blue;">http://tp-lab.tokenpocket.pro/AddChain/index.html?locale=参数1\&chainId=参数2\&name=参数3\&rpc=参数4\&nativeCurrencySymbol=参数5\&nativeCurrencyDecimals=参数6</mark>
 
 
 
@@ -27,4 +27,3 @@ description: 使用TP钱包向您的社区推荐其他网络，方便用户快�
 `参数4： 填写RPC链接`
 
 `参数5： 网络原生币Symbol`
-
