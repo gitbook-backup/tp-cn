@@ -28,7 +28,7 @@
 
 1.优化NFT展示及转账页面。
 
-![](<../../.gitbook/assets/Group 18930.png>)
+![](<../../.gitbook/assets/Group 18929.png>)
 
 **【版本更新方式】**&#x20;
 
