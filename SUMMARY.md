@@ -190,6 +190,7 @@
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
+  * [🔥 2022/06/01 关于OP节点维护升级的通知](announcement/announcement/jun-1-op.md)
   * [🔥 2022/06/01 关于Heco链升级的通知](announcement/announcement/jun-1.md)
   * [2022/05/20 关于Polygon（Matic）链升级的通知](announcement/announcement/May-20.md)
   * [2022/05/18 关于TokenPocket技术服务升级的通知](announcement/announcement/technical-service.md)
