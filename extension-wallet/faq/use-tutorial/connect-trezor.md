@@ -20,10 +20,22 @@
 
 ![](../../../.gitbook/assets/trezor3.png)
 
-5.点击<mark style="color:orange;">**【连接】**</mark>，选择所需要连接到插件的钱包地址，点击<mark style="color:orange;">**【解锁】**</mark>。
+5\. 点击<mark style="color:orange;">**【Allow once for this session】**</mark>
+
+![](<../../../.gitbook/assets/t new1.png>)
+
+6.点击<mark style="color:orange;">**【Export】**</mark>
+
+![](<../../../.gitbook/assets/t new2.png>)
+
+7.一般默认的passphase无需输入，直接点击【Enter】即可。
+
+![](<../../../.gitbook/assets/t new3.png>)
+
+8.点击<mark style="color:orange;">**【连接】**</mark>，选择所需要连接到插件的钱包地址，点击<mark style="color:orange;">**【解锁】**</mark>。
 
 ![](<../../../.gitbook/assets/Group 19012.png>)
 
-6.至此，你已完成Trezor连接TokenPocket插件钱包的操作。
+9.至此，你已完成Trezor连接TokenPocket插件钱包的操作。
 
 ![](<../../../.gitbook/assets/Group 19011.png>)
