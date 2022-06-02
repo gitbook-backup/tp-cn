@@ -20,6 +20,10 @@
 
 ![](../../../.gitbook/assets/trezor3.png)
 
-5.点击<mark style="color:orange;">**【连接】**</mark>，即可完成Trezor硬件钱包连接至TokenPocket插件钱包的操作。
+5.点击<mark style="color:orange;">**【连接】**</mark>，选择所需要连接到插件的钱包地址，点击<mark style="color:orange;">**【解锁】**</mark>。
 
-![](<../../../.gitbook/assets/trezor cn2.png>)
+![](<../../../.gitbook/assets/Group 19012.png>)
+
+6.至此，你已完成Trezor连接TokenPocket插件钱包的操作。
+
+![](<../../../.gitbook/assets/Group 19011.png>)
