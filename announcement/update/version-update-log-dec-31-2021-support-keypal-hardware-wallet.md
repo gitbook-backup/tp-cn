@@ -1,4 +1,4 @@
-# 版本更新日志（12/31/2021):适配KeyPal硬件钱包，官网新增硬件钱包入口
+# 版本更新日志（12/31/2021)
 
 **【版本更新详情】**
 
@@ -60,7 +60,7 @@ PIN码是指KeyPal设备的密码，注意，请保存好您所设置的PIN码�
 
 在Keypal中确认收款地址及转帐数量、矿工费，显示【签名成功】后，转账操作即可完成。&#x20;
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
 **点击**[**KeyPal使用手册**](https://keypal.gitbook.io/zh-cn/keypal-tutorial)**，了解更多KeyPal操作教程。**
 
