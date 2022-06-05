@@ -2,7 +2,7 @@
 
 [**TokenPocket插件钱包**](https://extension.tokenpocket.pro/#/)**（1.1.3）已支持连接Ledger硬件钱包。**以下有两种方式连接Ledger硬件钱包。
 
-**方法一：通过webhid方式连接ledger.**
+<mark style="color:red;">**方法一：通过webhid方式连接ledger.**</mark>
 
 1.首先请在Ledger硬件钱包上<mark style="color:orange;">**输入PIN码**</mark>以验证您的硬件钱包。打开TokenPocket插件钱包，点击右上角按钮进入设置页面，点击<mark style="color:orange;">**【连接硬件钱包】**</mark>。
 
@@ -20,7 +20,7 @@
 
 ![](<../../../.gitbook/assets/Group 19007.png>)
 
-**方法二：通过Ledger Live连接Ledger硬件钱包。**
+<mark style="color:red;">**方法二：通过Ledger Live连接Ledger硬件钱包。**</mark>
 
 **注意：通过Ledger Live连接TokenPocket插件钱包，需要在桌面端安装**[**Ledger Live**](https://www.ledger.com/ledger-live)**并完成连接Ledger硬件钱包的操作。**
 

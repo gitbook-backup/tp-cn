@@ -28,7 +28,7 @@
 
 ![](<../../../.gitbook/assets/t new2.png>)
 
-7.一般默认的passphase无需输入，直接点击【Enter】即可。
+7.一般默认的passphase无需输入，直接点击<mark style="color:orange;">**【Enter】**</mark>即可。
 
 ![](<../../../.gitbook/assets/t new3.png>)
 
