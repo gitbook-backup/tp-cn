@@ -42,7 +42,7 @@ PIN码是指KeyPal设备的密码，注意，请保存好您所设置的PIN码�
 
 ![](<../../.gitbook/assets/image (24) (1).png>)
 
-![](<../../.gitbook/assets/image (25) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1).png>)
 
 （如果在TokenPocket APP端未显示您的KeyPal设备蓝牙名称，请长按KeyPal【O】键重启设备，并重新在TokenPocket搜寻KeyPal。注意，请在设备充电前开机。）
 
