@@ -179,7 +179,6 @@
   * [TokenPocket品牌升级(04/24/2022)](<extension-wallet/update-log/Officially-Upgraded .md>)
 * [隐私政策](extension-wallet/privacy-policy.md)
 * [使用协议](extension-wallet/term-of-use.md)
-* [Page 1](extension-wallet/page-1.md)
 
 ## ⚡ Transit Swap
 
