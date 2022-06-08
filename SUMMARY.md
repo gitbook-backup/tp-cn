@@ -198,6 +198,7 @@
   * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/20220125-guan-yu-klayten.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
+  * [版本更新日志（06/08/2022）](announcement/update/version-update-Jun-8.md)
   * [版本更新日志（05/29/2022）](announcement/update/version-update-May-29.md)
   * [版本更新日志（05/25/2022）](announcement/update/version-update-May-25.md)
   * [版本更新日志（04/29/2022）](announcement/update/version-update-Apr-29.md)
