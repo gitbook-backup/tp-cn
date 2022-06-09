@@ -12,7 +12,7 @@ Chrome：1.1.3
 
 2.UI优化。
 
-3.闪兑支持KCC Mainnet、Conflux eSpace、Moonbeam。
+3.闪兑支持Optimism, KCC Mainnet、Conflux eSpace、Moonbeam。
 
 4.用户体验优化。
 
