@@ -4,7 +4,7 @@
 
 iOS: 1.8.4
 
-Android: 1.4.8
+Android: 1.4.9
 
 &#x20;
 
@@ -13,6 +13,8 @@ Android: 1.4.8
 1\. 支持深色模式；
 
 2\. 优化TRON链上DApp的数据解析。
+
+3\. 修复Android 8.0的bug。
 
 
 
