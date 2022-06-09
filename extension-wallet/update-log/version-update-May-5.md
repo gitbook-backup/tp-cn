@@ -6,7 +6,7 @@ description: TokenPocket
 
 【版本更新详情】
 
-Chorme：1.1.2
+Chrome：1.1.2
 
 
 
