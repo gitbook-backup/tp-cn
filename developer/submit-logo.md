@@ -38,17 +38,17 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 
 
-### <mark style="color:red;">注意事项：</mark>
+### <mark style="color:blue;">注意事项：</mark>
 
-<mark style="color:red;">**1、必须要附上捐赠TPT哈希值链接和验证地址的链接 ；**</mark>
+<mark style="color:blue;">**1、必须要附上捐赠TPT哈希值链接和验证地址的链接 ；**</mark>
 
-<mark style="color:red;">**2、一个github账号，不允许提交多个logo申请 ；**</mark>
+<mark style="color:blue;">**2、一个github账号，不允许提交多个logo申请 ；**</mark>
 
-<mark style="color:red;">**3、TPT捐赠数量已经提高到30,000 个；**</mark>
+<mark style="color:red;">**3、TPT捐赠数量已经提高到50,000 个；→→**</mark> [<mark style="color:red;">**社区提案查看**</mark>](https://fans.tokenpocket.pro/t/topic/16905)  <mark style="color:red;">**→→**</mark>  [<mark style="color:red;">**投票结果查看**</mark>](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872) <mark style="color:red;">**（2022年6月13日0点开始生效）**</mark>
 
-<mark style="color:red;">**4、因github的开放性，任何人都可以在提交的订单中留言，所以请不要相信任何第三方人员的留言，谨防诈骗。**</mark>
+<mark style="color:blue;">**4、因github的开放性，任何人都可以在提交的订单中留言，所以请不要相信任何第三方人员的留言，谨防诈骗。**</mark>
 
-<mark style="color:red;">**5、代币显示logo只是进行对代币信息进行丰富，并不能保证代币的绝对安全，也不代表TokenPocket的任何投资建议，请您注意风险！**</mark>
+<mark style="color:blue;">**5、代币显示logo只是进行对代币信息进行丰富，并不能保证代币的绝对安全，也不代表TokenPocket的任何投资建议，请您注意风险！**</mark>
 
 ### **所需资料如下：**‌
 
@@ -116,13 +116,13 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 ****
 
 **收费流程：** \
-提交一个代币图标时捐赠 **30,000TPT**以验证你的地址合法性，需要注意的是**捐赠后无法原路退回**，请您考虑清楚后再捐赠。按照以下步骤准备所需资料并完成捐赠（此处以币安智能链钱包为例）：
+提交一个代币图标时捐赠 **50,000TPT**以验证你的地址合法性，需要注意的是**捐赠后无法原路退回**，请您考虑清楚后再捐赠。按照以下步骤准备所需资料并完成捐赠（此处以币安智能链钱包为例）：
 
 1\. 打开TokenPocket App，点击底部【资产】，选择TPT，进入页面后点击【转账】
 
 ‌![](<../.gitbook/assets/1 (26) (1).png>)![](../.gitbook/assets/111.png)
 
-2\. 点击【直接转账】进入页面，输入收款账号和30,000 TPT数量，然后选择矿工费，点击【确认】，确认信息无误后点击【确认支付】完成30,000 TPT的转账。‌
+2\. 点击【直接转账】进入页面，输入收款账号和 **50,000** TPT数量，然后选择矿工费，点击【确认】，确认信息无误后点击【确认支付】完成 **50,000** TPT的转账。‌
 
 **注意：**收款地址为 **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** （可底下扫码获取）。仅支持收取BSC、HECO以及ETH链上的TPT，请转账前再三确认！&#x20;
 
@@ -132,13 +132,13 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 ![](../.gitbook/assets/zhuan-zhang-.jpg)
 
-3\. 完成30,000 TPT的转账后，返回【资产】页面，选择BNB，然后点击【直接转账】进入转账页面；‌
+3\. 完成**50,000** TPT的转账后，返回【资产】页面，选择BNB，然后点击【直接转账】进入转账页面；‌
 
 ![](<../.gitbook/assets/2 (20).png>)
 
 4\. 输入收款地址（同上）和0 BNB数量（如果遇到未支持0 BNB转账的情况，则可以转非常小的BNB数值替代），选择矿工费后点击右下角的【高级设置】- 【纯文本】，按照格式要求填入文本，然后点击【确认】。‌
 
-（**格式要求：**提交代币图标的链 - 提交的代币名称 - 提交的代币合约 - 支付30,000 TPT的哈希链接）  ‌
+（**格式要求：**提交代币图标的链 - 提交的代币名称 - 提交的代币合约 - 支付**50,000** TPT的哈希链接）  ‌
 
 ![](../.gitbook/assets/wechatimg16.png)
 
@@ -172,7 +172,7 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 5\. 在【Commit changes】处填写代币信息和其他描述，然后点击【Commit changes】；‌
 
-**注意：**<mark style="color:red;">**请在内容描述中添加 30,000 TPT 的交易ID链接；提交步骤5中验证后的哈希值链接，否则无法通过审核。**</mark>
+**注意：**<mark style="color:red;">**请在内容描述中添加 50,000 TPT 的交易ID链接；提交步骤5中验证后的哈希值链接，否则无法通过审核。**</mark>
 
 ![](../.gitbook/assets/github5.jpg)
 
@@ -202,7 +202,7 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 Pull request在添加到Tokens原仓库之前，需对其进行筛选。因此，请查看你提交的申请是否满足以下要求：‌
 
-1. 已经支付30,000 TPT的手续费
+1. 已经支付**50,000** TPT的手续费
 2. 代币项目不存在仿冒或欺诈性行为
 3. 详细的代币信息
 
