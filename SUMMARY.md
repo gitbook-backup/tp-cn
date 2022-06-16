@@ -183,12 +183,6 @@
 * [隐私政策](extension-wallet/privacy-policy.md)
 * [使用协议](extension-wallet/term-of-use.md)
 
-## ⚡ Transit Swap
-
-* [代币列表更新](transit-swap/token-list-update/README.md)
-  * [代幣列表更新 （04/22/2022）](transit-swap/token-list-update/token-list-update-april-22-2022.md)
-  * [代幣列表更新 （04/15/2022）](transit-swap/token-list-update/token-list-update-april-15-2022.md)
-
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
