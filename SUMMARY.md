@@ -43,7 +43,7 @@
 * [ETH钱包](faq/ethwallet/README.md)
   * [什么是EIP-1559？](faq/ethwallet/eip-1559.md)
   * [Eth 2.0质押宝规则](faq/ethwallet/eth2.0-staking-vault.md)
-  * [Eth2.0 质押宝节点列表](faq/ethwallet/eth2.0-zhi-ya-bao-jie-dian-lie-biao.md)
+  * [Eth2.0 质押宝节点列表](faq/ethwallet/eth2.0-node-list.md)
   * [如何管理未打包交易？](faq/ethwallet/unpackaged.md)
   * [代币授权是什么？如何使用代币授权？](faq/ethwallet/token-approval.md)
   * [什么是以太坊交易加速](faq/ethwallet/transaction-accelerator.md)
