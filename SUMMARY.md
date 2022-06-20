@@ -22,6 +22,7 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
+  * [官网正版钱包验证方法](secirity-knowledge/protective-measures/verification.md)
   * [如何验证你的Google Play版TP钱包是否正版](secirity-knowledge/protective-measures/google.md)
   * [如何验证你的App Store版TP钱包是否正版](secirity-knowledge/protective-measures/AppStore.md)
   * [在Telegram上如何辨别真假群管理员以及群组？](secirity-knowledge/protective-measures/zai-telegram-shang-ru-he-bian-bie-zhen-jia-qun-guan-li-yuan-yi-ji-qun-zu.md)
