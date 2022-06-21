@@ -4,11 +4,11 @@ App Store版本验证方法：[<mark style="color:blue;">**点击查看**</mark>
 
 Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mark>](google.md)<mark style="color:blue;">****</mark>
 
-### <mark style="color:blue;">MD5/SHA256验证工具</mark>
+### <mark style="color:blue;">MD5、SHA256验证工具</mark>
 
 文件哈希验证工具是通过计算文件内容哈希值的工具。通过工具可以快速计算文件的哈希值，计算出来的 Hash 值与官方给出的 Hash 值进行对比，可以验证文件内容是否被篡改。
 
-### <mark style="color:blue;">MD5\SHA256验证的目的</mark>
+### <mark style="color:blue;">MD5、SHA256验证的目的</mark>
 
 去中心化自托管钱包是我们导入私钥或助记词以管理链上资产的平台，所以对于平台的选择和使用尤为重要。TokenPocket作为用户众多的去中心化自托管钱包自然也受到了不法分子的“惦记”，他们通过反编译的方式将正版APK中植入可以导入私钥，助记词的设置，然后打包发布到其他网站中“守株待兔”，当用户通过搜索引擎或者他人推荐的方式下载和使用了钱包，那么他的私钥助记词将发生泄露，从而丢失所有资产。
 
@@ -30,7 +30,7 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 2、md5相对来说比较容易碰撞，安全性没这么高。
 
-### <mark style="color:blue;">**官方钱包APK的MD5/SHA256参数：**</mark>
+### <mark style="color:blue;">**官方钱包APK的MD5、SHA256参数：**</mark>
 
 |  版本号  |               MD5值               |
 | :---: | :------------------------------: |
@@ -52,7 +52,7 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 | 1.4.5 | 24f91c19732253afb89b9e588dec2d783d659b9d2bc5bed1d1ba1bb27e06533c |
 | 1.4.4 | 0a9a3e23b32215eb3ba0e37f7cc3ea5b7d4139d15930426664005291f57458c0 |
 
-### <mark style="color:blue;">在线验证MD5/sha256工具</mark>
+### <mark style="color:blue;">在线验证MD5、sha256工具</mark>
 
 在线验证md5\sha256值的工具有很多，他们的使用也都是大同小异，只需要将下载到pc上的apk文件拖入或者加载到验证平台中即可等待结果，得到的结果和TokenPocket官网公布的正版APP的md5或sha256值做比对即可验证。<mark style="color:red;">（在线工具页面中可能存在广告等内容，请使用主要验证功能，其他的不做任何推荐）</mark>
 
@@ -68,7 +68,7 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 ![](../../.gitbook/assets/256-3.png)
 
-### <mark style="color:blue;">**PC端MD5/SHA256验证工具**</mark>
+### <mark style="color:blue;">**PC端MD5、SHA256验证工具**</mark>
 
 MD5工具：打开工具的官网[<mark style="color:blue;">**https://www.winmd5.com/**</mark>](https://www.winmd5.com/) <mark style="color:blue;">****</mark> 点击【Download】下载工具
 
@@ -94,7 +94,7 @@ SHA256工具：
 
 ![](../../.gitbook/assets/Snipaste\_2022-06-20\_21-40-10.png)
 
-### <mark style="color:blue;">**移动端MD5/SHA256验证工具**</mark>
+### <mark style="color:blue;">**移动端MD5、SHA256验证工具**</mark>
 
 虽然在电脑端可以使用多种工具多种渠道来查看md5或sha256哈希值，但是我们日常使用最多的移动端如何进行验证呢。这里来介绍下移动端的工具。
 
