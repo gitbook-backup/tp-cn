@@ -32,6 +32,8 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 ### <mark style="color:blue;">**官方钱包APK的MD5、SHA256参数：**</mark>
 
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)<mark style="color:blue;">****</mark>
+
 |  版本号  |               MD5值               |
 | :---: | :------------------------------: |
 | 1.5.0 | aed562118bd5d8c64578f3b52a7b2460 |
