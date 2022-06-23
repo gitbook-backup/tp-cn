@@ -54,7 +54,23 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 | 1.4.5 | 24f91c19732253afb89b9e588dec2d783d659b9d2bc5bed1d1ba1bb27e06533c |
 | 1.4.4 | 0a9a3e23b32215eb3ba0e37f7cc3ea5b7d4139d15930426664005291f57458c0 |
 
-### <mark style="color:blue;">在线验证MD5、sha256工具</mark>
+<mark style="color:blue;">**Google Play**</mark>
+
+|  版本号  |               MD5值               |
+| :---: | :------------------------------: |
+| 1.5.0 | a951c032f8723cc1711f0d3b3256725d |
+| 1.4.9 | 4b88e2ffa2b3d84fbc2f099e1034fb86 |
+| 1.4.7 | feab610e82a1ed694d24994487f3e38c |
+| 1.4.6 | 59dbdcd8b2f6580d81f519e555e2b5ec |
+
+|  版本号  |                              SHA256                              |
+| :---: | :--------------------------------------------------------------: |
+| 1.5.0 | c7f8b8a603d8725ba1df631cf03f2c63dc4c428b5ffe1f3ae3eec400bf3d121b |
+| 1.4.9 | 37b571b7644e456be7260e3d1d93ce59d9e38f694215c85e29e4a1476b6bf634 |
+| 1.4.7 | b023f39e496ac6a38cc0ef121470cc7c2142f393c75aea504bc8ab979285dffd |
+| 1.4.6 | e5255e4a709e05f3a4d35f3ae0c4bbef26a92b40b2e719b55f4b46fe54d3c8f7 |
+
+### <mark style="color:blue;">**在线验证MD5、sha256工具**</mark>
 
 在线验证md5\sha256值的工具有很多，他们的使用也都是大同小异，只需要将下载到pc上的apk文件拖入或者加载到验证平台中即可等待结果，得到的结果和TokenPocket官网公布的正版APP的md5或sha256值做比对即可验证。<mark style="color:red;">（在线工具页面中可能存在广告等内容，请使用主要验证功能，其他的不做任何推荐）</mark>
 
