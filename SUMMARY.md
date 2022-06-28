@@ -234,7 +234,6 @@
 ***
 
 * [致中国境内用户：TokenPocket 产品政策调整说明](TokenPocket-product-policy-adjustment-instructions.md)
-* [Page 1](page-1.md)
 * [关于腾讯管家误报TokenPocket的安全声明](statement.md)
 
 ## 📩 联系我们 <a href="#contact-us" id="contact-us"></a>
