@@ -118,7 +118,7 @@ SHA256工具：
 
 工具一：点击这里[<mark style="color:blue;">**下载工具**</mark>](https://d-13.winudf.com/b/APK/Y29tLmdhbWUubGl0dGxldHJpY2tzdHVkaW8ubWQ1Y2hlY2tlcl8xMV9jNGNjM2U1Ng?\_fn=TUQ1IENoZWNrZXJfdjEuM19hcGtwdXJlLmNvbS5hcGs&\_p=Y29tLmdhbWUubGl0dGxldHJpY2tzdHVkaW8ubWQ1Y2hlY2tlcg\&am=PGLTTfIPJr33xxAxPVydqQ\&at=1655734447\&download\_id=otr\_1705904481071926\&k=3919882866ce239957fb9d9a76fd5b6762b1d230\&r=https%3A%2F%2Fapkpure.com%2Fcn%2Fmd5-checker%2Fcom.game.littletrickstudio.md5checker) <mark style="color:blue;">****</mark> 安装后，打开验证工具，点击选择打开系统自带的文件管理器，找到需要验证的的APK文件，导入后点击【MD5】就可以计算出md5哈希值，可以和官方提供的参数进行对比。
 
-![](<../../.gitbook/assets/1 (27).png>)
+![](<../../.gitbook/assets/1 (27) (1).png>)
 
 工具二：点击[<mark style="color:blue;">**下载工具**</mark>](https://cr5.198254.com/com.hobbyone.hashdroid.apk) <mark style="color:blue;">****</mark> 这款工具的功能更加强大，支持md5、sha256等多种哈希算法验证。同样的安装打开后，点击切换到【HASH A FILE】，点击【Select a hash function】选择例如sha256，点击【CLICK HERE TO SELECT THE FILE TO HASH】来找到需要验证的apk，加载后点击【CALCULATE】即可计算出apk的sha256哈希值用于和官方的参数进行对比。
 

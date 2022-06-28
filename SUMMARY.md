@@ -164,6 +164,7 @@
 ## 👨💻 开发者模块 <a href="#developer" id="developer"></a>
 
 * [如何自主更新代币图标？](developer/submit-logo.md)
+* [如何自主更新NFT图标？](developer/NFT.md)
 * [如何提交代币？](developer/submit-token.md)
 * [如何提交DApp?](developer/submit-dapp.md)
 * [如何提交NFT？](developer/submit-nft.md)
