@@ -15,5 +15,5 @@
 
 提交NFT头像与提交代币头像教程一致，请参考以下教程。
 
-[**提交NFT logo**](https://help.tokenpocket.pro/cn/developer/submit-logo)****
+<mark style="color:blue;"></mark>[<mark style="color:blue;">**提交NFT logo**</mark>](NFT.md)<mark style="color:blue;">****</mark>
 
