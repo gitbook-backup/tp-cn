@@ -18,8 +18,6 @@
 
 所以建议用户不要使用他人给发送的钱包链接或APK安装包，认准唯一的官方网站：[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)<mark style="color:blue;">****</mark>
 
-关于官方版本的验证，可以点击这里查看，利用安装包MD5或SHA256哈希值进行验证方法，这个可以很好的过滤掉假钱包。接下来官方还会优化一些数据来加强防范。
-
 ### <mark style="color:blue;">**二、各个版本的下载和验证**</mark>
 
 **1、官网版本下载：**
@@ -32,6 +30,8 @@
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2Fuc9QwMp8w3Xn7hPneBga%2F%E6%8B%B7%E8%B4%9D.1png.png?alt=media&token=804bbb84-c070-439f-9fa2-855f53d8d621" %}
 
+关于官方版本的验证，可以点击<mark style="color:blue;">**这里查看**</mark>，利用安装包MD5或SHA256哈希值进行验证方法，这个可以很好的过滤掉假钱包。接下来官方还会优化一些数据来加强防范。
+
 ### <mark style="color:blue;">2、Google Play版本下载</mark>
 
 TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨识的，因为谷歌商店有完整的数据统计系统，用户只需要搜索TokenPocket，核对好开发商以及下载量、评分量、评论数量等内容进行快速区分正版TP钱包。
@@ -43,6 +43,8 @@ TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨�
 2.2、顶部可以看到开发商TokenPocket Foundation，开发商下面可以看到产品在谷歌市场上的评分、评论下载量等数据，如果是假钱包是很难达到这个量级的，所以根据这些信息即可快速区分正版TP钱包。
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2F16NqeqeVHsCqVC44LhjC%2F2.png?alt=media&token=19401d07-0a23-46c3-879d-60cc4205814d" %}
+
+关于版本的验证，可以点击<mark style="color:blue;">**这里查看**</mark>，利用安装包MD5或SHA256哈希值进行验证方法，这个可以很好的过滤掉假钱包。接下来官方还会优化一些数据来加强防范。
 
 ### <mark style="color:blue;">**3、App Store版本下载**</mark> <a href="#3app-store-ban-ben-xia-zai" id="3app-store-ban-ben-xia-zai"></a>
 
