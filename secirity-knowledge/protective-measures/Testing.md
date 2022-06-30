@@ -20,7 +20,7 @@
 
 ### <mark style="color:blue;">**二、各个版本的下载和验证**</mark>
 
-**1、官网版本下载：**
+#### **1、官网版本下载：**
 
 1.1、通过官网下载，一定要使用TokenPocket的官网来打开和安装，打开官网www.tokenpocket.pro点击【手机下载】，在打开的下载界面中点击【立即下载】方式，在这个页面中可以看到官方链接的提示和验证链接入口。
 
@@ -32,7 +32,7 @@
 
 关于官方版本的验证，可以点击<mark style="color:blue;">**这里查看**</mark>，利用安装包MD5或SHA256哈希值进行验证方法，这个可以很好的过滤掉假钱包。接下来官方还会优化一些数据来加强防范。
 
-### <mark style="color:blue;">2、Google Play版本下载</mark>
+#### **2、Google Play版本验证**
 
 TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨识的，因为谷歌商店有完整的数据统计系统，用户只需要搜索TokenPocket，核对好开发商以及下载量、评分量、评论数量等内容进行快速区分正版TP钱包。
 
@@ -44,9 +44,9 @@ TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨�
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2F16NqeqeVHsCqVC44LhjC%2F2.png?alt=media&token=19401d07-0a23-46c3-879d-60cc4205814d" %}
 
-关于版本的验证，可以点击<mark style="color:blue;">**这里查看**</mark>，利用安装包MD5或SHA256哈希值进行验证方法，这个可以很好的过滤掉假钱包。接下来官方还会优化一些数据来加强防范。
+关于Google Play版本的验证，可以点击<mark style="color:blue;">**这里查看**</mark>，利用安装包MD5或SHA256哈希值进行验证方法，这个可以很好的过滤掉Google Play上的假钱包。
 
-### <mark style="color:blue;">**3、App Store版本下载**</mark> <a href="#3app-store-ban-ben-xia-zai" id="3app-store-ban-ben-xia-zai"></a>
+#### **3、App Store版本验证**
 
 3.1、打开App Store，要用**非中国区ID登陆**。点击右下角搜索，在搜索栏里**搜索tokenpocket**，查看搜索结果。
 
