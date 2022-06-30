@@ -43,7 +43,6 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 | 1.4.8 | 5c5cb0676c72c8d554091ad5a7608471 |
 | 1.4.7 | 618c2017ce7f9f75bbdfe09ae06a4467 |
 | 1.4.6 | 1d26ffe224b211d5f7906f07f916937c |
-| 1.4.5 | e3f8f3f8ac9f0c0eabdfadd5d3ffaf82 |
 
 |  版本号  |                              SHA256值                             |
 | :---: | :--------------------------------------------------------------: |
@@ -54,12 +53,13 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 | 1.4.8 | 5dedd0c8c793c5f22a3d8d4703e31a6fc5e8d483159b31a1fe64265eefc1f7c3 |
 | 1.4.7 | 02182af2d93d3c3d63985986c2a0b8c9506223abe15a59278caf67e84f2efece |
 | 1.4.6 | 081d1c7765813e576c8610d85472a5bd719b73718bc288960a7d333e9e379439 |
-| 1.4.5 | 24f91c19732253afb89b9e588dec2d783d659b9d2bc5bed1d1ba1bb27e06533c |
 
 <mark style="color:blue;">**Google Play**</mark>
 
 |  版本号  |               MD5值               |
 | :---: | :------------------------------: |
+| 1.5.2 | 938e9252cb21fef1c40fac3c4c9492c6 |
+| 1.5.1 | f879845afd51d51fabf42e653011da79 |
 | 1.5.0 | a951c032f8723cc1711f0d3b3256725d |
 | 1.4.9 | 4b88e2ffa2b3d84fbc2f099e1034fb86 |
 | 1.4.7 | feab610e82a1ed694d24994487f3e38c |
@@ -67,6 +67,8 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 |  版本号  |                              SHA256                              |
 | :---: | :--------------------------------------------------------------: |
+| 1.5.2 | dfaf358d6f30ead51b52193a5aab8259fd52ac5d8372b47a97951c799842b988 |
+| 1.5.1 | a4162187fac4a623ab5762d15953ae17e659e3c6fa518615a70d8046d2f01355 |
 | 1.5.0 | c7f8b8a603d8725ba1df631cf03f2c63dc4c428b5ffe1f3ae3eec400bf3d121b |
 | 1.4.9 | 37b571b7644e456be7260e3d1d93ce59d9e38f694215c85e29e4a1476b6bf634 |
 | 1.4.7 | b023f39e496ac6a38cc0ef121470cc7c2142f393c75aea504bc8ab979285dffd |
