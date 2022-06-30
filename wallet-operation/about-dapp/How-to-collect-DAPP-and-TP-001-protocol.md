@@ -32,4 +32,4 @@ _**2.1、**_打开TP钱包，点击【发现】使用DApp浏览器或者顶部�
 
 2.5、添加列表顶部有添加的注意事项，请认真阅读，了解注意事项后点击底部的【添加】，这时我们在发现界面就可以看到刚刚添加的BSC链的DApp列表目录，点击进入选择打开即可使用。
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2F8mnneTDq40w5FdvQXU5k%2F55.png?alt=media\&token=38db01dd-e48d-4285-9b4c-afaf4534973f)
+![](<../../.gitbook/assets/55 (2).png>)
