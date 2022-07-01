@@ -59,3 +59,13 @@ TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨�
 3.3、在详情界面中，点击开发商即可看到完整的 **** <mark style="color:blue;">TOKENPOCKET FOUNDATION LTD</mark> 提示，那么你使用的钱包就是正版的。
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FzA8HiMQc1w4HHg0ZRVhS%2F01.png?alt=media&token=60611645-ba31-4b0f-a871-37ec642cd40f" %}
+
+## 三、下载假钱包处理方法
+
+
+
+如果您是通过假官网或者假链接下载了假的TokenPocket钱包，<mark style="color:red;">**意味着您的钱包私钥和助记词已经泄漏！**</mark>请先正确备份好所有的钱包私钥/助记词，把假钱包卸载！再到TokenPocket官网（[**https://tokenpocket.pro/**](https://tokenpocket.pro/)）下载正版钱包后，根据以下图示进行操作！
+
+
+
+![](<../../.gitbook/assets/组 83.png>)
