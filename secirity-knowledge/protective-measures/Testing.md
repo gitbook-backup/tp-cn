@@ -62,10 +62,8 @@ TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨�
 
 ## 三、下载假钱包处理方法
 
+如果通过假官网或者假链接下载假钱包并导入使用，意味着您的钱包私钥和助记词已经发生泄漏！请到TokenPocket官网（[**https://tokenpocket.pro/**](https://tokenpocket.pro/)）下载正版钱包并导入私钥或助记词，新建一个地址来快速转移可转移的资产。
 
-
-如果您是通过假官网或者假链接下载了假的TokenPocket钱包，<mark style="color:red;">**意味着您的钱包私钥和助记词已经泄漏！**</mark>请先正确备份好所有的钱包私钥/助记词，把假钱包卸载！再到TokenPocket官网（[**https://tokenpocket.pro/**](https://tokenpocket.pro/)）下载正版钱包后，根据以下图示进行操作！
-
-
+例如导入的助记词是多个公链共同使用，那么需要转移多个公链的资产，如果导入的是HD钱包的助记词，就需要处理好子钱包资产转移，或者其他创建HD钱包的资产。
 
 ![](<../../.gitbook/assets/组 83.png>)
