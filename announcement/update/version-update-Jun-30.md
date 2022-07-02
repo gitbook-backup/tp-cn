@@ -16,6 +16,8 @@ iOS: 1.8.6
 
 **【版本更新方式】**&#x20;
 
-App内提示更新，或官网下载最新版本。
+Android App内提示更新，或官网下载最新版本。
+
+iOS 到AppStore更新
 
 <mark style="color:red;">**（注意：TokenPocket唯一官方网址为：**</mark>[<mark style="color:red;">**https://tokenpocket.pro/**</mark>](https://tokenpocket.pro/)<mark style="color:red;">**）**</mark>
