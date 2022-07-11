@@ -194,7 +194,8 @@
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
-  * [🔥 2022/06/05 钱包安全提醒！](announcement/announcement/Jun-5.md)
+  * [🔥 2022/07/11 关于Klaytn维护升级的通知](announcement/announcement/klaytn.md)
+  * [2022/06/05 钱包安全提醒！](announcement/announcement/Jun-5.md)
   * [2022/06/01 关于OP节点维护升级的通知](announcement/announcement/jun-1-op.md)
   * [2022/06/01 关于Heco链升级的通知](announcement/announcement/jun-1.md)
   * [2022/05/20 关于Polygon（Matic）链升级的通知](announcement/announcement/May-20.md)
@@ -204,7 +205,7 @@
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/20211202-guan-yu-eos-jie-dian-wei-hu-sheng-ji-de-tong-zhi.md)
 * [APP更新](announcement/update/README.md)
   * [版本更新日志（07/08/2022)](announcement/update/version-update-July-8.md)
-  * [版本更新日志（07/02/2022）](announcement/update/version-update-July-2.md)
+  * [版本更新日志（07/02/2022）](announcement/update/ban-ben-geng-xin-ri-zhi-02072022.md)
   * [版本更新日志（06/30/2022）](announcement/update/version-update-Jun-30.md)
   * [版本更新日志（06/28/2022）](announcement/update/version-update-Jun-28.md)
   * [版本更新日志（06/13/2022）](announcement/update/version-update-Jun-13.md)
