@@ -15,3 +15,13 @@ BNB Chain、IOST 链已于新加坡时间2022年07月20日18:00完成维护升�
 TokenPocket&#x20;
 
 2022/07/20
+
+
+
+**温馨提示：您可以在区块浏览器中查询历史交易记录。**
+
+****[**BSC区块浏览器**](https://bscscan.com/)****
+
+****[**IOST区块浏览器**](https://explorer.iost.io/)****
+
+****[**区块浏览器使用教程**](https://help.tokenpocket.pro/cn/wallet-management/blockchain-explorer-tutorial)****
