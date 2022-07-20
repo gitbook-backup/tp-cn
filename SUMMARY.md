@@ -195,7 +195,8 @@
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
-  * [🔥 2022/7/12 关于波场链维护升级的通知！](announcement/announcement/tron.md)
+  * [🔥 2022/7/20 关于BSC链，IOST链维护升级的通知](announcement/announcement/bsc-iost.md)
+  * [2022/7/12 关于波场链维护升级的通知！](announcement/announcement/tron.md)
   * [2022/07/11 关于Klaytn维护升级的通知](announcement/announcement/klaytn.md)
   * [2022/06/05 钱包安全提醒！](announcement/announcement/Jun-5.md)
   * [2022/06/01 关于OP节点维护升级的通知](announcement/announcement/jun-1-op.md)
