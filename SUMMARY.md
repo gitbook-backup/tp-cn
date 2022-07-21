@@ -16,7 +16,7 @@
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
   * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
   * [假二维码诈骗](secirity-knowledge/fraud-cases/fake-code-scam.md)
-  * [假App诈骗](secirity-knowledge/fraud-cases/fake-app-fraud.md)
+  * [假链接/App诈骗](secirity-knowledge/fraud-cases/fake-app-fraud.md)
   * [钓鱼网站诈骗](secirity-knowledge/fraud-cases/phishing-website-fraud.md)
   * [假代币诈骗](secirity-knowledge/fraud-cases/fake-tokens-fraud.md)
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
