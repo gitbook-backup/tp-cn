@@ -23,6 +23,7 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
+  * [代币合约安全检测工具上线](secirity-knowledge/protective-measures/Token-Detection.md)
   * [一文学会分辨TP钱包是否正版](secirity-knowledge/protective-measures/Testing.md)
   * [官网正版钱包验证方法](secirity-knowledge/protective-measures/verification.md)
   * [如何验证你的Google Play版TP钱包是否正版](secirity-knowledge/protective-measures/google.md)
