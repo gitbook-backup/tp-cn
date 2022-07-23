@@ -18,7 +18,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 注：请使用本人注册的海外ID账户进行登录下载；请勿使用他人账户；请勿泄漏账户名称及账户密码，谨防诈骗。
 
-![](<../../.gitbook/assets/2 (28) (1).png>)
+![](<../../.gitbook/assets/2 (28) (1) (1).png>)
 
 
 
@@ -44,7 +44,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 2.点击【开始迁移】，在下方工具栏中找到App store版TokenPocket APP进行钱包数据迁移。至此，您已完成将TestFlight版TokenPocket APP钱包数据迁移至App store版TokenPocket APP的操作。
 
-![](<../../.gitbook/assets/3 (16) (1).png>)
+![](<../../.gitbook/assets/3 (16) (1) (1).png>)
 
 **注意：**
 

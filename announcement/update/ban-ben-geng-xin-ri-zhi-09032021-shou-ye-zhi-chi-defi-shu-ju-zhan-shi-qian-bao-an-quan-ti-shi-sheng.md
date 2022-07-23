@@ -27,7 +27,7 @@ App Store: 1.6.3
 
 2）此处以Pippi Shrimp为例，点击进入【Pippi Shrimp】，即可查看目前资金状态和流动性；
 
-![](<../../.gitbook/assets/2 (25).png>)
+![](<../../.gitbook/assets/2 (25) (1).png>)
 
 3）点击【进入DApp】，在点击跳转弹框【我知道了】，即可进入Pippi Shrimp官方界面。
 

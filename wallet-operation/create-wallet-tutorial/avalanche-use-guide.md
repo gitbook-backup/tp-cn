@@ -26,7 +26,7 @@ Avalanche雪崩协议是对开发者最为友好的、可定制化高性能公�
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择Avalanche，点击【添加钱包】；
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (7) (1).png>)
 
 2、点击【导入钱包】，继续点击【私钥导入】或【助记词导入】；
 

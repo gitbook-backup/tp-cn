@@ -14,6 +14,7 @@
 ## 🔐 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
+  * [BSC链恶意授权诈骗](secirity-knowledge/fraud-cases/Malicious.md)
   * [假空投诈骗](secirity-knowledge/fraud-cases/airdrop-fraud.md)
   * [假二维码诈骗](secirity-knowledge/fraud-cases/fake-code-scam.md)
   * [假链接/App诈骗](secirity-knowledge/fraud-cases/fake-app-fraud.md)
