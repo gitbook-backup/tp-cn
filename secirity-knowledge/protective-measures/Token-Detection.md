@@ -35,3 +35,17 @@
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FllY3uUkSrbbtdkLfJvre%2F5%20%E6%8B%B7%E8%B4%9D.png?alt=media&token=8fa5357a-4080-407f-ba85-b0edc2c6c7e2" %}
 
 代币合约地址安全检测工具的推出可以在很大程度上规避一些恶意的代币，工具只是一个辅助的作用，它的准确率无法保证百分之百，后续功能会加入到行情界面的代币详情中。
+
+
+
+3、独立版合约检测工具
+
+打开TokenPocket，点击【发现】新品区可以找到独立检测工具，也可以单独打开链接[<mark style="color:blue;">**https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/**</mark>](https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/) <mark style="color:blue;">****</mark> 使用。
+
+工具打开后可以点击左上角选择不同的公链，中间的位置可以填入需要检测的合约地址并点击检测。
+
+![](<../../.gitbook/assets/01 拷贝.png>)
+
+检测结果会分为几个大类显示，可以根据检测的结果来进行甄别。
+
+![](<../../.gitbook/assets/03 .png>)
