@@ -12,3 +12,7 @@
 
 **更不要直接往代币合约地址直接转账！**
 
+为了<mark style="color:red;">防止TokenPocket用户往合约地址转账</mark>，请留意以下TokenPocket转账的安全提示！
+
+![](<../../.gitbook/assets/合约地址 cn1.png>)
+
