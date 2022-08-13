@@ -41,7 +41,7 @@ BSC：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/
 
 1）[onlinepngtools](https://onlinepngtools.com/resize-png) 工具可将图片大小裁剪为 256 x 256‌
 
-![](<../.gitbook/assets/1 (27).png>)
+![](<../.gitbook/assets/1 (27) (2).png>)
 
 **2. 代币信息文件**
 
