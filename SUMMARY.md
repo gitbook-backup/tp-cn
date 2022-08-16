@@ -126,7 +126,7 @@
   * [如何管理NFT资产？](wallet-management/token/how-to-manage-my-nft-assets.md)
   * [关于自定义代币](wallet-management/token/about-custom-token.md)
 * [钱包管理](wallet-management/wallet/README.md)
-  * [如何使用Widget（小插件）](wallet-management/wallet/Widget.md)
+  * [如何使用Widget（小部件）](wallet-management/wallet/Widget.md)
   * [如何隐藏钱包？](wallet-management/wallet/hide-wallet-network.md)
   * [如何创建钱包？](wallet-management/wallet/create-wallet.md)
   * [如何导入钱包？](wallet-management/wallet/import-wallet.md)
