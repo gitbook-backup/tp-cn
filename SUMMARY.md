@@ -12,6 +12,7 @@
 * [什么是DEX?](the-basics/about-dex.md)
 * [什么是硬件钱包](the-basics/Hardware-Wallet.md)
 * [什么是冷钱包](the-basics/Cold-Wallet.md)
+* [什么是热钱包](the-basics/Hot-Wallet.md)
 
 ## 🔐 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
