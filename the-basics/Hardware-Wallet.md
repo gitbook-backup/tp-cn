@@ -22,7 +22,7 @@
 
 &#x20;     目前市面上基于芯片安全的硬件钱包品牌主要有：
 
-&#x20;      Legder Nano S、KeyPal、Trezor等
+&#x20;      Legder Nano S、[<mark style="color:blue;">**KeyPal**</mark>](https://www.keypal.pro)、Trezor等
 
 &#x20;      而且，硬件钱包是所有钱包中安全系数最高的，相对来说最不容易被攻击的钱包。\
 

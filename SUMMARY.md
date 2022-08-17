@@ -10,7 +10,8 @@
 * [什么是矿工费？](the-basics/what-is-the-miner-fee.md)
 * [什么是DeFi？](the-basics/what-is-defi.md)
 * [什么是DEX?](the-basics/about-dex.md)
-* [什么是硬件钱包](the-basics/shi-mo-shi-ying-jian-qian-bao.md)
+* [什么是硬件钱包](the-basics/Hardware-Wallet.md)
+* [什么是冷钱包](the-basics/Cold-Wallet.md)
 
 ## 🔐 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
