@@ -1,10 +1,16 @@
-# 如何使用Widget（小插件）
+# 如何使用Widget（小部件）
 
 ### <mark style="color:blue;">什么是 Widget</mark>
 
 **Widget 不是一个小型的 App**，它是一种新的桌面内容展现形式，主要是用于弥补主应用程序无法及时展示用户所关心的数据。
 
 TokenPocket新版本中支持Widgets功能，可以将我们日常使用的NFT、行情、价格、Gas参数等内容放到手机桌面上。
+
+### <mark style="color:blue;">**Widget两种设置方法，**</mark>
+
+第一种，可以现在TokenPocket中设置选中的NFT作为Widget展示的图片内容，然后通过系统的插件功能来调用。（演示内容使用了第一种方法）
+
+第二种，可以先通过系统插件功能添加行情或者NFT后再点击进入到TokenPocket中设置。
 
 ### <mark style="color:blue;">如何设置 Widget</mark>
 
