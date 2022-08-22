@@ -14,6 +14,7 @@
 * [什么是冷钱包](the-basics/Cold-Wallet.md)
 * [什么是热钱包](the-basics/Hot-Wallet.md)
 * [什么是观察钱包](the-basics/Watch-the-wallet.md)
+* [什么是多签钱包](the-basics/Multisig.md)
 
 ## 🔐 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
