@@ -1,4 +1,4 @@
-# 版本更新日志 (08/29/2022)
+# 版本更新日志  (08/29/2022)
 
 **【版本更新详情】**
 
@@ -18,8 +18,10 @@ Android: 1.5.8
 
 **【版本更新方式】**&#x20;
 
-安卓用户App内提示更新，或官网下载最新版本。GooglePlay审核中
+安卓用户App内提示更新，或官网下载最新版本。
 
-iOS到AppStore进行下载、更新。
+iOS到AppStore进行更新。
+
+GooglePlay审核中
 
 <mark style="color:red;">**（注意：TokenPocket唯一官方网址为：**</mark>[<mark style="color:red;">**https://tokenpocket.pro/**</mark>](https://tokenpocket.pro/)<mark style="color:red;">**）**</mark>
