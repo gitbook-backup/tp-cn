@@ -20,8 +20,6 @@ Android: 1.5.8
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-iOS到AppStore进行更新。
-
-GooglePlay审核中
+其他更新方式：AppStore、GooglePlay
 
 <mark style="color:red;">**（注意：TokenPocket唯一官方网址为：**</mark>[<mark style="color:red;">**https://tokenpocket.pro/**</mark>](https://tokenpocket.pro/)<mark style="color:red;">**）**</mark>
