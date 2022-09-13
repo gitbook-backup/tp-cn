@@ -211,7 +211,8 @@
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
-  * [🔥 2022/08/31 关于Arbitrum进行Nitro技术升级的通知](announcement/announcement/aug-31.md)
+  * [🔥 关于以太坊合并的公告](announcement/announcement/merge.md)
+  * [2022/08/31 关于Arbitrum进行Nitro技术升级的通知](announcement/announcement/aug-31.md)
   * [2022/08/29 关于TokenPocket钱包维护升级的通知](announcement/announcement/aug-29.md)
   * [2022/08/04 关于Matic（马蹄）链维护升级的通知](announcement/announcement/matic.md)
   * [2022/07/20 关于BSC链，IOST链维护升级的通知](announcement/announcement/bsc-iost.md)
