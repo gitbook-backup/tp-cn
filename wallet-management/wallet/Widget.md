@@ -33,3 +33,17 @@ TokenPocket新版本中支持Widgets功能，可以将我们日常使用的NFT�
 5、TokenPocket插件支持NFT展示、价格展示、Gas参数展示等内容，点击小插件即可快速调用对应的功能，这里的行情展示插件的内容可以在钱包的行情自选中灵活设置。
 
 ![](../../.gitbook/assets/6.png)
+
+### <mark style="color:blue;">iOS的设置方法：</mark>
+
+1、打开手机桌面向右滑动屏幕进入桌面小组件界面，选择小组件界面底部的【编辑】功能，在界面右上角点击【+】添加小部件。
+
+<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+
+2、在添加界面中可以直接通过搜索TokenPocket或者下拉倒底部找到TokenPocket，打开后就可以向左滑动查看支持的8种展示部件，（行情展示部分对部分用户会有限制）
+
+<figure><img src="../../.gitbook/assets/22 (1).png" alt=""><figcaption></figcaption></figure>
+
+3、添加完成后就可以在小部件的界面中查看和点击使用相关功能，小部件设置的方法iOS和安卓移动端都是一样的。
+
+<figure><img src="../../.gitbook/assets/33 (1).png" alt=""><figcaption></figcaption></figure>
