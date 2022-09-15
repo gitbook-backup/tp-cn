@@ -12,7 +12,7 @@ BSC：[https://github.com/TP-Lab/tokens/tree/master/bsc](https://github.com/TP-L
 
 HECO：[https://github.com/TP-Lab/tokens/tree/master/heco](https://github.com/TP-Lab/tokens/tree/master/heco)​‌
 
-TRON： 目前暂不支持上传Tron​链的代币图标，请勿提交。‌
+TRON： [https://github.com/TP-Lab/tokens/tree/master/tron](https://github.com/TP-Lab/tokens/tree/master/tron)
 
 EOS：目前暂不支持上传EOS​链的代币图标，请勿提交。‌​‌
 
@@ -35,6 +35,10 @@ Arbitrum: [https://github.com/TP-Lab/tokens/tree/master/arbitrum](https://github
 Avalanche-C: [https://github.com/TP-Lab/tokens/tree/master/Avalanche-C](https://github.com/TP-Lab/tokens/tree/master/Avalanche-C)
 
 Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://github.com/TP-Lab/tokens/tree/master/optimistic)
+
+Ethereum Classic
+
+Arbitrum Nova
 
 
 
