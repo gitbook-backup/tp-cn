@@ -36,10 +36,6 @@ Avalanche-C: [https://github.com/TP-Lab/tokens/tree/master/Avalanche-C](https://
 
 Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://github.com/TP-Lab/tokens/tree/master/optimistic)
 
-Ethereum Classic
-
-Arbitrum Nova
-
 
 
 ### <mark style="color:blue;">注意事项：</mark>
