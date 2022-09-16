@@ -50,7 +50,7 @@ PIN码是指KeyPal设备的密码，注意，请保存好您所设置的PIN码�
 
 设备成功连接后，TokenPocket钱包右上角将会显示KeyPal蓝牙连接图标。
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 3.如何通过KeyPal进行转账操作？
 
