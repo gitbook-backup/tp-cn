@@ -20,7 +20,7 @@ TokenPocket新版本中支持Widgets功能，可以将我们日常使用的NFT�
 
 2、在皮肤设置界面中点击【Widgets】，选择自己持有的NFT皮肤中的图片后点击【确认】即可看到设置成功的提示。
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (3).png>)
 
 3、回到手机桌面，长按屏幕选择底部的【插件】功能，在插件详情列表中下拉找到TokenPocket的插件功能。
 
