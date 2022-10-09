@@ -16,7 +16,7 @@
 
 <figure><img src="../../.gitbook/assets/3 (26).png" alt=""><figcaption></figcaption></figure>
 
-4、点击新增加的ETHW 公链，可以选择【创建】或【导入】方式使用ETF钱包，导入后就可以看到自己收到的ETF空投。
+4、点击新增加的ETHW 公链，可以选择【创建】或【导入】方式使用ETHW钱包，导入后就可以看到自己收到的ETHW空投。
 
 <figure><img src="../../.gitbook/assets/4 (18).png" alt=""><figcaption></figcaption></figure>
 

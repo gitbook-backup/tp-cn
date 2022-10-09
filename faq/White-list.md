@@ -64,4 +64,4 @@ TP钱包被<mark style="color:blue;">**腾讯病毒库误报**</mark>为危险�
 
 * 打开**设备保护**选项，在**选择要排除的应用程序**里面添加TokenPocket即可完成白名单操作。
 
-![](<../.gitbook/assets/2 (3) (1) (1).png>)
+![](<../.gitbook/assets/2 (3) (1).png>)
