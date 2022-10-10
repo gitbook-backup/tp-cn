@@ -95,7 +95,7 @@
   * [PuddingSwap（HSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
-  * [TokenPocket带您一文玩转Fon Chain！](wallet-operation/create-wallet-tutorial/FON.md)
+  * [TokenPocket带您一文玩转 FON Smart Chain（FSC）](wallet-operation/create-wallet-tutorial/FON.md)
   * [TokenPocket带您一文玩转EthereumPoW（ETHW）](wallet-operation/create-wallet-tutorial/ETHW.md)
   * [TokenPocket带您一文玩转EthereumFair（ETF）](wallet-operation/create-wallet-tutorial/ETF.md)
   * [TokenPocket带您一文玩转Arbitrum Nova!](wallet-operation/create-wallet-tutorial/arb-nova.md)
