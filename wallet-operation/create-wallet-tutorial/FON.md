@@ -16,7 +16,7 @@
 
 <figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
-4、点击新增加的 FON Smart Chain 公链，可以选择【创建】或【导入】方式使用FON钱包。
+4、点击新增加的 FON Smart Chain 公链，可以选择【创建】或【导入】方式使用FSC钱包。
 
 <figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
