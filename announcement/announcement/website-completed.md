@@ -1,10 +1,10 @@
-# 🔥 关于TokenPocket官网维护完成的公告
+# 🔥 2022/10/11 关于TokenPocket官网维护完成的公告
 
 各位用户，
 
 
 
-TokenPocket官网tokenpocket.pro已维护完成，用户现可以正常访问。技术维护期間為您帶來的不便，敬請諒解。
+TokenPocket官网[tokenpocket.pro](https://tokenpocket.pro/)已维护完成，用户现可以正常访问。技术维护期間為您帶來的不便，敬請諒解。
 
 
 
