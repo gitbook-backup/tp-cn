@@ -216,6 +216,7 @@
 ## 🪧 产品公告 <a href="#announcement" id="announcement"></a>
 
 * [公告专区](announcement/announcement.md)
+  * [🔥 关于TokenPocket官网维护完成的公告](announcement/announcement/website-completed.md)
   * [2022/10/11 关于TokenPocket官网维护的公告](announcement/announcement/website.md)
   * [2022/10/07 关于BNB链维护升级完成的公告](announcement/announcement/oct-7-bnb-completed.md)
   * [2022/10/07 关于BNB链维护的公告](announcement/announcement/oct-7-bnb.md)
