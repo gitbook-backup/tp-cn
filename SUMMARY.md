@@ -101,7 +101,7 @@
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
   * [TokenPocket带您一文玩转 FON Smart Chain（FSC）](wallet-operation/create-wallet-tutorial/FON.md)
   * [TokenPocket带您一文玩转EthereumPoW（ETHW）](wallet-operation/create-wallet-tutorial/ETHW.md)
-  * [TokenPocket带您一文玩转EthereumFair（ETF）](wallet-operation/create-wallet-tutorial/ETF.md)
+  * [TokenPocket带您一文玩转EthereumFair（ETHF）](wallet-operation/create-wallet-tutorial/ETF.md)
   * [TokenPocket带您一文玩转Arbitrum Nova!](wallet-operation/create-wallet-tutorial/arb-nova.md)
   * [TokenPocket带您一文玩转ETC！](wallet-operation/create-wallet-tutorial/etc-use-guide.md)
   * [TokenPocket带您一文玩转HALO！](wallet-operation/create-wallet-tutorial/halo-use-guide.md)
