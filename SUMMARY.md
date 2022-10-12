@@ -31,7 +31,7 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
-  * [使用三方DApp注意事项](secirity-knowledge/protective-measures/dapp.md)
+  * [使用第三方DApp注意事项](secirity-knowledge/protective-measures/dapp.md)
   * [代币合约安全检测工具使用指引](secirity-knowledge/protective-measures/Token-Detection.md)
   * [请保管好您的私钥/助记词!](secirity-knowledge/protective-measures/phrase-key.md)
   * [请小心被标记为风险的代币或网站链接](secirity-knowledge/protective-measures/risky-token-link.md)
