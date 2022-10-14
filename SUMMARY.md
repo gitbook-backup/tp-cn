@@ -20,6 +20,7 @@
 ## 🔐 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
+  * [警惕接码类诈骗](secirity-knowledge/fraud-cases/sms.md)
   * [警惕新型空投诈骗](secirity-knowledge/fraud-cases/New-scams.md)
   * [警惕助记词分享诈骗](secirity-knowledge/fraud-cases/tron.md)
   * [BSC链恶意授权诈骗](secirity-knowledge/fraud-cases/Malicious.md)
