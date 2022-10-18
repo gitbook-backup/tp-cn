@@ -14,7 +14,7 @@
 
 3、核对信息后点击右下角的【保存】，即可添加成功。回到选择网络界面，下拉到最底部可以看到新添加的 FON Smart Chain 网络。
 
-<figure><img src="../../.gitbook/assets/3 (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、点击新增加的 FON Smart Chain 公链，可以选择【创建】或【导入】方式使用FSC钱包。
 
