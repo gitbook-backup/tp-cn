@@ -78,6 +78,7 @@
 * [Aptos钱包](faq/Aptos/README.md)
   * [什么是权限变更](faq/Aptos/Permissions.md)
 * [多链钱包](faq/multichain-wallet/README.md)
+  * [如何重置密码](faq/multichain-wallet/Reset.md)
   * [如何使用离线冷钱包](faq/multichain-wallet/coldwallet.md)
   * [什么是助记词](faq/multichain-wallet/secret-recovery-phrase.md)
   * [什么是资产归集](faq/multichain-wallet/what-is-asset-collection.md)
