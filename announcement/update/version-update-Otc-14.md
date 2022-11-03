@@ -26,3 +26,7 @@ iOS: 1.9.0
 
 其他更新方式：GooglePlay
 
+
+
+注意事项：\
+Aptos在低版本Android设备上可能存在兼容性问题，建议使用Android8以上设备创建/导入Aptos钱包
