@@ -86,6 +86,7 @@
   * [关于子钱包](faq/multichain-wallet/sub-wallets.md)
   * [什么是私钥](faq/multichain-wallet/private-key.md)
   * [什么是多签nonce](faq/multichain-wallet/nonce.md)
+  * [什么是多签](faq/multichain-wallet/Multisig.md)
 * [杀毒软件误报](faq/White-list.md)
 
 ## 🔩 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
