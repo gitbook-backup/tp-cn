@@ -85,9 +85,10 @@
   * [什么是身份钱包(HD)?](faq/multichain-wallet/hd.md)
   * [关于子钱包](faq/multichain-wallet/sub-wallets.md)
   * [什么是私钥](faq/multichain-wallet/private-key.md)
-  * [什么是多签](faq/multichain-wallet/Multisig.md)
-  * [什么是多签管理员](faq/multichain-wallet/Multisig-admin.md)
-  * [什么是多签nonce](faq/multichain-wallet/nonce.md)
+* [多签钱包](faq/Multisig-Wallet/README.md)
+  * [什么是多签](faq/Multisig-Wallet/Multisig.md)
+  * [什么是多签管理员](faq/Multisig-Wallet/Multisig-admin.md)
+  * [什么是多签nonce](faq/Multisig-Wallet/nonce.md)
 * [杀毒软件误报](faq/White-list.md)
 
 ## 🔩 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
