@@ -89,6 +89,8 @@
   * [什么是多签](faq/Multisig-Wallet/Multisig.md)
   * [什么是多签管理员](faq/Multisig-Wallet/Multisig-admin.md)
   * [什么是多签nonce](faq/Multisig-Wallet/nonce.md)
+  * [多签钱包创建教程](faq/Multisig-Wallet/create.md)
+  * [多签钱包导入教程](faq/Multisig-Wallet/import.md)
 * [杀毒软件误报](faq/White-list.md)
 
 ## 🔩 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
