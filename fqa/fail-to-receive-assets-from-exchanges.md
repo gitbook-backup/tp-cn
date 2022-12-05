@@ -15,7 +15,7 @@
 
 2）进入页面后，可在【Status】查看交易状态。
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 3、若状态为success，然而资产却未到账，可在钱包资产页面手动添加代币，若代币仍显示为零，则有以下2种可能：
 

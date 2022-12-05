@@ -18,7 +18,7 @@
 
 1、打开TokenPocket点击右上角第一个图标，添加多签钱包。
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、导入多签钱包界面中，顶部需要填入创建的多签钱包地址，如果填入非多签钱包地址则会提示无法导入的提示，填入了多签地址后，下方会自动识别你所创建的公链网络、最少确认签名数和管理钱包等信息，操作就像使用观察钱包一样简单，当然他甚至也可以作为一个观察钱包来使用。
 
