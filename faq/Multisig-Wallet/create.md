@@ -24,7 +24,7 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 2、在多签网络中选择需要创建多签的网络，例如这里选择以太坊网络，请认真阅读【多签创建流程】中的提示内容，阅读完成后点击下一步。
 
-<figure><img src="../../.gitbook/assets/2 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 拷贝 (1).png" alt=""><figcaption></figcaption></figure>
 
 3、多签钱包创建的步骤是最核心的内容，下图中将每一个类型的内容进行了展示，内容如下:
 
@@ -48,7 +48,7 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 5、多签钱包创建成功后，点击蓝色区域右上角【详情】在这里可以查看详情信息，主要有【多签队列】和【多签管理】两个分类。
 
-<figure><img src="../../.gitbook/assets/5 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 拷贝 (1).png" alt=""><figcaption></figcaption></figure>
 
 6、多签队列中会显示生成的多签订单，可以点击并完成订单；多签管理中可以查看【最小确认签名数】、【链上最新Nonce】和【关联钱包】等信息，其中关联钱包就是管理地址，如果有未导入的地址，可以通过点击【导入该钱包】使用私钥或助记词导入，关联钱包的是否导入会影响后续的转账或DApp的使用的调用方式。
 
