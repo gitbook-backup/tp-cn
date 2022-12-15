@@ -4,9 +4,9 @@
 
 **那么如果一个普通的地址没有执行过Approve操作是否也可以被调用呢？**
 
-近期越来越多的用户反馈，在自己的USDT转账列表中会看到有\*\*“0USDT”\*\*被转出的记录，如下
+近期越来越多的用户反馈，在自己的USDT转账列表中会看到有“0USDT”被<mark style="color:blue;">**转入/转出**</mark>的记录，如下
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
 
 大部分看到自己的地址被调用转出资产，第一反应会认为自己可能会有被恶意授权的风险，于是打开权限检测工具或浏览器查看自己的授权记录。
 
@@ -42,3 +42,21 @@
 **2.出现这种情况，我的资产还安全吗。**
 
 这种操作目的就是为了模拟从用户地址转出的记录，结合伪装地址的方式来诱导用户误操作进行转账，它并不能对你的资产产生任何风险，但是请一定要注意这种可能误操作的执行。
+
+
+
+一些优化进度：
+
+TokenPocket：新版本对历史记录中复制地址进行了弹窗风险提示，近期会增加对小额地址的过滤设置功能，用户可以自主的来控制开关从而屏蔽一些“零资产”或“仿冒地址”等诈骗方式。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2022-12-15_17-02-00.png" alt=""><figcaption></figcaption></figure>
+
+TRON官方优化:
+
+1、增加了链上查看数据，关于“零资产”转账相关的提示内容；
+
+<figure><img src="../../.gitbook/assets/Snipaste_2022-12-15_17-06-37.png" alt=""><figcaption></figcaption></figure>
+
+2、交易历史记录中对“零资产”记录进行了风险提示信息。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2022-12-15_17-07-19.png" alt=""><figcaption></figcaption></figure>
