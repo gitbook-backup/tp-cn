@@ -54,7 +54,7 @@
 ## 📨 钱包常见问题 <a href="#faq" id="faq"></a>
 
 * [BTC钱包](faq/btcwallet/README.md)
-  * [什么是观察钱包](faq/btcwallet/shen-me-shi-guan-cha-qian-bao.md)
+  * [什么是观察钱包](faq/btcwallet/Watch-wallet.md)
   * [什么是找零地址](faq/btcwallet/change-address.md)
   * [什么是UTXO](faq/btcwallet/utxo.md)
   * [什么是OP\_RETURN？](faq/btcwallet/op-return.md)
