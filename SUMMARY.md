@@ -76,7 +76,7 @@
 * [BOS钱包](faq/boswallet/README.md)
   * [BOS好友创建教程](faq/boswallet/creat-by-friend.md)
 * [OKX钱包](faq/okxwallet/README.md)
-  * [OKExChain钱包升级](faq/okxwallet/okexchain-qian-bao-sheng-ji.md)
+  * [OKExChain钱包升级](faq/okxwallet/okx.md)
 * [Aptos钱包](faq/Aptos/README.md)
   * [什么是权限变更](faq/Aptos/Permissions.md)
 * [多链钱包](faq/multichain-wallet/README.md)
