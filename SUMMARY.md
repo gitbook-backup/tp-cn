@@ -128,7 +128,7 @@
   * [TokenPocket一文带你玩转Solana!](wallet-operation/create-wallet-tutorial/solana-use-guide.md)
   * [TokenPocket一文带你玩转Avalanche!](wallet-operation/create-wallet-tutorial/avalanche-use-guide.md)
   * [TokenPocket一文带你玩转Fantom!](wallet-operation/create-wallet-tutorial/fantom-use-guide.md)
-  * [TokenPocket一文带你玩转Arbitrum!](wallet-operation/create-wallet-tutorial/tokenpocket-yi-wen-dai-ni-wan-zhuan-arbitrum.md)
+  * [TokenPocket一文带你玩转Arbitrum!](wallet-operation/create-wallet-tutorial/arbitrum.md)
   * [如何在TokenPocket玩转Polygon（Matic）?](wallet-operation/create-wallet-tutorial/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
   * [如何在TokenPocket使用Klaytn?](wallet-operation/create-wallet-tutorial/klaytn-use-guide.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
