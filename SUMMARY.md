@@ -209,7 +209,7 @@
 
 ## 💻 插件钱包 <a href="#extension-wallet" id="extension-wallet"></a>
 
-* [基本功能介绍](extension-wallet/ji-ben-gong-neng-jie-shao.md)
+* [基本功能介绍](extension-wallet/Function.md)
 * [插件钱包使用教程](extension-wallet/tutorial.md)
   * [TokenPocket插件钱包安装教程](extension-wallet/faq/installation-tutorial.md)
   * [使用教程](extension-wallet/faq/use-tutorial/README.md)
