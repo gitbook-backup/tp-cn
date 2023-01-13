@@ -15,3 +15,9 @@
 打开TokenPocket，点击【转账】--【地址簿转账】。
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+### TokenPocket安全措施
+
+您可以通过隐藏小额交易来隐藏这些伪装地址的钓鱼操作。
+
+点击查看👉[**设置教程**](https://help.tokenpocket.pro/cn/secirity-knowledge/protective-measures/hide)****

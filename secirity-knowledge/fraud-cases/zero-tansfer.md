@@ -60,3 +60,9 @@ TRON官方优化:
 2、交易历史记录中对“零资产”记录进行了风险提示信息。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2022-12-15_17-07-19.png" alt=""><figcaption></figcaption></figure>
+
+### TokenPocket安全措施
+
+您可以通过隐藏小额交易来隐藏这些伪装地址的钓鱼操作。
+
+点击查看👉[**设置教程**](https://help.tokenpocket.pro/cn/secirity-knowledge/protective-measures/hide)****
