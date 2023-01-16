@@ -96,11 +96,11 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 4.登录完成后，在App Store里搜索“TP Wallet”，即可下载正版TokenPocket App;
 
-![](<../../.gitbook/assets/1 (4).png>)
+![](<../../.gitbook/assets/1 (4) (2).png>)
 
 5.请认准APP发布者信息为<mark style="color:blue;">**TP Global Ltd**</mark>，其余均为假冒软件，谨防受骗！
 
-![](<../../.gitbook/assets/2 (4).png>)
+![](<../../.gitbook/assets/2 (4) (1).png>)
 
 如果有非大陆Apple ID，点击TokenPocket官网首页【手机下载】，即可进入「APP Store」下载。
 

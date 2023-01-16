@@ -36,7 +36,7 @@ Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁�
 
 5.在详情界面中，可以查看到开发商信息：TP Global Ltd，只有这个开发商才是唯一的TokenPocket官方版本，那么你使用的钱包就是正版的。<mark style="color:red;">**（2022年10月8日之前在App Store中下载的开发商为：TOKENPOCKET FOUNDATION LTD**</mark><mark style="color:red;">** **</mark><mark style="color:red;"><mark style="color:orange;">****<mark style="color:orange;"></mark><mark style="color:red;">** **</mark><mark style="color:red;">**是TokenPocket开发的早期版本，也是正版钱包可以正常的使用，后续将暂停更新服务。）**</mark>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **TOKENPOCKET钱包迁移教程（最新ios版本暂未支持钱包迁移，该功能将会在后续版本推出。）**
 

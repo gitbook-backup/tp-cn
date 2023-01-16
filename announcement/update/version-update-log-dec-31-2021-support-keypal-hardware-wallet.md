@@ -28,7 +28,7 @@ iOS: 1.7.2
 
 助记词输入完成后-【请设置PIN码】-PIN码设置完成后，导入钱包成功-KeyPal将会显示主页面。点击下/左按钮即可进入下一页面。
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (2).png>)
 
 PIN码是什么？
 
