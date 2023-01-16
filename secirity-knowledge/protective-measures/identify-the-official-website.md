@@ -106,7 +106,7 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 注意：在 App Store 中搜索到的TokenPocket命名的均为非官方钱包，请认准TP Wallet。
 
-<mark style="color:red;">**（2022年10月8日之前在App Store中下载的开发商为：**</mark><mark style="color:blue;"><mark style="color:red;">**TOKENPOCKET FOUNDATION LTD**<mark style="color:red;"></mark><mark style="color:red;">** **</mark><mark style="color:red;">**是TokenPocket开发的早期版本，也是正版钱包可以正常的使用，后续无法提供更新服务。）**</mark>
+<mark style="color:red;">**（2022年10月8日之前在App Store中下载的开发商为：**</mark><mark style="color:blue;"><mark style="color:red;">**TOKENPOCKET FOUNDATION LTD**<mark style="color:red;"></mark><mark style="color:red;">** **</mark><mark style="color:red;">**是TokenPocket开发的早期版本，也是正版钱包可以正常的使用，后续将暂停更新服务。）**</mark>
 
 从App Store 下载TokenPocket时，请务必切换至非大陆 Apple ID，并请认准开发者为 <mark style="color:blue;">**TP Global Ltd**</mark> 开发的App，其他所有的均为假冒TokenPocket App。
 
