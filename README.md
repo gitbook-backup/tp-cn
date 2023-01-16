@@ -1,10 +1,10 @@
 # TokenPocket简介
 
-<mark style="color:red;">**请认准TokenPocket唯一官网链接：www.tokenpocket.pro ，其他均为假链接（假钱包）。**</mark>
+<mark style="color:red;">**请认准TokenPocket唯一官网链接：www.tokenpocket.pro 或**</mark> [<mark style="color:red;">**https://www.tpglobalwallet.net/#/**</mark>](https://www.tpglobalwallet.net/#/)<mark style="color:red;">**，其他均为假链接（假钱包）。**</mark>
 
 [TokenPocket](https://www.tokenpocket.pro/)是全球领先的多链自托管钱包，支持BTC、ETH、BSC、TRON、Polygon、Solana、HECO、Klaytn、Avalanche、OKC、HSC、Fantom、Polkadot、Kusama等主流公链。TokenPocket移动钱包、chrome插件钱包、硬件钱包三位一体已经正式形成。私钥和助记词存储在用户自己的设备中，用户可以完全控制自己的加密资产。 TokenPocket 已为全球超过 2000 万用户提供可靠的服务。月活跃用户数超过350万，用户遍布全球200多个国家和地区。
 
-:mobile\_phone:手机端下载：🍎 [**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697) **** 🤖 [**安卓**](https://play.google.com/store/apps/details?id=vip.mytokenpocket) 。
+:mobile\_phone:手机端下载：🍎[ **iOS**](https://apps.apple.com/hk/app/tp-global-wallet/id6444625622) **** 🤖 [**安卓**](https://play.google.com/store/apps/details?id=vip.mytokenpocket) 。
 
 💻电脑端下载：[**TokenPocket插件钱包**](https://extension.tokenpocket.pro/#/)****
 
