@@ -23,4 +23,4 @@ Android: 1.6.5
 
 本次更新将进行分批次更新，即用户可进行更新的时间不同，收到更新提示的用户可根据个人需求进行更新与否，未收到更新提示的用户请等待更新推送。
 
-<mark style="color:red;">**请认准TokenPocket唯一官网链接：www.tokenpocket.pro 或**</mark> [<mark style="color:red;">**https://www.tpglobalwallet.net/#/**</mark>](https://www.tpglobalwallet.net/#/)<mark style="color:red;">**，其他均为假链接（假钱包）。**</mark>
+<mark style="color:red;">**请认准TokenPocket唯一官网链接：www.tokenpocket.pro ，其他均为假链接（假钱包）。**</mark>

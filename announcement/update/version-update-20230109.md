@@ -19,4 +19,4 @@ Android: 1.6.6
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-<mark style="color:red;">**请认准TokenPocket唯一官网链接：www.tokenpocket.pro 或**</mark> [<mark style="color:red;">**https://www.tpglobalwallet.net/#/**</mark>](https://www.tpglobalwallet.net/#/)<mark style="color:red;">**，其他均为假链接（假钱包）。**</mark>
+<mark style="color:red;">**请认准TokenPocket唯一官网链接：www.tokenpocket.pro ，其他均为假链接（假钱包）。**</mark>
