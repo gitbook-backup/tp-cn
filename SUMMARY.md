@@ -44,7 +44,7 @@
   * [一文学会分辨TP钱包是否正版](secirity-knowledge/protective-measures/Testing.md)
   * [官网正版钱包验证方法](secirity-knowledge/protective-measures/verification.md)
   * [如何验证你的Google Play版TP钱包是否正版](secirity-knowledge/protective-measures/google.md)
-  * [如何验证你的App Store版TP钱包是否正版](secirity-knowledge/protective-measures/AppStore.md)
+  * [如何验证App Store版TP钱包（TP Wallet）是否正版](secirity-knowledge/protective-measures/AppStore.md)
   * [在Telegram上如何辨别真假群管理员以及群组？](secirity-knowledge/protective-measures/Telegram.md)
   * [授权（Approve）一文详解！](secirity-knowledge/protective-measures/about-approve.md)
   * [如何查看/取消恶意Approve（授权）？](secirity-knowledge/protective-measures/cancel-malicious-authorization.md)
