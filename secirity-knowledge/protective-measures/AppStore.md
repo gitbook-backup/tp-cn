@@ -1,9 +1,13 @@
-# 如何验证App Store版TP钱包（TP Wallet）是否正版
+# 如何验证你的App Store版TP钱包是否正版
 
-1、打开App Store，要用<mark style="color:blue;">**非大陆ID登录**</mark>。点击右下角搜索，在搜索栏搜索<mark style="color:blue;">**TP Wallet**</mark>，查看搜索结果。打开TP Wallet ** **<mark style="color:blue;">**查看详情**</mark>。
+1、打开App Store，要用<mark style="color:orange;">**海外ID登录**</mark>。点击右下角搜索，在搜索栏里<mark style="color:orange;">**搜索tokenpocket**</mark>，查看搜索结果。
 
-![](<../../.gitbook/assets/1 (4).png>)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FcyMwxTpug3yf5Dt7Dg0S%2F00.png?alt=media\&token=7549dd92-ac6d-4ccc-b718-1d967f12a92c)
 
-2、在详情界面中，可以查看到开发商信息：TP Global Ltd，只有这个开发商才是唯一的TokenPocket官方版本，那么你使用的钱包就是正版的。（2022年10月8日之前在App Store中下载的开发商为：<mark style="color:orange;">TOKENPOCKET FOUNDATION LTD</mark> <mark style="color:orange;"></mark><mark style="color:orange;">****</mark> 是TokenPocket开发的早期版本，也是正版钱包可以正常的使用，后续无法提供更新服务。）
+2、搜索结果第二个（暂时是这个排名）就可以看到TP钱包，点击下图选中部分<mark style="color:orange;">**查看详情**</mark>。
 
-<figure><img src="../../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FkresCEc7gKGcb4WqIzjg%2Ff94303e5ed3038e848ff0ccdae69062.png?alt=media\&token=cd2210bd-870d-4221-a8dd-e05e2089a7a6)
+
+3、在详情界面中，点击开发商即可看到完整的 <mark style="color:orange;">**TOKENPOCKET FOUNDATION LTD**</mark> 提示，那么你使用的钱包就是正版的。
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FzA8HiMQc1w4HHg0ZRVhS%2F01.png?alt=media&token=60611645-ba31-4b0f-a871-37ec642cd40f" %}
