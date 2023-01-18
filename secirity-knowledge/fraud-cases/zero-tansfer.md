@@ -14,7 +14,7 @@
 
 在授权列表中发现了一条授权记录，但是在右侧发现【已取消】的提示，点击箭头查看授权和取消的记录。授权变更记录中的内容是空白的，这个时候用户彻底陷入迷茫中。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 **别担心!让我们一起来还原这一操作。**\
 1.打开波场浏览器，找到USDT合约地址，点击【合约】--【编写合约】--【transferFrom】
