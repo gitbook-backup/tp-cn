@@ -20,7 +20,7 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 1、打开TokenPocket，首次使用点击【我没有钱包】，选择【多签钱包】进行创建。已经使用TokenPocket创建或导入过的用户也可以打开钱包后点击右上角第一个图标，添加多签钱包。
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、在多签网络中选择需要创建多签的网络，例如这里选择币安智能链，请认真阅读【多签创建流程】中的提示内容，阅读完成后点击下一步。
 
