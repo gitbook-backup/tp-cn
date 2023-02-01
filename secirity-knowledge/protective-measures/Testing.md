@@ -8,7 +8,7 @@
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FThSsXuy228eXIgBEnwgN%2F3.png?alt=media&token=92f18a43-450e-4be3-b017-2fe97f7ee22b" %}
 
-2、还有一些是模仿[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)官网的域名，修改个别字母来达到以假乱真的效果，例如下面的这个假钱包链接。
+2、模仿假官网**（请认准真官网链接：tokenpocket.pro和tpwallet.io)**
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2Fwp7sEJTMjWXW50MxXYzl%2F1.png?alt=media&token=0edb80df-9f14-460a-ba57-666c32fdf573" %}
 
@@ -16,7 +16,9 @@
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FxQs4gg3ahhN9Xt82MEL5%2F2.png?alt=media&token=0da57997-52c9-4cdd-b829-5827674bb913" %}
 
-所以建议用户不要使用他人给发送的钱包链接或APK安装包，认准唯一的官方网站：[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)<mark style="color:blue;">****</mark>
+所以建议用户不要使用他人给发送的钱包链接或APK安装包，认准TokenPocket官方网站：[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)
+
+<mark style="color:blue;">**tpwallet.io**</mark>
 
 ### <mark style="color:blue;">**二、各个版本的下载和验证**</mark>
 
@@ -59,6 +61,12 @@ TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨�
 ## 三、下载假钱包处理方法
 
 如果通过假官网或者假链接下载假钱包并导入使用，<mark style="color:red;">**意味着您的钱包私钥和助记词已经发生泄漏！**</mark>请到TokenPocket官网（[**https://tokenpocket.pro/**](https://tokenpocket.pro/)）下载正版钱包并导入私钥或助记词，新建一个地址来快速转移可转移的资产。
+
+认准TokenPocket官方网站：
+
+[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)
+
+<mark style="color:blue;">**tpwallet.io**</mark>
 
 例如导入的助记词是多个公链共同使用，那么需要转移多个公链的资产，如果导入的是HD钱包的助记词，就需要处理好子钱包资产转移，或者其他创建HD钱包的资产。
 

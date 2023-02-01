@@ -2,7 +2,5 @@
 
 “钓鱼网站“是指用来欺骗用户的虚假网站，它的页面与真实网站界面基本一致，以假乱真欺骗和窃取用户的私钥或者助记词。钓鱼网站一般只有一个或几个页面，和真实网站差别细微 。该诈骗手段由来已久，骗子传播噱头大多是领取空投、帮助解决问题或其他手段。
 
-**切记，TokenPocket 唯一官方网址：**[**https://www.tokenpocket.pro/**](https://www.tokenpocket.pro/)\*\*\*\*
-
-
+**切记，TokenPocket 官方网址：**[**https://www.tokenpocket.pro/**](https://www.tokenpocket.pro/) **和 tpwallet.io**
 

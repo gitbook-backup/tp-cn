@@ -8,11 +8,11 @@
 
 重要的事说三遍！！&#x20;
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81) **和** [**https://tpwallet.io/**](https://tpwallet.io/)****
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81) ****&#x20;
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81) **和** [**https://tpwallet.io/**](https://tpwallet.io/)****
 
-**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81)****
+**请认准**[**https://tokenpocket.pro/**](https://tokenpocket.pro/%EF%BC%81) **和** [**https://tpwallet.io/**](https://tpwallet.io/)****
 
 2.确认浏览器输入框左侧有🔒或**🛡️**等安全图标；
 
