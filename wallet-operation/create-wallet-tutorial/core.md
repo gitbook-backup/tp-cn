@@ -4,7 +4,7 @@
 
 
 
-1、打开TokenPocket，点击右上角<img src="https://cdn.nlark.com/yuque/0/2023/png/2443216/1675598568437-95b0408c-09c3-456a-9c1a-c803ef2d6218.png" alt="" data-size="line">位置【添加钱包】，在宣传网络界面中点击最底部的【添加自定义网络】。
+1、打开TokenPocket，点击右上角![](../../.gitbook/assets/image.png)位置【添加钱包】，在宣传网络界面中点击最底部的【添加自定义网络】。
 
 <figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
 

@@ -14,7 +14,7 @@
 
 1、助记词导入界面点击【高级模式】
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 2、在高级模式中的【选择地址路径】并设置正确的地址路径导入钱包即可。
 
