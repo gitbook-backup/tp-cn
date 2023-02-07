@@ -114,7 +114,7 @@
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
   * [TokenPocket带您一文玩转CORE](wallet-operation/create-wallet-tutorial/core.md)
-  * [TokenPocket带您一文玩转Aptos!](wallet-operation/create-wallet-tutorial/aptos.md)
+  * [TokenPocket带您一文玩转Aptos](wallet-operation/create-wallet-tutorial/aptos.md)
   * [TokenPocket带您一文玩转 FON Smart Chain（FSC）](wallet-operation/create-wallet-tutorial/FON.md)
   * [TokenPocket带您一文玩转EthereumPoW（ETHW）](wallet-operation/create-wallet-tutorial/ETHW.md)
   * [TokenPocket带您一文玩转EthereumFair（ETHF）](wallet-operation/create-wallet-tutorial/ETF.md)
