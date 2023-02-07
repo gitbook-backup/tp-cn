@@ -24,7 +24,7 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 2、在多签网络中选择需要创建多签的网络，例如这里选择币安智能链，请认真阅读【多签创建流程】中的提示内容，阅读完成后点击下一步。
 
-<figure><img src="../../.gitbook/assets/2 拷贝 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 拷贝 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、多签钱包创建的步骤是最核心的内容，下图中将每一个类型的内容进行了展示，内容如下:
 

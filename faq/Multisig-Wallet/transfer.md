@@ -6,7 +6,7 @@
 
 情况一：收款地址使用了多签钱包地址，在这里可以看到会有红色文字提示转入的为合约地址，请谨慎操作。
 
-<figure><img src="../../.gitbook/assets/1 拷贝 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 拷贝 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 情况二：使用普通地址作为收款地址，会看到【请勿向交易所地址转账】的提示。
 
@@ -16,7 +16,7 @@
 
 2、TokenPocket内置了合约地址检测功能，所以在这里还会看到一层安全提示内容，再确认安全后点击【知晓并继续】。接下来跳转到了交易界面中，在这里有一个【高级设置】它是用户自定义nonce值的作用。
 
-<figure><img src="../../.gitbook/assets/2 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 拷贝 (2).png" alt=""><figcaption></figcaption></figure>
 
 小知识：nonce值就是记录每次交易的顺序，每发起一笔交易，nonce就会+1，而最终的执行顺序需要按照nonce的顺序进行例如：0 1 2 3 4的顺序。
 
@@ -32,7 +32,7 @@
 
 转账订单确认后，点击【确认支付】会弹出选择签名钱包的提示，如果多签管理地址全部都没有导入钱包，那么会默认选择【手工发送】签名的方式，点击确认后会跳转到多签详情界面，这里会根据自己设置的多签签名地址数量来分配待签名的数量，点击【确认签名】后可以分享给签名管理地址进行签名。
 
-<figure><img src="../../.gitbook/assets/3 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 拷贝 (2).png" alt=""><figcaption></figcaption></figure>
 
 情景二：多签管理地址导入到钱包。
 

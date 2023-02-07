@@ -6,7 +6,7 @@
 
 近期越来越多的用户反馈，在自己的USDT转账列表中会看到有“0USDT”被<mark style="color:blue;">**转入/转出**</mark>的记录，如下
 
-<figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 拷贝 (3).png" alt=""><figcaption></figcaption></figure>
 
 大部分看到自己的地址被调用转出资产，第一反应会认为自己可能会有被恶意授权的风险，于是打开权限检测工具或浏览器查看自己的授权记录。
 
