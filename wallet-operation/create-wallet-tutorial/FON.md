@@ -10,7 +10,7 @@
 
 在搜索栏中填入fon，可以看到下方的搜索结果，点击准备添加。
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
 
 3、核对信息后点击右下角的【保存】，即可添加成功。回到选择网络界面，下拉到最底部可以看到新添加的 FON Smart Chain 网络。
 
