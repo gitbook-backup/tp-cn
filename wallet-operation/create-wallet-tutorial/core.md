@@ -1,6 +1,6 @@
 # TokenPocket带您一文玩转CORE
 
-### 如何在TokenPocket添加自定义网络 <a href="#oei4g" id="oei4g"></a>
+### 如何在TokenPocket移动端添加CORE网络 <a href="#oei4g" id="oei4g"></a>
 
 
 
@@ -37,3 +37,13 @@
 * 选择【钱包同步】，在钱包同步界面中下拉找到需要同步的公链后勾选，然后点击【开始同步】即可完成钱包同步的操作。
 
 <figure><img src="../../.gitbook/assets/5e.png" alt=""><figcaption></figcaption></figure>
+
+### 如何在TokenPocket插件端添加Core网络
+
+1.点击左上角切换网络，点击【自定义 RPC】，选择右上方【快捷加链】。
+
+<figure><img src="../../.gitbook/assets/组 1.png" alt=""><figcaption></figcaption></figure>
+
+2.在搜索栏输入【Core】，找到下方Core Blockchain， 点击【 Connect Wallet】连接你想要同步至Core网络的钱包，点击【Add to TokenPocket】,即可成功添加Core网络。
+
+<figure><img src="../../.gitbook/assets/组 2 (1).png" alt=""><figcaption></figcaption></figure>
