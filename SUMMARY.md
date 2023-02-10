@@ -34,6 +34,7 @@
   * [假客服诈骗](secirity-knowledge/fraud-cases/fake-customer-service-fraud.md)
   * [Dapp授权诈骗](secirity-knowledge/fraud-cases/dapp-approve-fraud.md)
 * [安全措施](secirity-knowledge/protective-measures/README.md)
+  * [安全操作指引](secirity-knowledge/protective-measures/guide.md)
   * [设置隐藏小额交易记录](secirity-knowledge/protective-measures/hide.md)
   * [TokenPocket授权管理工具使用教程](secirity-knowledge/protective-measures/TP-Approve.md)
   * [revoke.cash授权管理工具使用](secirity-knowledge/protective-measures/revoke.cash.md)
