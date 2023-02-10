@@ -214,6 +214,7 @@
 
 * [基本功能介绍](extension-wallet/Function.md)
 * [插件钱包使用教程](extension-wallet/tutorial.md)
+  * [使用TokenPocket插件钱包创建多签钱包](extension-wallet/faq/create.md)
   * [TokenPocket插件钱包安装教程](extension-wallet/faq/installation-tutorial.md)
   * [使用教程](extension-wallet/faq/use-tutorial/README.md)
     * [如何导入/创建钱包？](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
