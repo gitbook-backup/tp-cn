@@ -229,7 +229,7 @@
   * [版本更新日志（08/26/2022）](extension-wallet/update-log/aug-26.md)
   * [版本更新日志（07/13/2022）](extension-wallet/update-log/Jul-13.md)
   * [版本更新日志（06/08/2022）](extension-wallet/update-log/Jun-8.md)
-  * [版本更新日志（20/05/2022）](extension-wallet/update-log/version-update-May-5.md)
+  * [版本更新日志（05/05/2022）](extension-wallet/update-log/version-update-May-5.md)
   * [TokenPocket品牌升级（04/24/2022)](extension-wallet/update-log/Officially-Upgraded.md)
 * [隐私政策](extension-wallet/privacy-policy.md)
 * [使用协议](extension-wallet/term-of-use.md)
