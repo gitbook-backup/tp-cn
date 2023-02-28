@@ -114,6 +114,7 @@
   * [PuddingSwap（HSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
+  * [TokenPocket带您一文玩转 Goerli](wallet-operation/create-wallet-tutorial/goerli.md)
   * [TokenPocket带您一文玩转CORE](wallet-operation/create-wallet-tutorial/core.md)
   * [TokenPocket带您一文玩转Aptos](wallet-operation/create-wallet-tutorial/aptos.md)
   * [TokenPocket带您一文玩转 FON Smart Chain（FSC）](wallet-operation/create-wallet-tutorial/FON.md)
