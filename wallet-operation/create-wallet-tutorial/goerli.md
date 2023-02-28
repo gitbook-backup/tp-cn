@@ -1,8 +1,8 @@
 # TokenPocket带您一文玩转 Goerli
 
-<mark style="color:orange;">在</mark><mark style="color:orange;">**TokenPocket添加Goerli 测试网络**</mark>
+### <mark style="color:orange;">在</mark><mark style="color:orange;">**TokenPocket添加Goerli 测试网络**</mark>
 
-1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (1).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
+1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (21).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
 
 <figure><img src="../../.gitbook/assets/217d47d7eacfe66e4a942223ecaa0615_1677554611700-5b7e15a7-945d-470c-ab9c-dd01590cb7ca_x-oss-process=image%2Fresize%2Cw_750%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
