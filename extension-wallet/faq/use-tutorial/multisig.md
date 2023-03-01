@@ -20,11 +20,11 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 1、打开TokenPocket插件钱包，点击右上角菜单，选择【多签钱包】
 
-<figure><img src="../../.gitbook/assets/f736be62d7383989a3e965865b607efc_1675922656990-ddd0bd19-a5d4-4007-9687-a0324df9efe2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/f736be62d7383989a3e965865b607efc_1675922656990-ddd0bd19-a5d4-4007-9687-a0324df9efe2.png" alt=""><figcaption></figcaption></figure>
 
 2、在弹出的新界面中，我们可以选择创建或导入多签钱包，我们模拟首次创建的情景。点击【创建钱包】
 
-<figure><img src="../../.gitbook/assets/778082a714307dd59c407da6d955e661_1675922693452-29254f8d-ac5e-485b-96fa-145c02efcc9e_x-oss-process=image%2Fresize%2Cw_750%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/778082a714307dd59c407da6d955e661_1675922693452-29254f8d-ac5e-485b-96fa-145c02efcc9e_x-oss-process=image%2Fresize%2Cw_750%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
 3、多签钱包创建的步骤是最核心的内容，下图中将每一个类型的内容进行了展示，内容如下:
 
@@ -40,13 +40,13 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 当一切设置妥当后，点击【确认】即可看到多签钱包创建中的提示，界面中可以点击跳转到BSC区块链浏览器上查看相关创建信息。
 
-<figure><img src="../../.gitbook/assets/9f65515a988efae1e3a6dce1259f8382_1675926349694-84cc0ac1-fb17-466f-bb1d-d1b25c7d4861.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9f65515a988efae1e3a6dce1259f8382_1675926349694-84cc0ac1-fb17-466f-bb1d-d1b25c7d4861.png" alt=""><figcaption></figcaption></figure>
 
 4、创建过程中可以很直观的看到创建状态。
 
-<figure><img src="../../.gitbook/assets/76a0944e1df375e00e431a7e2db16287_1675926358713-b09bacf8-e693-4eff-a7cb-bf502a258b07.png" alt=""><figcaption><p>创建中</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/76a0944e1df375e00e431a7e2db16287_1675926358713-b09bacf8-e693-4eff-a7cb-bf502a258b07.png" alt=""><figcaption><p>创建中</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/cece57c74eceebd652fd322ea2e3ab0a_1675926378567-6d52c4a7-767e-4de4-8840-9cc40b3f0883.png" alt=""><figcaption><p>创建完成</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cece57c74eceebd652fd322ea2e3ab0a_1675926378567-6d52c4a7-767e-4de4-8840-9cc40b3f0883.png" alt=""><figcaption><p>创建完成</p></figcaption></figure>
 
 点击【进入钱包】，即可打开刚刚创建的多签钱包。
 
@@ -54,9 +54,9 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 打开TokenPocket插件钱包，点击右上角菜单选择【多签钱包】
 
-<figure><img src="../../.gitbook/assets/4dbe0ecbae6e802eb5fcb6aad27ee15a_1675926682110-5aca5c87-5ffa-4b2b-bba3-54b78a53b044.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4dbe0ecbae6e802eb5fcb6aad27ee15a_1675926682110-5aca5c87-5ffa-4b2b-bba3-54b78a53b044.png" alt=""><figcaption></figcaption></figure>
 
 导入界面中输入自定义名称，填入【多签钱包地址】会自动读取到管理地址和最少确认签名数，点击【开始导入】即可导入到多签钱包中。
 
-<figure><img src="../../.gitbook/assets/0b2dc001ff01146fbcb6c61a84ad025f_1675926725358-6dcd930d-8a61-4559-9e6e-fc367fffa9d0_x-oss-process=image%2Fresize%2Cw_750%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0b2dc001ff01146fbcb6c61a84ad025f_1675926725358-6dcd930d-8a61-4559-9e6e-fc367fffa9d0_x-oss-process=image%2Fresize%2Cw_750%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 

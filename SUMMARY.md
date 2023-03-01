@@ -218,10 +218,10 @@
 
 * [基本功能介绍](extension-wallet/Function.md)
 * [插件钱包使用教程](extension-wallet/tutorial.md)
-  * [使用TokenPocket插件钱包创建多签钱包](extension-wallet/faq/create.md)
   * [TokenPocket插件钱包安装教程](extension-wallet/faq/installation-tutorial.md)
   * [使用教程](extension-wallet/faq/use-tutorial/README.md)
     * [如何导入/创建钱包？](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
+    * [使用TokenPocket插件钱包创建多签钱包](extension-wallet/faq/use-tutorial/multisig.md)
     * [如何连接TokenPocket插件钱包？](extension-wallet/faq/use-tutorial/how-to-connect-with-tp-extension-wallet.md)
     * [如何在TokenPocket插件钱包中使用兑换功能？](extension-wallet/faq/use-tutorial/how-to-swap.md)
     * [如何连接KeyPal硬件钱包？](extension-wallet/faq/use-tutorial/connect-keypal.md)
