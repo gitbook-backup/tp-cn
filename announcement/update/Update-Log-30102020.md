@@ -30,11 +30,11 @@ iOS pro/+/++ 3.1.2(63) plus 3.1.3(63)
 
 **#1** 支持智能链WalletConnect，这里需要说明的是：我们用的是智能链的chainId，DApp识别不出来（因为DApp没支持），个别钱包给的是eth的chainId，DApp识别的也是eth的chainId ！哪怕是链接上，也是无法显示余额和正常操作的。等DApp开始支持的时候，这项功能就可以用了，这里只是先开发出来待用。
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 **#2** 货币单位进行优化，加入中文备注和多货币（法币单位）支持。
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 **#3** 波场DAppFeeLimit 提示 ，弹出授权窗口点击左下角【关于网络费相关说明】即可查看相关介绍内容。
 

@@ -14,7 +14,7 @@
 
 打开TokenPocket，点击【转账】--【地址簿转账】。
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### TokenPocket安全措施
 
