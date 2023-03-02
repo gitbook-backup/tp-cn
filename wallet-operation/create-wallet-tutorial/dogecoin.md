@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">如何在TokenPocket上创建狗狗链（Dogecoin）钱包？</mark>
 
-1、打开TokenPocket APP，点击左上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Dogecoin;**
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Dogecoin;**
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@
 
 ### <mark style="color:orange;">**如何在TokenPocket导入狗狗链（Dogecoin）钱包？**</mark>
 
-1、打开TokenPocket App，点击左上角![](<../../.gitbook/assets/image (9).png>)，然后选择**Dogecoin**;
+1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (9).png>)，然后选择**Dogecoin**;
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入Dogecoin钱包。
+3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入狗狗链（Dogecoin）钱包。
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
