@@ -20,6 +20,7 @@
 ## 🔐 安全知识 <a href="#secirity-knowledge" id="secirity-knowledge"></a>
 
 * [常见诈骗案例](secirity-knowledge/fraud-cases/README.md)
+  * [警惕波场恶意更改权限骗局](secirity-knowledge/fraud-cases/authority.md)
   * [警惕“零金额”转账骗局](secirity-knowledge/fraud-cases/zero-tansfer.md)
   * [警惕精准伪装地址](secirity-knowledge/fraud-cases/pretender.md)
   * [警惕接码类诈骗](secirity-knowledge/fraud-cases/sms.md)
