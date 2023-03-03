@@ -43,12 +43,12 @@
 用户通过某种渠道得到了第三方链接，通过恶意链接的充值入口跳转到钱包中打开界面（如下图）。收款地址填写的是Token的合约地址，点击立即支付，提示不要复制地址进行转账，这个是骗子为了防止用户自行复制地址绕过恶意代码执行转账的“友情提示”。\
 
 
-<figure><img src="../../.gitbook/assets/e6af1d9c26bdb59164ec9367ea6f6bc1_640_wx_fmt=png&#x26;wxfrom=5&#x26;wx_lazy=1&#x26;wx_co=1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/e6af1d9c26bdb59164ec9367ea6f6bc1_640_wx_fmt=png&#x26;wxfrom=5&#x26;wx_lazy=1&#x26;wx_co=1 (1).png" alt=""><figcaption></figcaption></figure>
 
 点击确认后弹出详情界面，在下图中通过三个箭头所示的位置提示正在进行的操作以及操作后可能带来的风险。点击第二个箭头位置，可以查看更改权限的作用和风险，如果无视风险提示并执行了操作，就会导致恶意更改权限。这时再进行转账就会看到错误的提示信息，实际上已经失去了对改地址的控制权。\
 
 
-<figure><img src="../../.gitbook/assets/edbbc08d80c85813f33c28b19eed82dd_640_wx_fmt=png&#x26;wxfrom=5&#x26;wx_lazy=1&#x26;wx_co=1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/edbbc08d80c85813f33c28b19eed82dd_640_wx_fmt=png&#x26;wxfrom=5&#x26;wx_lazy=1&#x26;wx_co=1.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**多签设置的初衷是为了更好的保护用户资产，但是被骗子精心利用后会成为其盗取资产的工具。所以请一定要认真查看钱包中出现的每一个提示，这些内容都是经过大量考证后才会添加的信息，适用于绝大多数用户。**</mark>
 
