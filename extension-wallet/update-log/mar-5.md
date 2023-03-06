@@ -1,18 +1,14 @@
-# 版本更新日志（03/01/2023）
+# 版本更新日志（03/05/2023）
 
 **【版本更新详情】**
 
-Chrome：1.1.11
+Chrome：1.1.12
 
 
 
 **【版本更新内容】**
 
-1.支持多签钱包。 点击查看[多签钱包创建教程](../faq/use-tutorial/multisig.md)。
-
-2.优化交易记录显示。&#x20;
-
-3.优化用户体验。
+1.修复一些已知问题。
 
 
 
@@ -25,4 +21,3 @@ Chrome：1.1.11
 2.[**官网下载最新版本**](broken-reference)并重新添加至Chrome.
 
 [**点击查看添加教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)****
-
