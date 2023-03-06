@@ -63,6 +63,7 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 |  版本号  |               MD5值               |                              SHA256值                             |
 | :---: | :------------------------------: | :--------------------------------------------------------------: |
+| 1.6.8 | 8175797b8739dfd27f6f25a55bdce6d3 | a49f4843269d88445532f982c893a41dc069922b51d4ea9b36a6a9c191a405f1 |
 | 1.6.7 | 8c3c5e706f9b03cca0f0458417f202c3 | 8c96b54ea00f8c826e2be84e25b0446864e013de9b270d4fe9b6f60ed40be400 |
 | 1.6.6 | 73501df3c495a38b9b2c6ff24eeeba1e | e75e6dd6afcb87bfb78e983be6b2c2eddb42fccba70f6d0bf41cbb87648c121b |
 | 1.6.5 | 89ad8d584810046a1b261e8ad555ec82 | ae97bf1f7d3bb5917b46bfeb3d052830c7f5ee584c6486ecbc65e1693f9fe359 |
