@@ -67,6 +67,8 @@
   * [什么是隔离见证](faq/btcwallet/what-is-btc-segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
   * [什么是EIP-1559？](faq/ethwallet/eip-1559.md)
+  * [以太坊质押的常见问题](faq/ethwallet/common-questions.md)
+  * [关于以太坊POS](faq/ethwallet/pos.md)
   * [Eth 2.0质押宝规则](faq/ethwallet/eth2.0-staking-vault.md)
   * [Eth2.0 质押宝节点列表](faq/ethwallet/eth2.0-node-list.md)
   * [如何管理未打包交易？](faq/ethwallet/unpackaged.md)
