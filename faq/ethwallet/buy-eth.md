@@ -8,15 +8,15 @@
 
 在交易购买ETH的途径通常有三类，【闪兑】、【现货交易】、【买币】，我们主要针对前两种兑换方式进行介绍。
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">一、闪兑方式：</mark>
 
 1、打开binance官网，选择左上角【交易】菜单，选择【闪兑】，闪兑方式是为了方便新用户操作的一种简化图形界面，在这里可以选择【市价】或【限价】交易方式，填入需要兑换的代币数量，点击底部的【预览兑换结果】。
 
-<figure><img src="../../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5) (3).png" alt=""><figcaption></figcaption></figure>
 
-2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有10秒中的交易时间限制）。
+2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有8秒钟的交易时间限制）。
 
 <figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@
 
 闪兑的数据取值，正来源于现货交易，在操作界面中可以查看代币的K线走势，买卖价格等信息，同样会区分限价挂单模式和市价直接成交的模式，这个根据个人需要选择。选择一个合适的价格后，下面的滚动条可以根据当前持有的另一个代币数量的百分比来设置买入数量，设置好以后，点击买入ETH即可。
 
-<figure><img src="../../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">三、如何提取ETH到钱包</mark>
 
@@ -40,6 +40,6 @@
 
 <figure><img src="../../.gitbook/assets/Snipaste_2023-03-15_14-58-26.png" alt=""><figcaption></figcaption></figure>
 
-确认好提币网络，正确填写收款地址，设置好提币数量后，就可以点击【提现】操作。
+确认好提币网络，正确填写收款地址，设置好提币数量后，就可以点击【提现】操作，耐心等待几分钟即可到账，到账的时间取决于交易所的放款速度，遇到问题可以和交易所客服进行联系。
 
 <figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>

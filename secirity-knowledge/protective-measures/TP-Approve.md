@@ -16,7 +16,7 @@
 
 4、授权合约的哈希值信息，点击查看链上数据。
 
-<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 三、点击【取消授权】会弹出执行授权操作的提示，授权管理的原理就是二次调用这个授权过的合约地址，将授权数量修改为0就达到了权限清理的目的。如果使用其他第三方链接访问时出现这个授权提示窗口就一定要谨慎，因为很可能会是有风险的授权，只有在你确认操作的链接是安全的，授权的合约也是正常调用后，才可以记录执行，否则遇到恶意授权链接，将会导致你授权过的代币全部被盗。
 
@@ -24,4 +24,4 @@
 
 四、确认支付后，会看到界面中【正在取消中】的提示，当完成数据执行后这条数据就会自动清理。
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3) (2).png" alt=""><figcaption></figcaption></figure>

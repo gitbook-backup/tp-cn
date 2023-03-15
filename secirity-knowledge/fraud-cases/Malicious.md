@@ -30,6 +30,6 @@
 
 通过BSC上的[<mark style="color:blue;">**授权检测工具**</mark>](https://bscscan.com/tokenapprovalchecker) <mark style="color:blue;">****</mark> 查看授权历史记录，在这里可以看到恶意的地址是存在于授权列表中的，也就是说如果这个代币的地址再次转入USDT到钱包中会马上被盗。
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (7) (2).png>)
 
 确定是被恶意授权盗币后，请停止这个地址的使用，使用工具来清理权限或者最彻底的方法是新建一个地址来转移其他的资产。恶意授权只会影响授权的代币的安全，其他的代币是没有调用权限。
