@@ -81,6 +81,7 @@
   * [代币授权是什么？如何使用代币授权？](faq/ethwallet/token-approval.md)
   * [什么是以太坊交易加速](faq/ethwallet/transaction-accelerator.md)
 * [TRON钱包](faq/tron-wallet/README.md)
+  * [如何购买波场TRX代币](faq/tron-wallet/buy-trx.md)
   * [关于波场账号权限提升](faq/tron-wallet/about-account-permissions.md)
 * [波卡钱包](faq/polkadot/README.md)
   * [什么是转账的小费？](faq/polkadot/fee.md)
