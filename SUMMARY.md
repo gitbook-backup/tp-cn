@@ -66,6 +66,7 @@
   * [什么是路径](faq/btcwallet/path.md)
   * [什么是隔离见证](faq/btcwallet/what-is-btc-segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
+  * [如何购买ETH代币](faq/ethwallet/buy-eth.md)
   * [ETH节点质押](faq/ethwallet/eth2.0/README.md)
     * [自托管质押，常见问题](faq/ethwallet/eth2.0/about-self-custodial-staking.md)
     * [以太坊质押的常见问题](faq/ethwallet/eth2.0/about-eth-staking.md)

@@ -14,7 +14,7 @@
 
 <mark style="color:red;">**如果是访问第三方的DApp看到执行授权的提示就一定要谨慎，往往恶意授权链接都会通过授权USDT代币来达到盗币的目的。**</mark>
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4、在弹出的【交易详情】界面中可以看到，授权地址就是我们已经授权过的合约地址，代币的数量为0（也可以自定义数量），确认信息后点击【确认支付】这个过程会消耗一定Gas（矿工费），完成授权后可以看到顶部的成功提示信息，这时候授权列表里的操作清零的授权记录会消失，授权管理操作完成。
 

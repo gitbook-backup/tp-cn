@@ -10,7 +10,7 @@
 
 2、在自定义网络编辑界面中，点击右上角的【便捷入口】，在打开界面顶部填入关键词CORE，选择正确的公链。
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (7).png" alt=""><figcaption></figcaption></figure>
 
 3、点击CORE公链后会看到下面的参数提示：
 
