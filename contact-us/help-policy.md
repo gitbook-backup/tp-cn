@@ -6,7 +6,7 @@
 
 **二、司法协助主体**
 
-TokenPocket作为司法协助主体，注册地位于开曼群岛。TokenPocket 为TP Global运营的数字资产管理钱包（以下简称“钱包”），目前拥有桌面端和APP端。
+TokenPocket作为司法协助主体，注册地位于开曼群岛。TokenPocket 为TP Global运营的数字资产管理钱包（以下简称“钱包”）。
 
 **三、司法协助程序**
 
