@@ -34,7 +34,7 @@
 
 执行提币操作的时候，最重要的因素就是提币的网络选择和地址。点击转账网络，会弹出窗口提示，其中ERC20网络就是以太坊公链网络。
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
 
 如果无法确定选择什么网络，那么可以打开TokenPocket，点击需要接收代币钱包的【收款】功能，在收款界面顶部可以看到当前钱包对应的网络，然后在提币界面正确选择。
 
