@@ -6,13 +6,13 @@
 
 在交易购买TRX的途径通常有三类，【闪兑】、【现货交易】、【买币】，我们主要针对前两种兑换方式进行介绍。
 
-<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">一、闪兑方式：</mark>
 
 1、打开binance官网，选择左上角【交易】菜单，选择【闪兑】，闪兑方式是为了方便新用户操作的一种简化图形界面，在这里可以选择【市价】或【限价】交易方式，填入需要兑换的代币数量，点击底部的【预览兑换结果】。
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有8秒钟的交易时间限制）。
 
@@ -40,4 +40,4 @@
 
 确认好提币网络，正确填写收款地址，设置好提币数量后，就可以点击【提现】操作，耐心等待几分钟即可到账，到账的时间取决于交易所的放款速度，遇到问题可以和交易所客服进行联系。
 
-<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7) (3).png" alt=""><figcaption></figcaption></figure>
