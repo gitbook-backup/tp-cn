@@ -2,7 +2,19 @@
 
 在TRON（波场）网络上执行任何上链的操作都需要消耗矿工费（Gas），所以TRX是使用TRON（波场）钱包中必备的代币。（波场还有一种是资源消耗方式的Gas支付方式，这里不做更多讨论）
 
-### <mark style="color:orange;">如何通过Binance购买TRX代币</mark>
+### <mark style="color:orange;">通过Transit Swap兑换</mark>
+
+打开TokenPocket，点击右上方的【闪兑】。
+
+<figure><img src="../../.gitbook/assets/Buy.png" alt=""><figcaption></figcaption></figure>
+
+在打开的界面中设置需要兑出的代币（如USDT），选择需要兑入的代币TRX，然后选择以太坊钱包作为收款地址，请不要使用交易所的地址作为收款地址。
+
+首次使用除主网币的代币进行兑换，在这里都需要执行一次授权操作，授权的数量可以自己合理设置，完成授权后，再次按照兑出、兑入的代币、数量并设置好收款地址并点击【确认兑换】后进行签名就可以获得TRX代币。（Transit支持同链和跨链兑换服务）
+
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:orange;">通过Binance购买TRX代币</mark>
 
 在交易购买TRX的途径通常有三类，【闪兑】、【现货交易】、【买币】，我们主要针对前两种兑换方式进行介绍。
 

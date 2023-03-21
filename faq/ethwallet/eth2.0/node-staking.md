@@ -4,7 +4,7 @@
 
 1、打开TokenPocket，点击【发现】，顶部搜索【Eth2.0节点】并打开应用。
 
-<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2、自托管质押
 

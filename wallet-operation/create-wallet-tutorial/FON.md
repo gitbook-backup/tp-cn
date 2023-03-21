@@ -18,7 +18,7 @@
 
 4、点击新增加的 FON Smart Chain 公链，可以选择【创建】或【导入】方式使用FSC钱包。
 
-<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 5、添加完 FON Smart Chain公链后，可以进行钱包地址同步，打开TokenPocket，点击【详情】，选择【钱包同步】，选择 FSC 公链同步后切换到Fon钱包即可。
 
