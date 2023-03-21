@@ -14,7 +14,7 @@
 
 1、打开binance官网，选择左上角【交易】菜单，选择【闪兑】，闪兑方式是为了方便新用户操作的一种简化图形界面，在这里可以选择【市价】或【限价】交易方式，填入需要兑换的代币数量，点击底部的【预览兑换结果】。
 
-<figure><img src="../../.gitbook/assets/2 (5) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有8秒钟的交易时间限制）。
 
@@ -28,7 +28,7 @@
 
 闪兑的数据取值，正来源于现货交易，在操作界面中可以查看代币的K线走势，买卖价格等信息，同样会区分限价挂单模式和市价直接成交的模式，这个根据个人需要选择。选择一个合适的价格后，下面的滚动条可以根据当前持有的另一个代币数量的百分比来设置买入数量，设置好以后，点击买入ETH即可。
 
-<figure><img src="../../.gitbook/assets/4 (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (6) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">三、如何提取ETH到钱包</mark>
 

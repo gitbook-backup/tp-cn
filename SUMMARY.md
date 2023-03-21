@@ -128,6 +128,7 @@
   * [PuddingSwap（HSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-puddingswap.md)
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
+  * [TokenPocket带您一文玩转zkSync alpha 测试网](wallet-operation/create-wallet-tutorial/zksync.md)
   * [TokenPocket带您一文玩转Filecoin （FVM）](wallet-operation/create-wallet-tutorial/fvm.md)
   * [TokenPocket带您一文玩转狗狗链（Dogecoin)](wallet-operation/create-wallet-tutorial/dogecoin.md)
   * [TokenPocket带您一文玩转 Base Goerli](wallet-operation/create-wallet-tutorial/base-goerli.md)

@@ -16,11 +16,11 @@
 
 2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有8秒钟的交易时间限制）。
 
-<figure><img src="../../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 3、兑换完成后，可以在界面中看到成功的提示。
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">二、现货交易方式</mark>
 
@@ -32,7 +32,7 @@
 
 执行提币操作的时候，最重要的因素就是提币的网络选择和地址。点击转账网络，会弹出窗口提示，其中TRC20网络就是TRON公链网络。
 
-<figure><img src="../../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 如果无法确定选择什么网络，那么可以打开TokenPocket，点击需要接收代币钱包的【收款】功能，在收款界面顶部可以看到当前钱包对应的网络，然后在提币界面正确选择。
 
