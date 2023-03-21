@@ -12,7 +12,7 @@
 
 点击自托管质押入口，顶部可以看到当前质押的相关数据，底部可以看到【节点状态】【质押历史】【常见问题】等内容，点击【参与质押】跳转到质押界面。
 
-<figure><img src="../../../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 2.2、参与节点数量1，就代表者需要质押32个ETH，这里可以根据自己的实际需求设置；节点维护费用是一次性收取如果进行多次质押，则需要相对应收取节点维护费用。
 

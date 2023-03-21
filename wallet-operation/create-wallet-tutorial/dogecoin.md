@@ -8,7 +8,7 @@
 
 2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3、依次设置**【钱包名称】**和**【密码】**，然后勾选**【用户协议】**，点击**【创建钱包】**；请认真观看学习视频内容，点击**【我知道了】**；
 
@@ -22,7 +22,7 @@
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**如何在TokenPocket导入狗狗链（Dogecoin）钱包？**</mark>
 
