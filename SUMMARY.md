@@ -110,7 +110,8 @@
   * [多签钱包创建教程](faq/Multisig-Wallet/create.md)
   * [多签钱包导入教程](faq/Multisig-Wallet/import.md)
   * [多签钱包转账教程](faq/Multisig-Wallet/transfer.md)
-* [杀毒软件误报](faq/White-list.md)
+* [杀毒软件误报](faq/white-list.md)
+* [.杀毒软件误报](faq/white-list-1.md)
 
 ## 🔩 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
