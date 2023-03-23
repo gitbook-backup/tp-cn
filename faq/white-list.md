@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # 杀毒软件误报
 
 TP钱包被<mark style="color:blue;">**腾讯病毒库误报**</mark>为危险应用，国内常见的手机厂商如华为、OPPO、小米、三星等系统的杀毒引擎模式都使用腾讯病毒库，所以钱包正常使用中会出现风险警示窗口。
@@ -68,4 +64,4 @@ TP钱包被<mark style="color:blue;">**腾讯病毒库误报**</mark>为危险�
 
 * 打开**设备保护**选项，在**选择要排除的应用程序**里面添加TokenPocket即可完成白名单操作。
 
-![](<../.gitbook/assets/2 (3) (1).png>)
+<figure><img src="../.gitbook/assets/9932b47b51e7426ea911707a8557631b_spaces%2F-MMF2k4MCaxErpZyah2d%2Fuploads%2F4DO08EGRzlAxTg97MXoS%2F2%20(3)_alt=media&#x26;token=b3990fad-6865-41d5-a664-9787b80d5d4c.png" alt=""><figcaption></figcaption></figure>
