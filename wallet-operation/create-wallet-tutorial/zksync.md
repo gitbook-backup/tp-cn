@@ -18,7 +18,7 @@
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-5、按顺序填入备份好的钱包助记词，点击**【确认】**,至此，您已成功创建**Filecoin FVM**钱包。
+5、按顺序填入备份好的钱包助记词，点击**【确认】**,至此，您已成功创建zkSync Era∎钱包。
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
@@ -34,7 +34,7 @@
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入FVM钱包。
+3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入zkSync Era∎钱包。
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
