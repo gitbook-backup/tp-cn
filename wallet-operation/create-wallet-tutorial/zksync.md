@@ -38,4 +38,4 @@
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/cn 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZCSGxZxDUFXGuknjRHbB%2Fuploads%2FBqFmNciR6t4JpMDcF1CO%2F%E4%B8%AD.png?alt=media&#x26;token=9c50d097-5727-4c39-aa86-75783ae2d218" alt=""><figcaption></figcaption></figure>
