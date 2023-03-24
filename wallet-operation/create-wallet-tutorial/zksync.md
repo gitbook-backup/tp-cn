@@ -1,30 +1,41 @@
-# TokenPocket带您一文玩转zkSync alpha 测试网
+# TokenPocket带您一文玩转zkSync Era∎
 
-### <mark style="color:orange;">在</mark><mark style="color:orange;">**TokenPocket添加**</mark><mark style="color:orange;">zkSync alpha</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**测试网络**</mark>
+### <mark style="color:orange;">如何在TokenPocket上创建zkSync Era∎钱包？</mark>
 
-1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (21).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5).png>)，然后选择zkSync Era∎**;**
 
-<figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn1 (1).png" alt=""><figcaption></figcaption></figure>
 
-2、在自定义网络编辑界面中，点击右上角的【便捷入口】，在打开界面顶部填入关键词zkSync，选择第一个自定义网络。
+2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMF2k4MCaxErpZyah2d%2Fuploads%2FE8lVTpSW4BiOjqLXU2u0%2Fimage.png?alt=media&#x26;token=df396f04-121d-4b1f-b006-dc2211f9c67b" alt=""><figcaption></figcaption></figure>
 
-3、点击zkSync alpha testnet 公链后会看到下面的参数提示：点击右下角【确认】即可完成新增自定义网络的操作。
+3、依次设置**【钱包名称】**和**【密码】**，然后勾选**【用户协议】**，点击**【创建钱包】**；请认真观看学习视频内容，点击**【我知道了】**；
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-4、点击新增网络，可以看到【创建钱包】和【导入钱包】两个选项，可以根据自己的实际需求来创建或导入zkSync alpha testnet 公链钱包。
+4、确认了解并勾选选项内容，点击**【下一步】,**然后开始备份助记词，点击**【备份完成，进行验证】**；
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-#### **除了常规的【创建和导入钱包】，还可以使用TokenPocket的钱包同步功能来快速完成其他EVM公链的同步操作，方法如下：**
+5、按顺序填入备份好的钱包助记词，点击**【确认】**,至此，您已成功创建**Filecoin FVM**钱包。
 
-\
-打开TokenPocket，点击蓝色卡牌的右上角【详情】
+<mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/ae23a648d510de5fa0203c06ba200e95_1675599122435-7b50bd70-c436-47ab-9fe6-729f7502b6a1_x-oss-process=image%2Fresize%2Cw_449%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 3 (1).png" alt=""><figcaption></figcaption></figure>
 
-选择【钱包同步】，在钱包同步界面中下拉找到需要同步的公链后勾选，然后点击【开始同步】即可完成钱包同步的操作。
+### <mark style="color:orange;">**如何在TokenPocket导入**</mark><mark style="color:orange;">zkSync Era∎</mark><mark style="color:orange;">**钱包？**</mark>
 
-<figure><img src="../../.gitbook/assets/8656bb8b35ba72e3caead2e370e001ed_1675599207115-d7ca2f05-48fd-415f-b32a-f6a702c6ca2c_x-oss-process=image%2Fresize%2Cw_447%2Climit_0%2Fresize%2Cw_447%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择zkSync Era∎;
+
+<figure><img src="../../.gitbook/assets/cn1.png" alt=""><figcaption></figcaption></figure>
+
+2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入FVM钱包。
+
+<mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
+
+<figure><img src="../../.gitbook/assets/cn 4.png" alt=""><figcaption></figcaption></figure>
