@@ -113,3 +113,15 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 网络骗子手段不断升级，请注意警惕和防范，增强对真假官网及真假APP的辨别能力，确保自身资金安全！
 
 ****
+
+**3.华为商店下载**
+
+<mark style="color:red;">**TokenPocket已上架香港地区，海外地区的华为商店，支持非中国大陆id进行下载使用。**</mark>
+
+1.点击华为商店，**在搜索框输入“ TokenPocket"**，你将可以看到TokenPocket应用，请认准官方蓝底白字logo。点击应用。
+
+<figure><img src="../../.gitbook/assets/组 52.png" alt=""><figcaption></figcaption></figure>
+
+2.进入应用下载页面后，先点击【关于此应用】确认右图信息。确认无误后，返回应用下载页面，点击【下载】即可。
+
+<figure><img src="../../.gitbook/assets/组 54.png" alt=""><figcaption></figcaption></figure>
