@@ -22,7 +22,7 @@ Fantom是全球首个基于 DAG 技术并支持智能合约的高性能公链，
 
 4、按照顺序验证助记词，然后点击【确认】。至此，你已经成功创建Fantom钱包。
 
-![](<../../.gitbook/assets/4 (11).png>)
+![](<../../.gitbook/assets/4 (11) (2).png>)
 
 **如何在TokenPocket导入Fantom钱包？**
 

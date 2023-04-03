@@ -4,7 +4,7 @@
 
 1、打开TokenPocket，点击【发现】，顶部搜索【Eth2.0节点】并打开应用。
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2、自托管质押
 
@@ -12,13 +12,13 @@
 
 点击自托管质押入口，顶部可以看到当前质押的相关数据，底部可以看到【节点状态】【质押历史】【常见问题】等内容，点击【参与质押】跳转到质押界面。
 
-<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
 
 2.2、参与节点数量1，就代表者需要质押32个ETH，这里可以根据自己的实际需求设置；节点维护费用是一次性收取如果进行多次质押，则需要相对应收取节点维护费用。
 
 查看和勾选【质押宝服务协议】后，点击支付会弹出交易详情界面，这里的矿工费可以根据实际情况进行调整，最后点击【确认支付】并签名后即可完成自托管质押。
 
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### 3、联合质押
 

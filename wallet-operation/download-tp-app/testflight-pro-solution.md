@@ -40,7 +40,7 @@ ps：如果备份时间较长，是因为手机中数据过多导致的，耐心
 
 ![](<../../.gitbook/assets/1 (19).png>)
 
-![](<../../.gitbook/assets/2 (15).png>)
+![](<../../.gitbook/assets/2 (15) (1).png>)
 
 ![](<../../.gitbook/assets/1 (25).png>)
 

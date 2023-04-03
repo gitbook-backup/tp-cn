@@ -40,7 +40,7 @@ TokenPocket正式上线以太坊 Layer2 扩容方案Arbitrum底层。用户在To
 
 4、点击【导入钱包】，至此，你已经成功导入Arbitrum钱包。
 
-![](<../../.gitbook/assets/8 (3).png>)
+![](<../../.gitbook/assets/8 (3) (1).png>)
 
 **如何在TokenPocket同步Arbitrum钱包？**
 

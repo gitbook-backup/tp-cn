@@ -72,7 +72,7 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 1.网页搜索[http://appleid.apple.com](http://appleid.apple.com)，点击「创建您的Apple ID」进入注册新Apple ID页面，填写相关信息：地区需选择为【美国】；邮箱和手机号码应是有效且正在使用的，后续会通过邮箱和手机号进行ID验证，全部填写完后点击「继续」。
 
-![](<../../.gitbook/assets/9 (4) (1).png>)
+![](<../../.gitbook/assets/9 (4) (1) (1).png>)
 
 2.邮箱和手机号将会陆续收到6位数字的验证码，按照提示输入验证码，海外Apple ID就注册成功了。
 
@@ -92,7 +92,7 @@ _以 Chrome 浏览器为例，其他浏览器类似_
 
 3.按照下图所示填写相关信息，填写完成后点击【下一页】；
 
-![](../../.gitbook/assets/12.png)
+![](<../../.gitbook/assets/12 (2).png>)
 
 4.登录完成后，在App Store里搜索“TP Wallet”，即可下载正版TokenPocket App;
 
