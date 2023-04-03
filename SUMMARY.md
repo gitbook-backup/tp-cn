@@ -119,7 +119,7 @@
   * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/download-tp-app/testflight-pro-solution.md)
   * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tp-app/download-tokenpocket-app-1.md)
 * [如何在DEX上交易？](wallet-operation/how-to-trade-on-dex/README.md)
-  * [FIL代币从主网转移到FEVM链](wallet-operation/how-to-trade-on-dex/fil-dai-bi-cong-zhu-wang-zhuan-yi-dao-fevm-lian.md)
+  * [FIL代币从主网转移到FEVM链](wallet-operation/how-to-trade-on-dex/fil.md)
   * [Base Goerli公链和Goerli公链资产互通](wallet-operation/how-to-trade-on-dex/bridge.md)
   * [跨链聚合闪兑平台Transit Swap2.0 教程](wallet-operation/how-to-trade-on-dex/transit-swap.md)
   * [Uniswap（以太坊）使用教程](wallet-operation/how-to-trade-on-dex/dex-uniswap.md)
