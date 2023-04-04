@@ -32,10 +32,10 @@ Nostr（Notes and Other Stuff Transmitted by Rrelays）是一款简洁、开源�
 
 2.点击【点击展示Nostr私钥】按钮即可查看当前evm钱包的Nostr私钥。
 
-<mark style="color:red;">**请注意，该Nostr私钥是由对应evm地址的私钥换算出来的，同时也可以方向换算出evm地址的私钥，请务必保管好该私钥！不要和任何第三方分享你的私钥！**</mark>
+<mark style="color:red;">**请注意，该Nostr私钥是由对应evm地址的私钥换算出来的，同时也可以反方向换算出evm地址的私钥，请务必保管好该私钥！不要和任何第三方分享你的私钥！**</mark>
 
-<mark style="color:red;">**请注意，该Nostr私钥是由对应evm地址的私钥换算出来的，同时也可以方向换算出evm地址的私钥，请务必保管好该私钥！不要和任何第三方分享你的私钥！**</mark>
+<mark style="color:red;">**请注意，该Nostr私钥是由对应evm地址的私钥换算出来的，同时也可以反方向换算出evm地址的私钥，请务必保管好该私钥！不要和任何第三方分享你的私钥！**</mark>
 
-<mark style="color:red;">**请注意，该Nostr私钥是由对应evm地址的私钥换算出来的，同时也可以方向换算出evm地址的私钥，请务必保管好该私钥！不要和任何第三方分享你的私钥！**</mark>
+<mark style="color:red;">**请注意，该Nostr私钥是由对应evm地址的私钥换算出来的，同时也可以反方向换算出evm地址的私钥，请务必保管好该私钥！不要和任何第三方分享你的私钥！**</mark>
 
 <figure><img src="../../.gitbook/assets/n5.png" alt=""><figcaption></figcaption></figure>
