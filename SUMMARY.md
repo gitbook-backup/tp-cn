@@ -168,6 +168,8 @@
   * [NFT认证规范](wallet-operation/about-nft/NFT-Application-Specification.md)
   * [NFT应用功能说明](nft-application.md)
   * [如何在TokenPocket设置NFT资产首页顶部背景、收款页面背景、头像？](wallet-operation/about-nft/set-nft.md)
+* [协议层新功能操作指引](wallet-operation/protocol/README.md)
+  * [关于Nostr协议](wallet-operation/protocol/nostr.md)
 
 ## 🛠 钱包管理 <a href="#wallet-management" id="wallet-management"></a>
 
