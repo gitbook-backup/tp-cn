@@ -6,9 +6,11 @@ Android: 1.7.0
 
 iOS: 2.0.5
 
+
+
 **【本期Android版本更新内容】**
 
-1.EVM链支持nostr协议。&#x20;
+1.EVM链支持nostr协议。 > [**点击查看如何使用Nostr.**](../../wallet-operation/protocol/nostr.md)****
 
 2.支持显示以太坊，BSC上的交易预估结果。
 
