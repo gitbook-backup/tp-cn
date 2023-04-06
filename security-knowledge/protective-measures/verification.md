@@ -1,8 +1,8 @@
 # 官网正版钱包验证方法
 
-App Store版本验证方法：[<mark style="color:blue;">**点击查看**</mark>](AppStore.md)<mark style="color:blue;">****</mark>
+App Store版本验证方法：[<mark style="color:blue;">**点击查看**</mark>](AppStore.md)
 
-Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mark>](google.md)<mark style="color:blue;">****</mark>
+Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mark>](google.md)
 
 ### <mark style="color:blue;">MD5、SHA256验证工具</mark>
 
@@ -32,10 +32,11 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 ### <mark style="color:blue;">**官方钱包APK的MD5、SHA256参数：**</mark>
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)<mark style="color:blue;">****</mark>
+[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)
 
 |  版本号  |               MD5值               |                              SHA256值                             |
 | :---: | :------------------------------: | :--------------------------------------------------------------: |
+| 1.7.1 | 39a61a17e5b3b0de501c29ee8d2d5d22 | 3ece643ba4599a00be1ae5f580814dcabaf4daa8f292d21b92c5724a2a28a006 |
 | 1.7.0 | e2bbf4e2a9dfb1f52e079028a61f3d7c | d46b6a2d90715dd21329ae071f03b4098eef172eae7cc998fbe4c805c338f7bc |
 | 1.6.9 | 357d37f7d57b6e5efb3d43c250272c79 | 2519682c8793e6730aa6fa58b3373995d07b7e1c44da5c740c4254d49b393bd3 |
 | 1.6.8 | 93cee34fb006c1fec1f907f563f1bde1 | 57b4ede95f6ea09bac2efcbe921fbee07fccf1c7f6b93a0c3ead58d01dd9c020 |
@@ -92,21 +93,21 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 在线验证md5\sha256值的工具有很多，他们的使用也都是大同小异，只需要将下载到pc上的apk文件拖入或者加载到验证平台中即可等待结果，得到的结果和TokenPocket官网公布的正版APP的md5或sha256值做比对即可验证。<mark style="color:red;">（在线工具页面中可能存在广告等内容，请使用主要验证功能，其他的不做任何推荐）</mark>
 
-工具一：打开链接[<mark style="color:blue;">**https://www.dute.org/file-hash-validator**</mark>](https://www.dute.org/file-hash-validator) <mark style="color:blue;">****</mark> 选择哈希算法，通常使用比较广泛的是md5，最安全的算法是sha256，其他的哈希算法也可以进行尝试。在顶部选择或拖入下载的APK文件后底部会很快得到计算结果，只需要复制结果和官方公布的md5或sha256哈希值进行对比即可完成验证。
+工具一：打开链接[<mark style="color:blue;">**https://www.dute.org/file-hash-validator**</mark>](https://www.dute.org/file-hash-validator) 选择哈希算法，通常使用比较广泛的是md5，最安全的算法是sha256，其他的哈希算法也可以进行尝试。在顶部选择或拖入下载的APK文件后底部会很快得到计算结果，只需要复制结果和官方公布的md5或sha256哈希值进行对比即可完成验证。
 
 ![](../../.gitbook/assets/256-2.png)
 
-工具二：打开链接[<mark style="color:blue;">**http://www.metools.info/code/c92.html**</mark>](http://www.metools.info/code/c92.html)  <mark style="color:blue;">****</mark>  选择文件和哈希算法，点击计算，即可在结果中查看到结果。
+工具二：打开链接[<mark style="color:blue;">**http://www.metools.info/code/c92.html**</mark>](http://www.metools.info/code/c92.html)  选择文件和哈希算法，点击计算，即可在结果中查看到结果。
 
 ![](../../.gitbook/assets/256-1.png)
 
-工具三：打开链接[<mark style="color:blue;">**https://oktools.net/file-hash**</mark>](https://oktools.net/file-hash)  <mark style="color:blue;">****</mark>  这款工具可以快捷的选择多个哈希算法来验证，只需要勾选哈希算法，导入APK文件后即可查看到结果，非常方便。
+工具三：打开链接[<mark style="color:blue;">**https://oktools.net/file-hash**</mark>](https://oktools.net/file-hash)  这款工具可以快捷的选择多个哈希算法来验证，只需要勾选哈希算法，导入APK文件后即可查看到结果，非常方便。
 
 ![](../../.gitbook/assets/256-3.png)
 
 ### <mark style="color:blue;">**PC端MD5、SHA256验证工具**</mark>
 
-MD5工具：打开工具的官网[<mark style="color:blue;">**https://www.winmd5.com/**</mark>](https://www.winmd5.com/) <mark style="color:blue;">****</mark> 点击【Download】下载工具
+MD5工具：打开工具的官网[<mark style="color:blue;">**https://www.winmd5.com/**</mark>](https://www.winmd5.com/) 点击【Download】下载工具
 
 ![](../../.gitbook/assets/Snipaste\_2022-06-20\_21-24-51.png)
 
@@ -118,7 +119,7 @@ SHA256工具：
 
 这个工具是我们熟悉的压缩/解压缩工具7-Zip，通过它也可以非常便捷的得到文件的SHA256值
 
-打开官网[<mark style="color:blue;">**https://www.7-zip.org/**</mark>](https://www.7-zip.org/) <mark style="color:blue;">****</mark> 点击【Download】下载对应的版本并安装
+打开官网[<mark style="color:blue;">**https://www.7-zip.org/**</mark>](https://www.7-zip.org/) 点击【Download】下载对应的版本并安装
 
 ![](../../.gitbook/assets/Snipaste\_2022-06-20\_21-29-07.png)
 
@@ -134,11 +135,11 @@ SHA256工具：
 
 虽然在电脑端可以使用多种工具多种渠道来查看md5或sha256哈希值，但是我们日常使用最多的移动端如何进行验证呢。这里来介绍下移动端的工具。
 
-工具一：点击这里[<mark style="color:blue;">**下载工具**</mark>](https://d-13.winudf.com/b/APK/Y29tLmdhbWUubGl0dGxldHJpY2tzdHVkaW8ubWQ1Y2hlY2tlcl8xMV9jNGNjM2U1Ng?\_fn=TUQ1IENoZWNrZXJfdjEuM19hcGtwdXJlLmNvbS5hcGs&\_p=Y29tLmdhbWUubGl0dGxldHJpY2tzdHVkaW8ubWQ1Y2hlY2tlcg\&am=PGLTTfIPJr33xxAxPVydqQ\&at=1655734447\&download\_id=otr\_1705904481071926\&k=3919882866ce239957fb9d9a76fd5b6762b1d230\&r=https%3A%2F%2Fapkpure.com%2Fcn%2Fmd5-checker%2Fcom.game.littletrickstudio.md5checker) <mark style="color:blue;">****</mark> 安装后，打开验证工具，点击选择打开系统自带的文件管理器，找到需要验证的的APK文件，导入后点击【MD5】就可以计算出md5哈希值，可以和官方提供的参数进行对比。
+工具一：点击这里[<mark style="color:blue;">**下载工具**</mark>](https://d-13.winudf.com/b/APK/Y29tLmdhbWUubGl0dGxldHJpY2tzdHVkaW8ubWQ1Y2hlY2tlcl8xMV9jNGNjM2U1Ng?\_fn=TUQ1IENoZWNrZXJfdjEuM19hcGtwdXJlLmNvbS5hcGs&\_p=Y29tLmdhbWUubGl0dGxldHJpY2tzdHVkaW8ubWQ1Y2hlY2tlcg\&am=PGLTTfIPJr33xxAxPVydqQ\&at=1655734447\&download\_id=otr\_1705904481071926\&k=3919882866ce239957fb9d9a76fd5b6762b1d230\&r=https%3A%2F%2Fapkpure.com%2Fcn%2Fmd5-checker%2Fcom.game.littletrickstudio.md5checker) 安装后，打开验证工具，点击选择打开系统自带的文件管理器，找到需要验证的的APK文件，导入后点击【MD5】就可以计算出md5哈希值，可以和官方提供的参数进行对比。
 
 ![](<../../.gitbook/assets/1 (27) (1).png>)
 
-工具二：点击[<mark style="color:blue;">**下载工具**</mark>](https://cr5.198254.com/com.hobbyone.hashdroid.apk) <mark style="color:blue;">****</mark> 这款工具的功能更加强大，支持md5、sha256等多种哈希算法验证。同样的安装打开后，点击切换到【HASH A FILE】，点击【Select a hash function】选择例如sha256，点击【CLICK HERE TO SELECT THE FILE TO HASH】来找到需要验证的apk，加载后点击【CALCULATE】即可计算出apk的sha256哈希值用于和官方的参数进行对比。
+工具二：点击[<mark style="color:blue;">**下载工具**</mark>](https://cr5.198254.com/com.hobbyone.hashdroid.apk) 这款工具的功能更加强大，支持md5、sha256等多种哈希算法验证。同样的安装打开后，点击切换到【HASH A FILE】，点击【Select a hash function】选择例如sha256，点击【CLICK HERE TO SELECT THE FILE TO HASH】来找到需要验证的apk，加载后点击【CALCULATE】即可计算出apk的sha256哈希值用于和官方的参数进行对比。
 
 ![](<../../.gitbook/assets/2 (20).png>)
 
