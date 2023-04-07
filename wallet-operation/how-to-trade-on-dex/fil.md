@@ -1,12 +1,12 @@
 # FIL代币从主网转移到FEVM链
 
-### <mark style="color:orange;">通过Binance购买ETH代币</mark>
+### <mark style="color:orange;">通过Binance购买ETH代币</mark> <a href="#binance" id="binance"></a>
 
 在Binance中购买的FIL暂时是可以支持主网代币，所以我们需要先获取一些FIL主网代币，然后通过第三方的工具迁移到FEVM链。
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMF2k4MCaxErpZyah2d%2Fuploads%2FvYagGInJgA3J05qceXG0%2F1.png?alt=media&#x26;token=5ea84e66-ab64-4679-9fca-724b1bb3828c" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:orange;">闪兑方式：</mark>
+#### <mark style="color:orange;">闪兑方式：</mark> <a href="#swap" id="swap"></a>
 
 1、打开binance官网，选择左上角【交易】菜单，选择【闪兑】，闪兑方式是为了方便新用户操作的一种简化图形界面，在这里可以选择【市价】或【限价】交易方式，填入需要兑换的代币数量，点击底部的【预览兑换结果】。
 
@@ -20,7 +20,7 @@
 
 <figure><img src="../../.gitbook/assets/9 (4).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:orange;">如何创建FIL主网钱包</mark>
+#### <mark style="color:orange;">如何创建FIL主网钱包</mark> <a href="#fil-fil" id="fil-fil"></a>
 
 1、打开[<mark style="color:blue;">**https://www.glif.io/**</mark>](https://www.glif.io/)点击右侧【Connect Wallet】
 
@@ -46,7 +46,7 @@
 
 <figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:orange;">如何提取FIL到钱包</mark>
+#### <mark style="color:orange;">如何提取FIL到钱包</mark> <a href="#withdrawal" id="withdrawal"></a>
 
 执行提币操作的时候，最重要的因素就是提币的网络选择和地址。点击转账网络，会弹出窗口提示，其中选择FIL主网网络。
 
@@ -56,7 +56,7 @@
 
 <figure><img src="../../.gitbook/assets/11 (7).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:orange;">如何转出到FEVM链地址</mark>
+#### <mark style="color:orange;">如何转出到FEVM链地址</mark> <a href="#fevm" id="fevm"></a>
 
 1、提款到账后，点击右上角地址栏，下拉选择【Send FIL】
 
