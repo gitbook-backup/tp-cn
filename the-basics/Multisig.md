@@ -16,4 +16,4 @@ ETH/ERC20 (包括 BSC/BEP20 等EVM链）的多签采用轻量智能合约（smar
 
 
 
-**点击查看👉**[**如何创建多签钱包？**](https://help.tokenpocket.pro/cn/faq/Multisig-Wallet/create)****
+**点击查看👉**[**如何创建多签钱包？**](https://help.tokenpocket.pro/cn/faq/Multisig-Wallet/create)

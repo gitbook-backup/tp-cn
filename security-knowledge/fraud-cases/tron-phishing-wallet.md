@@ -16,6 +16,6 @@
 
 在【账户权限】中可以看到owner和active两个活动权限都为同一个地址，但是这个地址和钱包的收款地址不同，这个就很明显的可以解释为什么所有导入的资产都无法进行转账。
 
-这里简单的说明一下，波场公链整合了以太坊和EOS的一些特性，所以它和EOS的权限设置基本相同，分为owner、active、权重、阈值等内容，具体的功能说明和操作可以参考官方的多签说明文档：[<mark style="color:blue;">**https://cn.developers.tron.network/docs/multi-signature**</mark>](https://cn.developers.tron.network/docs/multi-signature)<mark style="color:blue;">****</mark>
+这里简单的说明一下，波场公链整合了以太坊和EOS的一些特性，所以它和EOS的权限设置基本相同，分为owner、active、权重、阈值等内容，具体的功能说明和操作可以参考官方的多签说明文档：[<mark style="color:blue;">**https://cn.developers.tron.network/docs/multi-signature**</mark>](https://cn.developers.tron.network/docs/multi-signature)
 
 在这里再次提示大家，天上不会掉馅饼，这种骗取Gas（矿工费）的骗局是一种比较早期的骗局，用户最多损失一些手续费，但是如果遇到【恶意授权】或【合约调用盗币】等方式，那么损失就会比较大了。

@@ -18,4 +18,3 @@ App内提示更新，或官网下载最新版本。
 
 <mark style="color:red;">**（注意：TokenPocket唯一官方网址为：**</mark>[<mark style="color:red;">**https://tokenpocket.pro/**</mark>](https://tokenpocket.pro/)<mark style="color:red;">**）**</mark>
 
-<mark style="color:red;">****</mark>

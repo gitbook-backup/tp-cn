@@ -20,7 +20,7 @@ Chrome：1.1.4
 
 1. TokenPocket插件钱包如何连接[**KeyPal**](https://www.keypal.pro/zh/)？
 
-****[**点击查看教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/use-tutorial/connect-keypal)****
+[**点击查看教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/use-tutorial/connect-keypal)
 
 
 
@@ -32,5 +32,5 @@ Chrome：1.1.4
 
 2.[**官网下载最新版本**](broken-reference)并重新添加至Chrome.
 
-[**点击查看添加教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)****
+[**点击查看添加教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)
 

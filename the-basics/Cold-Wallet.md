@@ -6,4 +6,4 @@
 
 TokenPocket支持多种公链创建冷钱包，请务必保证冷钱包使用在离线设备中，否则它是没有任何意义的。
 
-点击查看[<mark style="color:blue;">**冷钱包创建教程**</mark>](../faq/multichain-wallet/coldwallet.md)<mark style="color:blue;">****</mark>
+点击查看[<mark style="color:blue;">**冷钱包创建教程**</mark>](../faq/multichain-wallet/coldwallet.md)

@@ -28,7 +28,7 @@
 
 ![](<../../.gitbook/assets/4 (17).png>)
 
-通过BSC上的[<mark style="color:blue;">**授权检测工具**</mark>](https://bscscan.com/tokenapprovalchecker) <mark style="color:blue;">****</mark> 查看授权历史记录，在这里可以看到恶意的地址是存在于授权列表中的，也就是说如果这个代币的地址再次转入USDT到钱包中会马上被盗。
+通过BSC上的[<mark style="color:blue;">**授权检测工具**</mark>](https://bscscan.com/tokenapprovalchecker) 查看授权历史记录，在这里可以看到恶意的地址是存在于授权列表中的，也就是说如果这个代币的地址再次转入USDT到钱包中会马上被盗。
 
 ![](<../../.gitbook/assets/5 (7) (2).png>)
 

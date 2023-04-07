@@ -2,7 +2,7 @@
 
 KCC是由KCS和KuCoin的社区粉丝构建的，基于EVM兼容的，高性能和去中心化的公链。 目的是为解决目前公链出现的诸如性能低下，成本过高等问题，从而提供给社区用户更加高速便捷并且低成本的区块链使用体验。
 
-****
+
 
 **如何在TokenPocket创建KCC钱包？**
 
@@ -20,7 +20,7 @@ KCC是由KCS和KuCoin的社区粉丝构建的，基于EVM兼容的，高性能�
 
 <mark style="color:red;">**注意：请勿将助记词透露给任何人！**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **如何在TokenPocket导入KCC钱包？**
 

@@ -14,7 +14,7 @@ _**1、DApp收藏功能：**_
 
 _**2、DApp List使用教程：**_
 
-_**2.1、**_打开TP钱包，点击【发现】使用DApp浏览器或者顶部填入连接：[**https://dappcom.github.io/dapp-list/#/**](https://dappcom.github.io/dapp-list/#/) **** 打开DApp List列表。
+_**2.1、**_打开TP钱包，点击【发现】使用DApp浏览器或者顶部填入连接：[**https://dappcom.github.io/dapp-list/#/**](https://dappcom.github.io/dapp-list/#/) 打开DApp List列表。
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FLYmD9Dckpn2qUyaB8obl%2F11.png?alt=media&token=f593ba81-0d63-46df-aaae-9a163c8cdc7a" %}
 

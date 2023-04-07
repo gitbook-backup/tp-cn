@@ -52,4 +52,4 @@ Chrome：1.1.8
 
 2.[**官网下载最新版本**](broken-reference)并重新添加至Chrome.
 
-[**点击查看添加教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)****
+[**点击查看添加教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)

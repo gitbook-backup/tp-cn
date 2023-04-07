@@ -10,7 +10,7 @@ Android 1.3.0
 
 App Store 1.6.1
 
-****
+
 
 **【主要更新内容】**
 
@@ -26,4 +26,3 @@ App Store 1.6.1
 
 ‌App内提示更新，或官网下载最新版本。（注意：TokenPocket唯一官方网址为：[www.tokenpocket.pro](https://www.tokenpocket.pro/)）
 
-****

@@ -52,4 +52,4 @@
 
 <figure><img src="../../.gitbook/assets/nova cn 7.png" alt=""><figcaption></figcaption></figure>
 
-**了解更多：Arbitrum Nova区块浏览器：**[**https://nova-explorer.arbitrum.io**](https://nova-explorer.arbitrum.io)****
+**了解更多：Arbitrum Nova区块浏览器：**[**https://nova-explorer.arbitrum.io**](https://nova-explorer.arbitrum.io)

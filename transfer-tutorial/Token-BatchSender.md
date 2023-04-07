@@ -20,7 +20,7 @@ TokenPocket多链批量转账工具，支持ETH、BSC、HECO、OKXChain、Polygo
 
 #### <mark style="color:blue;">**工具使用教程：**</mark>
 
-1、打开多链批量转账工具链接[<mark style="color:blue;">**https://batchsender.tokenpocket.pro/#/**</mark>](https://batchsender.tokenpocket.pro/#/) <mark style="color:blue;">****</mark>&#x20;
+1、打开多链批量转账工具链接[<mark style="color:blue;">**https://batchsender.tokenpocket.pro/#/**</mark>](https://batchsender.tokenpocket.pro/#/)&#x20;
 
 ![](https://1241502402-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMr66Ca6n3UR4Xw7gcij2%2Fuploads%2FgJk7p8rN9UC3tj5XCTLS%2F1.png?alt=media\&token=fb0acaba-bb35-490e-8d2e-20dc892a1186)
 

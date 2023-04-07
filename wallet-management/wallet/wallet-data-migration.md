@@ -47,12 +47,12 @@
 
 ![](<../../.gitbook/assets/6 (5) (1).png>)
 
-****
 
-****
+
+
 
 **安卓手机操作步骤：**\
-****1、打开TokenPocket，点击底部【我的】；
+1、打开TokenPocket，点击底部【我的】；
 
 ![](<../../.gitbook/assets/7 (2) (1).png>)
 

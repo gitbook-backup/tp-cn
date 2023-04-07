@@ -1,6 +1,6 @@
 # 如何连接Trezor硬件钱包？
 
-****[**TokenPocket插件钱包**](https://extension.tokenpocket.pro/#/)**（1.1.3）已支持连接Trezor硬件钱包。**
+[**TokenPocket插件钱包**](https://extension.tokenpocket.pro/#/)**（1.1.3）已支持连接Trezor硬件钱包。**
 
 1.首先请在Trezor硬件钱包上<mark style="color:orange;">**输入PIN码**</mark>以验证您的硬件钱包。打开TokenPocket插件钱包，点击右上角按钮进入设置页面，点击<mark style="color:orange;">**【连接硬件钱包】**</mark>。
 

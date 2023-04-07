@@ -15,7 +15,12 @@
 
 ![](<../../../.gitbook/assets/3 (24).png>)
 
-<mark style="color:red;">**安全提示**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**• 请对您的助记词进行多次备份，避免单一风险。**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**• 任何情况下，都不可以向任何人透露您的助记词！**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**• 谨防钓鱼网站，任何向你索要账号助记词的一定是骗子！**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**• 如果您需要再次备份助记词，请通过“设置”->“安全选项”进行备份。**</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**• dfox无法恢复您的助记词，请您务必做好助记词保管工作！**</mark>
+<mark style="color:red;">**安全提示**</mark>\
+<mark style="color:red;">**• 请对您的助记词进行多次备份，避免单一风险。**</mark>\
+<mark style="color:red;">**• 任何情况下，都不可以向任何人透露您的助记词！**</mark>\
+<mark style="color:red;">**• 谨防钓鱼网站，任何向你索要账号助记词的一定是骗子！**</mark>\
+<mark style="color:red;">**• 如果您需要再次备份助记词，请通过“设置”->“安全选项”进行备份。**</mark>\
+<mark style="color:red;">**• dfox无法恢复您的助记词，请您务必做好助记词保管工作！**</mark>
 
 4.至此，您已成功导入钱包。
 
@@ -37,6 +42,5 @@
 
 4.至此，您已完成钱包创建。
 
-![](<../../../.gitbook/assets/8 (2).png>)
+![](<../../../.gitbook/assets/8 (2) (2).png>)
 
-<mark style="color:red;">****</mark>

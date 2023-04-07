@@ -16,7 +16,7 @@
 
 ### <mark style="color:orange;">4、我何时能够提取我的资金，退出和撤出之间有什么区别？</mark>&#x20;
 
-您可以通过向验证者签署自愿退出消息，来表明您打算停止验证。 然而，请记住，在可预见的未来，一旦您退出，就没有回头路可走了。 目前你无法重新激活验证者，并且在提款功能启用之前，你将无法转移或提取资金。此功能被提议包括在下一次网络升级（即“上海升级”）中。这意味着至少在上海升级之前，你的资金将一直不可用。 关于上海升级：[<mark style="color:blue;">**https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777**</mark>](https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777)<mark style="color:blue;">****</mark>
+您可以通过向验证者签署自愿退出消息，来表明您打算停止验证。 然而，请记住，在可预见的未来，一旦您退出，就没有回头路可走了。 目前你无法重新激活验证者，并且在提款功能启用之前，你将无法转移或提取资金。此功能被提议包括在下一次网络升级（即“上海升级”）中。这意味着至少在上海升级之前，你的资金将一直不可用。 关于上海升级：[<mark style="color:blue;">**https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777**</mark>](https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777)
 
 ### <mark style="color:orange;">5、自己运行节点会有什么风险？</mark>
 

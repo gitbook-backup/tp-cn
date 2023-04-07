@@ -40,7 +40,7 @@ description: 本教程通过自定义网络添加xDAI Chain进行演示
 
 
 **相关链接：**\
-****[1. 如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)
+[1. 如何创建钱包？](https://tphelp.gitbook.io/cn/wallet-management/create-wallet)
 
 [2. 如何导入钱包？](https://tphelp.gitbook.io/cn/wallet-management/import-wallet)
 

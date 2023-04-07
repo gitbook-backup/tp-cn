@@ -16,7 +16,7 @@
 
 <mark style="color:red;">**注意：请勿把助记词和私钥泄漏给第三方！**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 <mark style="color:orange;">**如何在TokenPocket导入Harmony钱包？**</mark>
 

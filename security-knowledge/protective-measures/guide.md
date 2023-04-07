@@ -8,7 +8,7 @@ description: 该指引为下载了6.3.8或2.4.1假钱包版本的用户提供安
 
 请注意，TokenPocket安卓端最新版本号为**1.6.6**。
 
-点击可以查看[**TokenPocket正版钱包版本更新日志**](../../announcement/update/)****
+点击可以查看[**TokenPocket正版钱包版本更新日志**](../../announcement/update/)
 
 ## 如何查看TokenPocket钱包版本号？
 
@@ -22,18 +22,18 @@ description: 该指引为下载了6.3.8或2.4.1假钱包版本的用户提供安
 
 1. **立即将每条链的所有钱包资产通过普通转账的方式转移至未将私钥/助记词导入过假钱包的新的钱包地址/交易所地址上。可以在电脑端使用TokenPocket插件来创建新的钱包地址。**
 
-点击查看[**安装电脑端TokenPocket插件教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)****
+点击查看[**安装电脑端TokenPocket插件教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/installation-tutorial)
 
-点击查看[**TokenPocket创建/导入钱包教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet)****
+点击查看[**TokenPocket创建/导入钱包教程**](https://help.tokenpocket.pro/cn/extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet)
 
 <mark style="color:red;">**请注意：**</mark>
 
 <mark style="color:red;">1）由于您下载了假钱包，您的钱包私钥和助记词已经泄漏，请勿再使用当前的钱包地址。同时，部分假钱包会禁止用户转移资产，如果出现矿工费充足，但无法转账的情况，建议您弃用假钱包内资产。</mark>
 
-<mark style="color:red;">2）转账过程中，请仔细核对收款网络和收款地址，如果不熟悉转账操作，请点击查看</mark>[<mark style="color:red;">**转账教程**</mark>](https://help.tpwallet.io/cn/transfer-tutorial/transfer-to-the-wallet-or-exchange)<mark style="color:red;">****</mark>
+<mark style="color:red;">2）转账过程中，请仔细核对收款网络和收款地址，如果不熟悉转账操作，请点击查看</mark>[<mark style="color:red;">**转账教程**</mark>](https://help.tpwallet.io/cn/transfer-tutorial/transfer-to-the-wallet-or-exchange)
 
 2. **转移完成后，请将假钱包卸载。**\
-   ****
+
 3. **下载正版TokenPocket钱包，请认准官网：**
 
 1） [https://tokenpocket.pro/](https://tokenpocket.pro/)
@@ -60,13 +60,13 @@ description: 该指引为下载了6.3.8或2.4.1假钱包版本的用户提供安
 
 此处的第三方包括：朋友，亲人，假客服等。
 
-#### **为了进一步了解用户下载假钱包的详细情况，我们邀请您参与一个用户调查**[**https://www.wenjuan.com/s/UZBZJvwnFU/#**](https://www.wenjuan.com/s/UZBZJvwnFU/)****
+#### **为了进一步了解用户下载假钱包的详细情况，我们邀请您参与一个用户调查**[**https://www.wenjuan.com/s/UZBZJvwnFU/#**](https://www.wenjuan.com/s/UZBZJvwnFU/)
 
 ## 是否能根据版本号判定是否为TokenPocket正版钱包？
 
 版本号不是判定真假钱包的唯一标准，不能根据版本号即去判定钱包的真假。
 
-请根据教程指引，查看辨别真假钱包的准确方法：[**正版钱包验证方法**](https://help.tokenpocket.pro/cn/secirity-knowledge/protective-measures/verification)****
+请根据教程指引，查看辨别真假钱包的准确方法：[**正版钱包验证方法**](https://help.tokenpocket.pro/cn/secirity-knowledge/protective-measures/verification)
 
 ## 如何联系官方客服？
 

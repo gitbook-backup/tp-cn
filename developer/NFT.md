@@ -2,9 +2,9 @@
 
 提交NFT图标时，请根据代币类型在[<mark style="color:blue;">**Github**</mark>](https://github.com/TP-Lab/tokens/tree/master/NFT)上选择相应的链接，然后提交代币图标和信息文件（注意：如未提交代币信息文件将无法通过）：‌
 
-ETH：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/NFT/eth**</mark>](https://github.com/TP-Lab/tokens/tree/master/NFT/eth)<mark style="color:blue;">****</mark>
+ETH：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/NFT/eth**</mark>](https://github.com/TP-Lab/tokens/tree/master/NFT/eth)
 
-BSC：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/NFT/bsc**</mark>](https://github.com/TP-Lab/tokens/tree/master/NFT/bsc)<mark style="color:blue;">****</mark>
+BSC：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/NFT/bsc**</mark>](https://github.com/TP-Lab/tokens/tree/master/NFT/bsc)
 
 
 
@@ -22,7 +22,7 @@ BSC：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/
 
 <mark style="color:red;">**6、提交的NFT如果未开源将会对logo收录和NFT内的图片显示有影响。**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 ### **所需资料如下：**‌
 
@@ -70,7 +70,7 @@ BSC：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/
 }
 ```
 
-****
+
 
 **3. 使用checksum格式的合约地址**
 
@@ -81,7 +81,7 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 
 ![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MMF2k4MCaxErpZyah2d%2F-Mamgil3uwVkCxcB0Vka%2F-Manmit-oKuKZ1t4pu4W%2F%E6%8F%90%E4%BA%A4%E4%BB%A3%E5%B8%81checksum.jpg?alt=media\&token=1494fcd0-c5ab-4908-b8c3-17cc32a54d36)
 
-****
+
 
 **捐赠流程：** \
 提交一个代币图标时捐赠 **50,000TPT**以验证你的地址合法性，需要注意的是**捐赠后无法退回**，请您考虑清楚后再捐赠。按照以下步骤准备所需资料并完成捐赠（此处以币安智能链为例）：

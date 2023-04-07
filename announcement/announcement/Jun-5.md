@@ -13,4 +13,3 @@ TokenPocket根据近期社区发生的一些安全事件，总结并在这里提
 7. <mark style="color:red;">**任何安全事件，不信谣，不传谣！**</mark>
 8. <mark style="color:red;">**请认准TokenPocket唯一官网地址：**</mark>[<mark style="color:red;">**www.tokenpocket.pro**</mark>](https://tokenpocket.pro/)<mark style="color:red;">**！**</mark>
 
-****

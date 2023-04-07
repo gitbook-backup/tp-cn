@@ -54,4 +54,4 @@
 
 **了解更多：**
 
-**ETC区块浏览器：**[**https://etcblockexplorer.com/**](https://etcblockexplorer.com/)****
+**ETC区块浏览器：**[**https://etcblockexplorer.com/**](https://etcblockexplorer.com/)

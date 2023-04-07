@@ -21,7 +21,7 @@
 
 ![](../../.gitbook/assets/guan-li-qian-bao-5.png)
 
-****\
-****5）**钱包同步功能**可以将本网络的钱包同步到其他网络，因此，在转账时，如果不小心选择错误通道而导致资产不到账，可以使用该功能找回资产。具体找回资产的方法请点击[这里](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=zh#/)。
+\
+5）**钱包同步功能**可以将本网络的钱包同步到其他网络，因此，在转账时，如果不小心选择错误通道而导致资产不到账，可以使用该功能找回资产。具体找回资产的方法请点击[这里](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=zh#/)。
 
 ![](../../.gitbook/assets/guan-li-qian-bao-6.png)

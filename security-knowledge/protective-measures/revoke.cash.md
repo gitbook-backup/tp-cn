@@ -6,7 +6,7 @@
 
 2、工具打开后点击标记1处选择需要管理授权的公链，然后点击【Connect Wallet】连接钱包，如果是App Store用户，建议您点击右上角的【...】菜单收藏日常使用的DApp链接到发现界面中。
 
-<figure><img src="../../.gitbook/assets/2 (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、连接钱包后，可以看出自动扫描的代币历史授权记录，revoke.cash可以查询Token和NFT的授权信息。
 

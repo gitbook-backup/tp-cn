@@ -73,7 +73,7 @@ App Store: 1.6.3
 
 ![](../../.gitbook/assets/wechatimg138.png)
 
-****
+
 
 **【版本更新方式】**
 

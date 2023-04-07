@@ -66,7 +66,7 @@ PIN码是指KeyPal设备的密码，注意，请保存好您所设置的PIN码�
 
 **请认准KeyPal唯一官方网址：**https://www.keypal.pro/zh/（进入官网可购买KeyPal）
 
-****
+
 
 **【版本更新方式】**
 

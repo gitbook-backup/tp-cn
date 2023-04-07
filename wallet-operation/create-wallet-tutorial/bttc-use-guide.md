@@ -14,11 +14,11 @@
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **如何在TokenPocket导入BitTorrent钱包？**
 
-&#x20;****&#x20;
+&#x20;
 
 1、打开TokenPocket App，点击左上角切换钱包底层，然后选择BTTC，点击<mark style="color:orange;">**【添加钱包】**</mark>；点击<mark style="color:orange;">**【导入钱包】**</mark>，继续点击<mark style="color:orange;">**【私钥导入】**</mark>或<mark style="color:orange;">**【助记词导入】**</mark>；
 
@@ -38,7 +38,7 @@
 
 **如何在TokenPocket同步BitTorrent钱包？**
 
-&#x20;****&#x20;
+&#x20;
 
 钱包同步功能旨在帮助用户快速的将本网络钱包同步到其他网络，钱包同步过程均在本地进行，不会对资产安全造成影响。同步后，钱包名称和密码保持一致。例如，当你转账时使用错误的通道，便可使用该功能找回资产。
 

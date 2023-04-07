@@ -40,7 +40,7 @@ Fantom是全球首个基于 DAG 技术并支持智能合约的高性能公链，
 
 ![](<../../.gitbook/assets/7 (4).png>)
 
-****
+
 
 **如何在TokenPocket同步Fantom钱包？**
 

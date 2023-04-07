@@ -1,4 +1,4 @@
-# 代币合约安全检测工具上线
+# 代币合约安全检测工具使用指引
 
 在DEX中完成代币交易是我们日常中经常使用的一个功能，因为代币交易平台去中心化的开放性，可以允许任何人或者团队上线不同类型的代币，在这个过程中有些不法分子就会在代币合约中做手脚，例如无法交易（貔貅）代币、有增发功能的代币等。这个时候就需要用到代币合约安全检测工具，虽然工具的检测无法保证百分之百的准确，但是它可以在很大程度上排除一些风险，选择更安全的代币进行交易。
 
@@ -40,7 +40,7 @@
 
 3、独立版合约检测工具
 
-打开TokenPocket，点击【发现】新品区可以找到独立检测工具，也可以单独打开链接[<mark style="color:blue;">**https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/**</mark>](https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/) <mark style="color:blue;">****</mark> 使用。
+打开TokenPocket，点击【发现】新品区可以找到独立检测工具，也可以单独打开链接[<mark style="color:blue;">**https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/**</mark>](https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/) 使用。
 
 工具打开后可以点击左上角选择不同的公链，中间的位置可以填入需要检测的合约地址并点击检测。
 

@@ -12,7 +12,7 @@
 
 只要你专业经验丰富，相关技术过硬，并且有一颗愿为TP事业共同奋斗的心，就快来加入我们吧！
 
-<mark style="color:blue;">****</mark>
+
 
 ### <mark style="color:blue;">区块链公链开发工程师</mark>
 
