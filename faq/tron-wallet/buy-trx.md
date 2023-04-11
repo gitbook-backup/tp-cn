@@ -24,7 +24,7 @@
 
 1、打开binance官网，选择左上角【交易】菜单，选择【闪兑】，闪兑方式是为了方便新用户操作的一种简化图形界面，在这里可以选择【市价】或【限价】交易方式，填入需要兑换的代币数量，点击底部的【预览兑换结果】。
 
-<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有8秒钟的交易时间限制）。
 
