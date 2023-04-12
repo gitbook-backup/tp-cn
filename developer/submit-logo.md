@@ -36,6 +36,12 @@ Avalanche-C: [https://github.com/TP-Lab/tokens/tree/master/Avalanche-C](https://
 
 Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://github.com/TP-Lab/tokens/tree/master/optimistic)
 
+Fil(FVM)：[https://github.com/TP-Lab/tokens/tree/master/fil](https://github.com/TP-Lab/tokens/tree/master/fil)
+
+zkSync Era ∎：[https://github.com/TP-Lab/tokens/tree/master/zksync](https://github.com/TP-Lab/tokens/tree/master/zksync)
+
+Aptos：[https://github.com/TP-Lab/tokens/tree/master/apt](https://github.com/TP-Lab/tokens/tree/master/apt)
+
 
 
 ### <mark style="color:blue;">注意事项：</mark>
