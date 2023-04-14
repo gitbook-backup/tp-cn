@@ -20,7 +20,7 @@
 
 进入到【提现】界面，在币种搜索栏中点击并填入FIL，选择FIL代币。
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (11).png" alt=""><figcaption></figcaption></figure>
 
 默认选择【链上提现】点击下一步。
 
@@ -32,7 +32,7 @@
 
 提款地址和提款网络选择完成后就可以设置提现的数量，可以查看到提现的手续费用数量，点击下一步。
 
-<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (8).png" alt=""><figcaption></figcaption></figure>
 
 在【安全验证】界面中再次核对收款地址，确认无误后即可使用邮箱短信验证码或谷歌验证码方式来进行验证。
 

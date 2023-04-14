@@ -4,7 +4,7 @@
 
 1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5).png>)，然后选择zkSync Era∎**;**
 
-<figure><img src="../../.gitbook/assets/cn1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/d126358051b802a20a4311037f8143fb_spaces%2F-MMF2k4MCaxErpZyah2d%2Fuploads%2FUn1gogvI6umlOYppLS8I%2Fcn1_alt=media&#x26;token=eb22e882-0827-485a-93d7-f3e30fdb2b5e.png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
