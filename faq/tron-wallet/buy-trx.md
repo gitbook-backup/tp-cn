@@ -32,7 +32,7 @@
 
 3、兑换完成后，可以在界面中看到成功的提示。
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">二、现货交易方式</mark>
 

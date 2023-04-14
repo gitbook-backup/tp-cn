@@ -10,7 +10,7 @@
 
 打开闪兑界面，默认会选择【数字货币】选项，首先选择需要兑换消耗的代币和获得的代币，例如这里的USDT兑换FIL代币；设置完代币填入需要兑换的数量，点击【兑换为FIL】。
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 确认兑换界面可以查看到兑换的方向和预估值等信息，点击【确认】。
 

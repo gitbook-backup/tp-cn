@@ -4,7 +4,7 @@
 
 1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (22).png>)添加钱包，在【选择网络】界面中点击最下方的【添加自定义网络】
 
-<figure><img src="../../.gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、打开自定义网络界面，点击右上角【便捷入口】，TokenPocket会针对热门的公链进行收录，通过便捷入口就可以很方便的搜索到自己需要添加的公链。
 
