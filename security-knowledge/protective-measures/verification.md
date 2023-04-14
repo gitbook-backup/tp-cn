@@ -32,7 +32,7 @@ Google Play版本验证方法：[<mark style="color:blue;">**点击查看**</mar
 
 ### <mark style="color:blue;">**官方钱包APK的MD5、SHA256参数：**</mark>
 
-[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)
+[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)  <mark style="color:blue;">**www.tpwallet.io**</mark>
 
 |  版本号  |               MD5值               |                              SHA256值                             |
 | :---: | :------------------------------: | :--------------------------------------------------------------: |
