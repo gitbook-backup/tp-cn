@@ -36,7 +36,7 @@ APP Store内搜索【**TP Wallet**】，认准开发商名称为**TP Global Ltd*
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-Google Play版本直接通过市场下载或更新。
+从Google Play，HuaWei，Samsung市场更新
 
 **请认准TokenPocket官方网址：**
 
