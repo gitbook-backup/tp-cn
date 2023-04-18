@@ -16,7 +16,6 @@
 * [什么是观察钱包](the-basics/Watch-the-wallet.md)
 * [什么是多签钱包](the-basics/Multisig.md)
 * [什么是插件钱包](the-basics/Plug-in.md)
-* [什么是Permit2](the-basics/permit2.md)
 
 ## 🔐 安全知识 <a href="#security-knowledge" id="security-knowledge"></a>
 
@@ -82,6 +81,7 @@
   * [如何管理未打包交易？](faq/ethwallet/unpackaged.md)
   * [代币授权是什么？如何使用代币授权？](faq/ethwallet/token-approval.md)
   * [什么是以太坊交易加速](faq/ethwallet/transaction-accelerator.md)
+  * [什么是Permit2](faq/ethwallet/permit2.md)
 * [TRON钱包](faq/tron-wallet/README.md)
   * [如何购买波场TRX代币](faq/tron-wallet/buy-trx.md)
   * [关于波场账号权限提升](faq/tron-wallet/about-account-permissions.md)
