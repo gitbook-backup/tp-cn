@@ -16,6 +16,7 @@
 * [什么是观察钱包](the-basics/Watch-the-wallet.md)
 * [什么是多签钱包](the-basics/Multisig.md)
 * [什么是插件钱包](the-basics/Plug-in.md)
+* [什么是Permit2](the-basics/permit2.md)
 
 ## 🔐 安全知识 <a href="#security-knowledge" id="security-knowledge"></a>
 
