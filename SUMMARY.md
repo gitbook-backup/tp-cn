@@ -64,6 +64,7 @@
   * [什么是UTXO](faq/btcwallet/utxo.md)
   * [什么是OP\_RETURN？](faq/btcwallet/op-return.md)
   * [什么是路径](faq/btcwallet/path.md)
+  * [什么是Taproot？](faq/btcwallet/taproot.md)
   * [什么是隔离见证](faq/btcwallet/what-is-btc-segwit.md)
 * [ETH钱包](faq/ethwallet/README.md)
   * [如何购买ETH代币](faq/ethwallet/buy-eth.md)
