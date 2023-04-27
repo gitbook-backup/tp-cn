@@ -10,18 +10,19 @@ iOS：2.0.7 （苹果商店审核中）
 
 **【本期Android版本更新内容】**
 
-1. 兼容Keplr交互协议。
+1. 兼容Keplr 交互协议。
 2. Bitcoin支持Taproot。
 3. 冷钱包支持自定义公链。
 4. Bitcoin signMessage支持冷钱包和观察钱包功能。
 5. 支持TRON signMessageV2。
 6. KeyPal支持Bitcoin signMessage方法。
-7. 升级Cosmos chainID。
-8. 优化EIP1559协议交互。
-9. 优化WalletConnect V2。
-10. 优化闪兑服务。
-11. 优化Optimism链上手续费预估值。
-12. 优化用户体验。
+7. 支持印尼语。
+8. 升级Cosmos chainID。
+9. 优化ERC1559协议交互。
+10. 优化WalletConnect V2。
+11. 优化闪兑服务。
+12. 优化Optimism链上手续费预估值。
+13. 优化用户体验。
 
 
 
