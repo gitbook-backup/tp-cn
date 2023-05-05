@@ -20,7 +20,11 @@ Android: 1.7.4&#x20;
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-从Google Play，HuaWei，Samsung市场更新
+其他更新渠道：
+
+1. Google Play (审核中)
+2. HuaWei (审核中)
+3. Samsung (审核中)
 
 
 
