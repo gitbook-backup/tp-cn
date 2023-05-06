@@ -20,11 +20,7 @@ Android: 1.7.4&#x20;
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-其他更新渠道：(审核中)
-
-1. Google Play&#x20;
-2. HuaWei&#x20;
-3. Samsung&#x20;
+其他更新渠道：Google Play ,HuaWei ,Samsung ,Vivo
 
 
 
