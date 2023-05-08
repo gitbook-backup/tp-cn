@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">如何在TokenPocket上创建EOS EVM钱包？</mark> <a href="#create" id="create"></a>
 
-1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5).png>)，在网络（公链）界面中选择EOS EVM**;**
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，在网络（公链）界面中选择EOS EVM**;**
 
 <figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@
 
 ### <mark style="color:orange;">**如何在TokenPocket导入**</mark><mark style="color:orange;">EOS EVM</mark><mark style="color:orange;">**钱包？**</mark> <a href="#import" id="import"></a>
 
-1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5).png>)，在网络（公链）界面中选择EOS EVM**;**;
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，在网络（公链）界面中选择EOS EVM**;**;
 
 <figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 

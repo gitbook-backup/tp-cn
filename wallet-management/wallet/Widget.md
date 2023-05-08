@@ -38,7 +38,7 @@ TokenPocket新版本中支持Widgets功能，可以将我们日常使用的NFT�
 
 1、打开手机桌面向右滑动屏幕进入桌面小组件界面，选择小组件界面底部的【编辑】功能，在界面右上角点击【+】添加小部件。
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 2、在添加界面中可以直接通过搜索TokenPocket或者下拉倒底部找到TokenPocket，打开后就可以向左滑动查看支持的8种展示部件，（行情展示部分对部分用户会有限制）
 

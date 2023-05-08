@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">如何在TokenPocket上创建Filecoin FVM钱包？</mark>
 
-1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5).png>)，然后选择**Filecoin** **FVM;**
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，然后选择**Filecoin** **FVM;**
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
