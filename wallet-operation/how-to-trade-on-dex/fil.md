@@ -14,7 +14,7 @@
 
 确认兑换界面可以查看到兑换的方向和预估值等信息，点击【确认】。
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">提取代币到钱包</mark> <a href="#withdraw" id="withdraw"></a>
 
