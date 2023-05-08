@@ -1,11 +1,11 @@
-# Uniswap（以太坊）使用教程
+# Uniswap使用教程
 
 **关于**[**Uniswap**](https://uniswap.org/)\
-Uniswap从界面上属于比较干练、简约风格的，非常适合新手操作，V2和V1的版本可以非常方便的切换，把强大的功能都隐藏在了界面之后。现在已经到了V3版本，其页面也延续前两个版本的简洁风格。目前，Uniswap 仅支持以太坊钱包，
+Uniswap从界面上属于比较干练、简约风格的，非常适合新手操作，现在已经到了V3版本，其页面也延续前两个版本的简洁风格。目前，Uniswap 已支持包括以太坊、BSC、Arb等公链。
 
-Uniswap主要有【兑换】【发送】【资金池】和V3版本新增的【Vote】功能，我们将对其交易功能进行讲解。
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">**一、如何兑换代币**</mark>
+### <mark style="color:orange;">**Uniswap使用教程**</mark>
 
 1、打开TokenPocket，点击【发现】进入发现界面后在推荐位中打开或点击顶部，搜索Uniswap。
 

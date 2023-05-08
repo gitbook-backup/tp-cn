@@ -126,7 +126,7 @@
   * [FEVM-FIL代币的购买和提现](wallet-operation/how-to-trade-on-dex/fil.md)
   * [Base Goerli公链和Goerli公链资产互通](wallet-operation/how-to-trade-on-dex/bridge.md)
   * [跨链聚合闪兑平台Transit Swap2.0 教程](wallet-operation/how-to-trade-on-dex/transit-swap.md)
-  * [Uniswap（以太坊）使用教程](wallet-operation/how-to-trade-on-dex/dex-uniswap.md)
+  * [Uniswap使用教程](wallet-operation/how-to-trade-on-dex/dex-uniswap.md)
   * [PancakeSwap（BSC）使用教程](wallet-operation/how-to-trade-on-dex/dex-pancakeswap.md)
   * [MDEX（HECO）使用教程](wallet-operation/how-to-trade-on-dex/dex-mdex.md)
   * [JustSwap（TRON）使用教程](wallet-operation/how-to-trade-on-dex/dex-justswap.md)
