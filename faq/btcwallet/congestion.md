@@ -14,7 +14,7 @@ BTC拥堵是指比特币网络中的交易堵塞，这通常是由于网络上�
 
 以下是一些流程：
 
-1. 找到您所使用的比特币区块浏览器。一些常用的区块浏览器包括：Blockchair、Blockchain.info、Block Explorer和BTC.com等。
+1. 找到您所使用的比特币区块浏览器。一些常用的区块浏览器包括：[**Blockchair**](https://blockchair.com/)、[**Blockchain.info**](https://www.blockchain.com/)、[**Block Explorer**](https://www.blockchain.com/explorer)和[**BTC.com**](https://btc.com/)等。
 2. 在区块浏览器的搜索栏中输入您要查询的交易哈希值。交易哈希值通常是一串由数字和字母组成的字符串，长度为64个字符。
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
