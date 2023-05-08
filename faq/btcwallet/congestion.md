@@ -28,15 +28,11 @@ BTC拥堵是指比特币网络中的交易堵塞，这通常是由于网络上�
 
 如果您的比特币交易在等待区块链网络确认时已经花费了很长时间，您可以考虑通过以下方法来加速交易：
 
-1、提高交易费用：增加交易费用可以让矿工更愿意优先确认您的交易。您可以在您的比特币钱包中手动调整交易费用，通常是通过增加交易的手续费来提高交易的优先级。请注意，手续费高的交易通常会被更快地确认，但也会导致交易费用更高。
+**提高交易费用：**增加交易费用可以让矿工更愿意优先确认您的交易。您可以在您的比特币钱包中手动调整交易费用，通常是通过增加交易的手续费来提高交易的优先级。请注意，手续费高的交易通常会被更快地确认，但也会导致交易费用更高。
 
 加速交易（第三方服务）：[**https://explorer.viawallet.com/btc/tool/txaccelerator**](https://explorer.viawallet.com/btc/tool/txaccelerator)
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-2、使用SegWit地址：Segregated Witness（隔离见证）是一种比特币协议升级，它可以提高交易的确认速度和处理能力。如果您的钱包支持SegWit地址，请尝试使用SegWit地址发送交易，这可能会使您的交易更快地被确认。
-
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 请注意，以上方法并不能保证您的交易会被立即确认，因为比特币网络的拥堵情况和矿工的行为是不可预测的。然而，这些方法可以提高您交易的优先级和速度，从而使您的交易更有可能被快速确认。
 
