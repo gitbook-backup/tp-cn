@@ -5,7 +5,7 @@ Uniswap从界面上属于比较干练、简约风格的，非常适合新手操�
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">**Uniswap使用教程**</mark>
+### <mark style="color:orange;">**Uniswap使用教程**</mark> <a href="#1" id="1"></a>
 
 1、打开TokenPocket，点击【发现】进入发现界面后在推荐位中打开或点击顶部，搜索Uniswap。
 
