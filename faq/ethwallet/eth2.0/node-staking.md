@@ -18,7 +18,7 @@
 
 查看和勾选【质押宝服务协议】后，点击支付会弹出交易详情界面，这里的矿工费可以根据实际情况进行调整，最后点击【确认支付】并签名后即可完成自托管质押。
 
-<figure><img src="../../../.gitbook/assets/3 (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3、联合质押
 
@@ -26,7 +26,7 @@
 
 3.1、联合质押界面中可以看到质押数据、节点奖励走势等信息，同时也可以查看【质押历史】【常见问题】等内容。点击【参与/退出质押】入口，在跳转的界面中可选参与或退出（需要统一窗口期），设置自己需要参与的ETH数量，查看并勾选【质押宝服务协议】后，点击支付。
 
-<figure><img src="../../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 3.2、点击支付后跳转到交易详情界面，这里点击【矿工费】可以根据自己的实际需求设置，点击【确认支付】并签名后即可完成联合质押的参与。
 

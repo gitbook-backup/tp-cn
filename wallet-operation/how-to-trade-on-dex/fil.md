@@ -14,7 +14,7 @@
 
 确认兑换界面可以查看到兑换的方向和预估值等信息，点击【确认】。
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:orange;">提取代币到钱包</mark> <a href="#withdraw" id="withdraw"></a>
 
@@ -24,7 +24,7 @@
 
 默认选择【链上提现】点击下一步。
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 在提现详情界面，填入需要收款的0x开头的地址，在提现网络中选择FIL网络，这里没有单独列出FEVM网络选项。
 

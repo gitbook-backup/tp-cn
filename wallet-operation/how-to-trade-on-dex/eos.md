@@ -4,11 +4,11 @@ EOS-EVM主网已经正式上线，TokenPocket也已经正式收录了这条公�
 
 1、打开TokenPocket，在工具栏中可以先通过【资源】菜单检查自己的资源是否足够，因为EOS公链的机制很特别，所以可以通过TokenPocket独有的【顺畅模式】或者通过【系统租赁】的方式来获取足够的资源，这里尤其需要质押的就是【计算资源】，系统租赁的费用非常低廉，也可以帮他人租赁。
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (9).png" alt=""><figcaption></figcaption></figure>
 
 2、接下来点击eos来到转账界面，在收款地址栏中填入eosio.evm ，转账金额设置大于0.01eos的数量，在Momo中填入自己的EOS-EVM钱包地址，核对信息后点击【确认】，会弹出即将转入合约地址的提示信息，这里是正常的提示，点击【知晓并继续】
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (9).png" alt=""><figcaption></figcaption></figure>
 
 3、在交易详情中再次核对收款地址和memo内容，最终点击【确认支付】并签名后即可转出eos，这个方法的兑换速度非常的快，切换到EOS-EVM钱包中就可以看到兑换到账的eos数量，手续费会扣除0.01eos。
 
