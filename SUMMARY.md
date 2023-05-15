@@ -86,6 +86,7 @@
   * [什么是以太坊交易加速](faq/ethwallet/transaction-accelerator.md)
   * [什么是Permit2](faq/ethwallet/permit2.md)
 * [TRON钱包](faq/tron-wallet/README.md)
+  * [如何参与投票](faq/tron-wallet/vote.md)
   * [什么是质押2.0](faq/tron-wallet/2.0.md)
   * [什么是超级代表](faq/tron-wallet/representatives.md)
   * [如何购买波场TRX代币](faq/tron-wallet/buy-trx.md)

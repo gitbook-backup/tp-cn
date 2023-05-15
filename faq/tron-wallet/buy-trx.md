@@ -12,7 +12,7 @@
 
 首次使用除主网币的代币进行兑换，在这里都需要执行一次授权操作，授权的数量可以自己合理设置，完成授权后，再次按照兑出、兑入的代币、数量并设置好收款地址并点击【确认兑换】后进行签名就可以获得TRX代币。（Transit支持同链和跨链兑换服务）
 
-<figure><img src="../../.gitbook/assets/2 (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2) (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">通过Binance购买TRX代币</mark>
 
