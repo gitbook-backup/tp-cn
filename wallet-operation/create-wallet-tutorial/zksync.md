@@ -32,7 +32,7 @@
 
 2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入zkSync Era∎钱包。
 

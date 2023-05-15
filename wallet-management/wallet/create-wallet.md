@@ -10,7 +10,11 @@
 
 3、点击【创建钱包】；
 
-![](<../../.gitbook/assets/4 (3) (1).png>)
+<div align="center">
+
+<img src="../../.gitbook/assets/4 (3) (1).png" alt="">
+
+</div>
 
 4、依次设置【钱包名】和【密码】，然后勾选【服务及隐私条款】，点击【创建钱包】；
 
