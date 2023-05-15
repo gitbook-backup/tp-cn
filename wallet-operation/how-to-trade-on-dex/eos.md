@@ -12,4 +12,4 @@ EOS-EVM主网已经正式上线，TokenPocket也已经正式收录了这条公�
 
 3、在交易详情中再次核对收款地址和memo内容，最终点击【确认支付】并签名后即可转出eos，这个方法的兑换速度非常的快，切换到EOS-EVM钱包中就可以看到兑换到账的eos数量，手续费会扣除0.01eos。
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3) (4).png" alt=""><figcaption></figcaption></figure>
