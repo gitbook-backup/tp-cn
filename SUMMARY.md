@@ -97,8 +97,6 @@
   * [什么是转账的小费？](faq/polkadot/fee.md)
 * [Solana钱包](faq/solana-wallet/README.md)
   * [关于Solana“关联账号”](faq/solana-wallet/associated-account.md)
-* [BOS钱包](faq/boswallet/README.md)
-  * [BOS好友创建教程](faq/boswallet/creat-by-friend.md)
 * [OKX钱包](faq/okxwallet/README.md)
   * [OKExChain钱包升级](faq/okxwallet/okx.md)
 * [Aptos钱包](faq/Aptos/README.md)
