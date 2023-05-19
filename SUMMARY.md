@@ -258,6 +258,7 @@
     * [如何连接Ledger硬件钱包？](extension-wallet/faq/use-tutorial/connect-ledger.md)
     * [如何连接Trezor硬件钱包？](extension-wallet/faq/use-tutorial/connect-trezor.md)
 * [插件钱包更新](extension-wallet/update-log/README.md)
+  * [版本更新日志（05/19/2023）](extension-wallet/update-log/may-19.md)
   * [版本更新日志（03/05/2023）](extension-wallet/update-log/mar-5.md)
   * [版本更新日志（03/01/2023）](extension-wallet/update-log/mar-1.md)
   * [版本更新日志（11/04/2022）](extension-wallet/update-log/nov-4.md)
