@@ -32,7 +32,7 @@
 
 2、点击后，在弹出的界面中选择**【导入钱包】，**选择导入方式；
 
-<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (9).png" alt=""><figcaption></figcaption></figure>
 
 3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入EOS EVM钱包。
 

@@ -36,4 +36,4 @@
 
 在【安全验证】界面中再次核对收款地址，确认无误后即可使用邮箱短信验证码或谷歌验证码方式来进行验证。
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (6).png" alt=""><figcaption></figcaption></figure>

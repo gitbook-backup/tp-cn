@@ -28,7 +28,7 @@
 
 2、兑换界面中可以看到兑换的比例、手续费等参数，点击兑换（因为是市价交易，所以会有8秒钟的交易时间限制）。
 
-<figure><img src="../../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 3、兑换完成后，可以在界面中看到成功的提示。
 

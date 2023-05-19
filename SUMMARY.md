@@ -122,6 +122,7 @@
 ## 🔩 钱包操作 <a href="#wallet-operation" id="wallet-operation"></a>
 
 * [关于下载TokenPocket APP](wallet-operation/download-tp-app/README.md)
+  * [如何注册Apple ID](wallet-operation/download-tp-app/id.md)
   * [如何下载TokenPocket APP？](wallet-operation/download-tp-app/download-tokenpocket-app.md)
   * [Testflight Pro版本TP钱包过期无法打开解决方案](wallet-operation/download-tp-app/testflight-pro-solution.md)
   * [苹果手机如何通过App Store下载TokenPocket App？](wallet-operation/download-tp-app/download-tokenpocket-app-1.md)
