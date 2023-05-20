@@ -4,7 +4,7 @@
 
 名字和姓氏要使用英文填写，国家要宣传非内地地区出生日期（年龄）要大于18岁。填写一个没有注册过Apple ID的邮箱，正常的设置密码，在这里填入内地的手机号并完成最后的图片字符验证后点击【继续】。
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、使用【邮箱】和【手机号】正常的接收验证码并进行验证。
 

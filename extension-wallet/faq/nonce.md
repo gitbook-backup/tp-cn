@@ -30,7 +30,7 @@ TokenPocket移动端默认支持订单的加速或取消功能，后续也会增
 
 收款地址为其他地址，增加gwei，设置自定义nonce后相当于覆盖卡住的订单，并转出到对应的地址中。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 自定义nonce中填入7，然后点击【确认】即可完成卡住订单（相同nonce值）的覆盖。
 

@@ -34,7 +34,7 @@
 
 2.在确保了解关于钱包的安全要点后， 点击<mark style="color:orange;">**【点击此处显示助记词】**</mark>，并进行备份，备份完成后点击<mark style="color:orange;">**【下一步】**</mark>;
 
-![](<../../../.gitbook/assets/6 (11).png>)
+![](<../../../.gitbook/assets/6 (11) (1).png>)
 
 3\. 输入已备份好的助记词并点击<mark style="color:orange;">**【确认】**</mark>；
 

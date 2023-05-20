@@ -1,60 +1,58 @@
-# 跨链聚合闪兑平台Transit Swap2.0 教程
+# Transit Swap 使用教程
 
-**关于Transit Swap：**
+### <mark style="color:orange;">关于Transit Swap：</mark>
 
 TokenPocket孵化的跨链聚合闪兑平台，将集去中心化闪兑、聚合交易、一站式跨链等功能于一身，用户无需经过认证，即可完成去中心化的即时交易，并完成TokenPocket支持的多链资产的即时兑换。
 
 Transit Swap的跨链聚合闪兑平台将会打通主流公链资产的跨链流动性通道，为用户和项目提供一站式的跨链服务，旨在打造头部公链跨链流量聚集地。
 
-**Transit Swap 2.0 功能简介：**
+### <mark style="color:orange;">**Transit Swap功能展示：**</mark>
 
-Transit Swap2.0新版本在1.0的跨链兑换基础上增加了聚合闪兑功能，根据用户登录当前所在公链的DEX来自动分析最优价格来兑换，使代币转换率最优，达到“一聚万链，万链归一”。
+<figure><img src="../../.gitbook/assets/3 - 副本 - 副本.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/xswap0.png)
+### <mark style="color:orange;">**Transit Swap 使用教程：**</mark>
 
-**Transit Swap2.0 使用教程：**
+### **同链兑换：**
 
-1、打开TokenPocket, 点击【资产】页面的【闪兑】，或在【发现】页面搜索【Transit Swap】。进入闪兑页面后，选择待兑换的代币种类。（以HECO链上HT兑换USDT为例）
+1、打开TokenPocket, 点击【资产】页面顶部的【闪兑】入口，或在【发现】页面打开【Transit Swap】。闪兑链接：[**h**<mark style="color:blue;">**ttps://swap.transit.finance/**</mark>](https://swap.transit.finance/)
 
-![](../../.gitbook/assets/xswap1.png)
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-2、选择好兑换代币，设置想要兑换的代币数量（务必要留下足够的矿工费），接收代币的数量将自动显示。收款地址会默认当前登录地址。点击下方的【聚合闪兑】打开界面中可以看到当前公链中的常用DEX的兑换比例，Transit Swap这里可以获得最优的兑换。（聚合闪兑会收取一定手续费）
+2、进入闪兑界面，默认是【兑换】的服务界面，在这里只需要选择兑出网络代币和数量，再选择兑入网络代币和数量，核对兑换的数据正常后，就可以点击【确定兑换】并等待兑换完成，兑换的失效和支付的gas以及链上的拥堵情况而定。
 
-![](../../.gitbook/assets/xswap2.png)
+选择网络界面中公链列表可以左滑，地址栏中可以直接填入某个代币的合约地址来精确查找。
 
-3、兑换授权后，可以在下方的【兑换记录】里看到当前聚合闪兑的交易状态。兑换成功后，【兑换记录】右上侧可以【删除】兑换记录或者【刷新】兑换状态。
+<figure><img src="../../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
 
-注意：如果遇到当前公链网络拥堵的时候，可以在授权的时候灵活调整更高矿工费达到加速交易的目的。
+3、因为一些代币在交易买卖的时候会设置滑点，所以这里需要针对代币实际的滑点情况进行调整，可以选择界面右上方的小齿轮标识的【设置】功能进行调整，也可以在兑换的详情界面中点击【滑点】进行调整。
 
-![](../../.gitbook/assets/xswap3.png)
+<figure><img src="../../.gitbook/assets/3 - 副本.png" alt=""><figcaption></figcaption></figure>
 
-**不在列表中的代币如何进行兑换交易？**
+### 跨链兑换：
 
-1、在Transit Swap2.0 的代币列表中只显示有部分代币，那么如果需要交易其他代币如何操作。点击选择需要兑换的代币，在列表上部的搜索栏可以填入代币的合约地址来搜寻所需代币（只要是在链上发行的代币都可以搜索到）。
+跨链兑换可以有两种方式选择，第一种方式在【兑换】界面的兑出兑入的网络选择中直接进行选择，确定好代币及数量后就可以出现选择收款地址的入口，这里建议直接点击选择本地导入中的地址，因为复制地址可能会存在一些外界因素的干扰。<mark style="color:red;">**（请一定不要使用交易所的收款地址作为兑入的收款地址）**</mark>
 
-![](../../.gitbook/assets/xswap4.png)
+第二种方式可以点击顶部的【跨链】选项，在这里首先学着需要兑换的代币种类和数量，然后选择兑出和兑入的网络，最后选择收款地址后进行兑换操作。<mark style="color:red;">**（请一定不要使用交易所的收款地址作为兑入的收款地址）**</mark>
 
-2、搜索到代币后，点击【添加】弹出添加自定义代币窗口，注意查看红色字体内容，请认真核对好代币合约地址，以防添加假币，在确认后点击【确认添加】即可进行兑换。
+兑换详情中会看到当前兑换的比例、手续费、最大的兑换数量以及兑换路径（可以灵活选择），跨链兑换的步骤就是：地址1--合约地址--地址2，这样的流程。
 
-![](../../.gitbook/assets/xswap5.png)
+<figure><img src="../../.gitbook/assets/6 (12).png" alt=""><figcaption></figcaption></figure>
 
-3、添加所需代币后，只需要在列表中选择已添加的代币和兑换目标代币，设置数量后点击【授权】进行聚合闪兑即可。
+### 兑换中的一些状态
 
-![](../../.gitbook/assets/xswap6.png)
+在执行兑换的过程中会有不同的状态显示，例如兑换成功/失败、授权成功/失败、订单超时、订单失败
 
-**注意事项：**
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>兑换进行中</p></figcaption></figure>
 
-1、选择代币列表中可以看到币安小图标的代表可以跨链兑换，X小图标的代表可以进行聚合闪兑。（当前公链下的聚合闪兑）
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>兑换成功</p></figcaption></figure>
 
-![](../../.gitbook/assets/xswap7.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>授权成功</p></figcaption></figure>
 
-2、不同公链间兑换，不可以使用箭头所示的双向变换功能。
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>授权失败</p></figcaption></figure>
 
-![](../../.gitbook/assets/xswap8.png)
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>兑换订单超时‘’</p></figcaption></figure>
 
-3、遇到交易有销毁机制类代币，会需要提高滑点方可兑换成功，所以在聚合闪兑中可以点击滑点来根据自己的实际情况灵活调整。
-
-![](../../.gitbook/assets/xswap9.png)
+通过transit兑换的订单，可以复制哈希值到transit浏览器中查询兑换的状态：[<mark style="color:blue;">**https://explorer.transit.finance/#/**</mark>](https://explorer.transit.finance/#/)
 
 {% hint style="info" %}
 本教程仅为DApp在钱包端的操作指南，不代表TokenPocket的投资建议。投资有风险，您须充分认识风险，并自行作出投资决策。
