@@ -148,5 +148,5 @@ SHA256工具：
 
 工具二：点击[<mark style="color:blue;">**下载工具**</mark>](https://cr5.198254.com/com.hobbyone.hashdroid.apk) 这款工具的功能更加强大，支持md5、sha256等多种哈希算法验证。同样的安装打开后，点击切换到【HASH A FILE】，点击【Select a hash function】选择例如sha256，点击【CLICK HERE TO SELECT THE FILE TO HASH】来找到需要验证的apk，加载后点击【CALCULATE】即可计算出apk的sha256哈希值用于和官方的参数进行对比。
 
-![](<../../.gitbook/assets/2 (20).png>)
+![](<../../.gitbook/assets/2 (20) (2).png>)
 

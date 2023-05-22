@@ -10,7 +10,7 @@ Uniswap从界面上属于比较干练、简约风格的，非常适合新手操�
 
 1、打开TokenPocket，点击【发现】进入发现界面后在推荐位中打开或点击顶部，搜索Uniswap。
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、打开后默认显示【兑换】界面，分别输入转出的代币和需要兑换的代币，并输入数量（输入转出数量后，兑换的数量将自动显示），然后点击【兑换】；
 
