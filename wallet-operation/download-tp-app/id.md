@@ -12,7 +12,7 @@
 
 3、完成两次验证后就进入到了账号界面，需要点击右上方的下拉箭头并选择【付款与配送】，在付款与配送界面中的第一项显示是【无付款方式】就不需要额外设置，通常都会这样默认显示。点击下方的【添加配送地址】。
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 4、页面中的内容可以用英文随便填写，省/市选择**阿拉斯加**，因为这个地区可以免税，购买App也可以免税。具体的个人信息填写可以通过网站生成：[美国身份证生成](https://link.zhihu.com/?target=https%3A//www.shenfendaquan.com/)
 

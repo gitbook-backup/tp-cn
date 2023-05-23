@@ -4,4 +4,4 @@
 
 打开TokenPocket，进入到【投票管理】界面，点击界面中的【领取奖励】在交易详情中点击【确认】后即可收取到奖励。
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3) (5).png" alt=""><figcaption></figcaption></figure>
