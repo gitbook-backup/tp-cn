@@ -22,7 +22,7 @@
 
 **质押/资源管理菜单：**用于操作质押2.0中的所有操作事项
 
-<figure><img src="../../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、点击【质押管理】，可以选择【冻结】和【解冻】根据自己实际的带宽/能量的需求进行选择。
 

@@ -86,6 +86,7 @@
   * [什么是以太坊交易加速](faq/ethwallet/transaction-accelerator.md)
   * [什么是Permit2](faq/ethwallet/permit2.md)
 * [TRON钱包](faq/tron-wallet/README.md)
+  * [如何批量创建波场钱包](faq/tron-wallet/batch.md)
   * [如何使用波场能量租赁](faq/tron-wallet/energy.md)
   * [如何购买波场TRX代币](faq/tron-wallet/buy-trx.md)
   * [什么是超级代表](faq/tron-wallet/representatives.md)
