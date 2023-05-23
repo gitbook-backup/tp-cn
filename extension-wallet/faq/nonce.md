@@ -20,7 +20,7 @@ TokenPocket移动端默认支持订单的加速或取消功能，后续也会增
 
 1、找到卡住的交易订单，并记录nonce值并记录，例如下图订单中的7。
 
-<figure><img src="../../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、正常的填入转账参数，点击【下一步】，在GWEI中提高一定比例，例如百分之二十的数量，然后进行自定义nonce设置。
 

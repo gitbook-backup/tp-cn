@@ -14,4 +14,4 @@
 
 3、批量添加钱包单次最多可以添加200个地址，可以多批次添加；点击【确认】并输入密码即可创建成功，在钱包列表中可以查看创建记录。
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
