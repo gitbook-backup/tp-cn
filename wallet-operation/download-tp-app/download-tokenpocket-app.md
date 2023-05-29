@@ -2,9 +2,11 @@
 
 【安卓版本】
 
-安卓手机用户请到TokenPocket官网下载最新版本。（注意：TokenPocket唯一官方网址为：[https://tokenpocket.pro/](https://tokenpocket.pro)）
+安卓手机用户请到TokenPocket官网下载最新版本。
 
- 
+（注意：TokenPocket官方网址为：[https://tokenpocket.pro/](https://tokenpocket.pro)    [https://www.tpwallet.io](https://www.tpwallet.io)）
+
+&#x20;
 
 【苹果版本】
 
@@ -14,10 +16,7 @@
 
 
 
-需注意：为遵循苹果商店App Store的审核规范，我们已对TestFlight端的Pro版本停止更新。Pro版本将在用户使用期满后无法打开使用，请尽快根据教程下载海外商店TokenPocket版本，在此过程中，请务必备份和验证好您的私钥和助记词等重要信息并做好迁移工作，迁移过程中请务必保护好私钥、助记词，不要在网络上存储及传播，更不要与任何人共享。
+<mark style="color:red;">**（2022年10月8日之前在App Store中下载的开发商为：TOKENPOCKET FOUNDATION LTD**</mark> <mark style="color:red;">**是TokenPocket开发的早期版本，也是正版钱包可以正常的使用，后续将暂停更新服务。）**</mark>
 
- 
 
-Pro版本用户可以使用“一键迁移”功能在本设备上将数据迁移至App Store版本TokenPocket，务必做好迁移数据的核对。
 
- 
