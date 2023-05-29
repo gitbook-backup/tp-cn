@@ -1,6 +1,6 @@
 # 如何注册Apple ID
 
-1、打开注册链接，可以在PC端或者手机登录([Apple ID Account](https://link.zhihu.com/?target=https%3A//appleid.apple.com/account))。
+1、打开注册链接，可以在PC端或者手机登录([<mark style="color:blue;">**Apple ID Account**</mark>](https://appleid.apple.com/account))。
 
 名字和姓氏要使用英文填写，国家要宣传非内地地区出生日期（年龄）要大于18岁。填写一个没有注册过Apple ID的邮箱，正常的设置密码，在这里填入内地的手机号并完成最后的图片字符验证后点击【继续】。
 
@@ -14,7 +14,7 @@
 
 <figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
-4、页面中的内容可以用英文随便填写，省/市选择**阿拉斯加**，因为这个地区可以免税，购买App也可以免税。具体的个人信息填写可以通过网站生成：[美国身份证生成](https://link.zhihu.com/?target=https%3A//www.shenfendaquan.com/)
+4、页面中的内容可以用英文随便填写，省/市选择**阿拉斯加**，因为这个地区可以免税，购买App也可以免税。具体的个人信息填写可以通过网站生成：[<mark style="color:blue;">**美国身份证生成**</mark>](https://www.shenfendaquan.com/)
 
 美区其它免税区包括：蒙大拿州（Montana）俄勒冈州（Oregon）阿拉斯加州（Alaska）特拉华州（Delaware）新罕布什尔州（New Hampshire）。
 
