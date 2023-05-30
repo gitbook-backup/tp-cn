@@ -28,7 +28,7 @@
 
 1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择zkSync Era∎;
 
-<figure><img src="../../.gitbook/assets/cn1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn1 (2).png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
 
