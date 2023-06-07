@@ -90,6 +90,7 @@
 * [BSC钱包](faq/bsc/README.md)
   * [如何批量创建BSC钱包](faq/bsc/batch.md)
 * [TRON钱包](faq/tron-wallet/README.md)
+  * [如何创建波场钱包](faq/tron-wallet/create.md)
   * [TokenPocket能量租赁服务](faq/tron-wallet/energy.md)
   * [如何批量创建波场钱包](faq/tron-wallet/batch.md)
   * [TRON质押2.0使用方法](faq/tron-wallet/energy-1.md)

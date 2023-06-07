@@ -10,7 +10,7 @@
 
 2、在钱包列表中可以查看已经创建过的子钱包历史记录，点击【生成新钱包】选择【批量添加钱包】。
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 3、批量添加钱包单次最多可以添加200个地址，可以多批次添加；点击【确认】并输入密码即可创建成功，在钱包列表中可以查看创建记录。
 

@@ -4,7 +4,7 @@
 
 1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，在网络（公链）界面中选择EOS EVM**;**
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【创建钱包】**；在创建方式中选择**【创建钱包】**;
 
@@ -16,7 +16,7 @@
 
 4、确认了解并勾选选项内容，点击**【下一步】,**然后开始备份助记词，点击**【备份完成，进行验证】**；
 
-<figure><img src="../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 5、按顺序填入备份好的钱包助记词，点击**【确认】**,至此，您已成功创建EOS EVM钱包。
 
@@ -28,7 +28,7 @@
 
 1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，在网络（公链）界面中选择EOS EVM**;**;
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、点击后，在弹出的界面中选择**【导入钱包】，**选择导入方式；
 
