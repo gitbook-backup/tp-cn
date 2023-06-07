@@ -16,7 +16,7 @@ Transit Swap的跨链聚合闪兑平台将会打通主流公链资产的跨链�
 
 1、打开TokenPocket, 点击【资产】页面顶部的【闪兑】入口，或在【发现】页面打开【Transit Swap】。闪兑链接：[**h**<mark style="color:blue;">**ttps://swap.transit.finance/**</mark>](https://swap.transit.finance/)
 
-<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 2、进入闪兑界面，默认是【兑换】的服务界面，在这里只需要选择兑出网络代币和数量，再选择兑入网络代币和数量，核对兑换的数据正常后，就可以点击【确定兑换】并等待兑换完成，兑换的失效和支付的gas以及链上的拥堵情况而定。
 
