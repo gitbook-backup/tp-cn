@@ -175,7 +175,7 @@
   * [TokenPocket一文带你玩转Arbitrum!](wallet-operation/create-wallet-tutorial/arbitrum.md)
   * [如何在TokenPocket玩转Polygon（Matic）?](wallet-operation/create-wallet-tutorial/transfer-assets-from-ethereum-and-bsc-to-polygon.md)
   * [如何在TokenPocket使用Klaytn?](wallet-operation/create-wallet-tutorial/klaytn-use-guide.md)
-* [如何创建波场钱包](wallet-operation/create.md)
+  * [如何创建波场钱包](wallet-operation/create-wallet-tutorial/create.md)
 * [关于自定义网络](wallet-operation/about-custom-networks/README.md)
   * [Moonriver-添加自定义网络教程](wallet-operation/about-custom-networks/moonriver-add-custom-network.md)
   * [自定义网络推广链接](wallet-operation/about-custom-networks/customize-network-add-link.md)
