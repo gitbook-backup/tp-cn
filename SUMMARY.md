@@ -91,7 +91,7 @@
   * [如何批量创建BSC钱包](faq/bsc/batch.md)
 * [TRON钱包](faq/tron-wallet/README.md)
   * [如何批量创建波场钱包](faq/tron-wallet/batch.md)
-  * [如何使用波场能量租赁](faq/tron-wallet/energy.md)
+  * [TRON质押2.0使用方法](faq/tron-wallet/energy.md)
   * [如何购买波场TRX代币](faq/tron-wallet/buy-trx.md)
   * [什么是超级代表](faq/tron-wallet/representatives.md)
   * [什么是质押2.0](faq/tron-wallet/2.0.md)
