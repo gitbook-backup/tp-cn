@@ -306,7 +306,7 @@
   * [2022/01/25 关于Klayten维护升级的通知](announcement/announcement/Klayten-Upgrade.md)
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/announcement/EOS-Upgrade.md)
 * [APP更新](announcement/update/README.md)
-  * [版本更新日志（6/07/2023）](announcement/update/ban-ben-geng-xin-ri-zhi-6072023.md)
+  * [版本更新日志（6/07/2023）](announcement/update/version-update-20230607.md)
   * [版本更新日志（6/03/2023）](announcement/update/version-update-20230603.md)
   * [版本更新日志（5/25/2023）](announcement/update/version-update-20230525.md)
   * [版本更新日志（5/23/2023）](announcement/update/version-update-20230523.md)
