@@ -18,7 +18,7 @@ iOS: 2.0.9
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-其他更新渠道：Google Play ,HuaWei ,Samsung ,Vivo 审核中
+其他更新渠道：Google Play
 
 
 
