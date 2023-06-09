@@ -1,18 +1,17 @@
-# 版本更新日志（6/03/2023）
+# 版本更新日志（6/09/2023）
 
-**最新版本号】**
+**【最新版本号】**
 
-iOS：2.0.9
-
-Android: 1.7.5
+Android: 1.7.7
 
 
 
-**【本期iOS版本更新内容】**
+**【更新内容】**
 
-1. 支持KeyPal硬件钱包。
-2. 支持Ordinals 的BTCDomain域名解析。
+1. 支持Ordinals。
+2. 支持Permit2解析。
 3. 波场网络转账页面新增能量入口。
+4. 优化WalletConnect V2。
 
 
 
@@ -20,7 +19,7 @@ Android: 1.7.5
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-从Google Play，HuaWei，Samsung市场更新
+从Google Play，HuaWei，Samsung市场更新 (审核ing)
 
 
 
