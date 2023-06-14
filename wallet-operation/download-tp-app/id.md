@@ -8,7 +8,7 @@
 
 2、使用【邮箱】和【手机号】正常的接收验证码并进行验证。
 
-<figure><img src="../../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 3、完成两次验证后就进入到了账号界面，需要点击右上方的下拉箭头并选择【付款与配送】，在付款与配送界面中的第一项显示是【无付款方式】就不需要额外设置，通常都会这样默认显示。点击下方的【添加配送地址】。
 

@@ -60,8 +60,9 @@
 ## 📨 钱包常见问题 <a href="#faq" id="faq"></a>
 
 * [BTC钱包](faq/btcwallet/README.md)
+  * [在钱包中查看和发送Ordinals铭文](faq/btcwallet/ordinals.md)
   * [什么是部分签名的比特币交易（PSBT）](faq/btcwallet/psbt.md)
-  * [什么是比特币Ordinals](faq/btcwallet/ordinals.md)
+  * [什么是比特币Ordinals](faq/btcwallet/ordinals-1.md)
   * [什么是BTC网络拥堵，如何解决。](faq/btcwallet/congestion.md)
   * [什么是观察钱包](faq/btcwallet/Watch-wallet.md)
   * [什么是找零地址](faq/btcwallet/change-address.md)

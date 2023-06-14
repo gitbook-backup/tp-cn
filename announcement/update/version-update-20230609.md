@@ -19,7 +19,7 @@ Android: 1.7.7
 
 安卓用户App内提示更新，或官网下载最新版本。
 
-从Google Play，HuaWei，Samsung市场更新 (审核ing)
+从Google Play，HuaWei，Samsung市场更新&#x20;
 
 
 

@@ -8,7 +8,7 @@ TokenPocket移动端默认支持订单的加速或取消功能，后续也会增
 
 打开TokenPocket插件钱包，点击右上角【菜单】，选择【设置】功能、
 
-<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 在设置界面中点击【高级】选择自定义nonce，打开开关，就可以完成功能的启用。
 

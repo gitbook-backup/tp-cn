@@ -16,7 +16,7 @@
 
 1、打开TokenPocket，点击工具栏中的【带宽/能量】菜单，在带宽/能量界面中包含多种功能。
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、资源租赁界面主要分为四个功能区。
 
