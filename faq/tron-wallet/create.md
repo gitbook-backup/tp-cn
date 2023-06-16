@@ -4,7 +4,7 @@
 
 1、打开TokenPocket，首次使用点击【我没有钱包】，在列表中选择【波场】钱包并创建。
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2、创建方式分为三种，并且每个创建方式都有其特有的功能；点击【创建钱包】，钱包名称可以自定义，密码最低8位，建议使用高强度的密码组合，勾选用户协议后点击【创建钱包】即可跳转下一界面。
 
@@ -12,7 +12,7 @@
 
 **观察钱包：**可以使用任何的符合当前公链的地址导入查看数据，也可以配合冷钱包交互使用。
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
 
 3、区块链资产安全的核心就是私钥助记词，私钥可以在创建钱包后导出备份。助记词和私钥一定要使用离线的方式备份和保存，不要发生丢失和泄露；阅读或观察相关内容后勾选几点注意事项即可点击下一步。
 
