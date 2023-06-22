@@ -273,7 +273,6 @@
   * [版本更新日志（06/22/2023）](extension-wallet/update-log/jun-22.md)
   * [版本更新日志（06/05/2023）](extension-wallet/update-log/jun-05.md)
   * [版本更新日志（06/02/2023）](extension-wallet/update-log/jun-02.md)
-  * [版本更新日志（06/02/2023）](extension-wallet/update-log/jun-02-1.md)
   * [版本更新日志（05/19/2023）](extension-wallet/update-log/may-19.md)
   * [版本更新日志（03/05/2023）](extension-wallet/update-log/mar-5.md)
   * [版本更新日志（03/01/2023）](extension-wallet/update-log/mar-1.md)
