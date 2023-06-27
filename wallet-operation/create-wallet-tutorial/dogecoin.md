@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">如何在TokenPocket上创建狗狗链（Dogecoin）钱包？</mark>
 
-1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (3) (1).png>)，然后选择**Dogecoin;**
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (3) (1) (2).png>)，然后选择**Dogecoin;**
 
 <figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 

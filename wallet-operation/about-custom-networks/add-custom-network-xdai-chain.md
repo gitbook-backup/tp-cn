@@ -1,8 +1,8 @@
 ---
-description: 本教程通过自定义网络添加xDAI Chain进行演示
+description: 本教程通过自定义网络添加Base Goerli测试网络进行演示
 ---
 
-# 如何添加自定义网络？
+# 如何添加自定义网络
 
 **关于自定义网络：**
 
@@ -10,31 +10,23 @@ description: 本教程通过自定义网络添加xDAI Chain进行演示
 
 
 
-**如何添加自定义网络?**
+**如何添加自定义网络**
 
-1、打开TokenPocket钱包，点击右上角第一个图标【添加钱包】；
+1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (21).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
 
-![](<../../.gitbook/assets/1 (35) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/1320cacc56da811900195794d6140488_1677552225159-f0c1375e-8d7f-455e-9fdd-364d12d73600_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-2、列表拉到底部，点击【添加自定义网络】；
+2、在自定义网络编辑界面中，点击右上角的【便捷入口】，在打开界面顶部填入关键词base，选择正确的公链。
 
-![](../../.gitbook/assets/xdai02.jpg)
+<figure><img src="../../.gitbook/assets/2f9d5a8393aa68ba93d51b8ad4e408e4_1677552241352-6c8ad2a0-05b5-4d91-8e82-b784da8afe10_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-3、自定义网络可以自己设置所需参数，也可以点击右上角的【快捷入口】来快速选择所需网络，通过顶部还可以进行搜索，大大的方便了用户四处寻求可用网络节点参数的问题。
+3、点击Base Goerli公链后会看到下面的参数提示：点击右下角【确认】即可完成新增自定义网络的操作。
 
-![](../../.gitbook/assets/xdai1.jpg)
+<figure><img src="../../.gitbook/assets/96956d33eb93cec9c1942cd4e92230bd_1677552273284-8572ddf3-6e67-4851-8f8b-f1bc3a586ae8_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-4、例如我们选择的xDAI链，选中后可以看到网络数据已经自动填入，只需要点击【保存】即可在列表中看到，通常位于列表的最后一个位置。
+4、点击新增网络，可以看到【创建钱包】和【导入钱包】两个选项，可以根据自己的实际需求来创建或导入Base Goerli 公链钱包。
 
-![](../../.gitbook/assets/xdai2.jpg)
-
-![](<../../.gitbook/assets/xdai3 (1).jpg>)
-
-5、点击新添加的xDAI网络，可选择【创建】或【导入】钱包，即可完成自定义网络的快速添加和使用。
-
-![](../../.gitbook/assets/xdai4.jpg)
-
-![](../../.gitbook/assets/xdai5.jpg)
+<figure><img src="../../.gitbook/assets/ebdec5df8f4db1905418edd9cc2103ce_1677552283676-06e97a93-7567-4459-a402-db5d124db6be_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
 **注意：**TokenPocket 无法验证自定义网络的安全性，请仅添加可信任的网络。\
 
