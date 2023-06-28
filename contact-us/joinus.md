@@ -6,9 +6,9 @@
 
 ### <mark style="color:blue;">**联系我们**</mark>
 
-简历投递及咨询请通过以下联系方式：
+如需简历投递及咨询，请联系：
 
-**邮箱：hr@tokenpocket.pro**
+#### **电子邮件：hr@tokenpocket.pro**
 
 
 
@@ -415,6 +415,6 @@
 
 ### <mark style="color:blue;">**联系我们**</mark>
 
-简历投递及咨询请通过以下联系方式：
+如需简历投递及咨询，请联系：
 
-**邮箱：hr@tokenpocket.pro**\
+#### **电子邮件：hr@tokenpocket.pro** 
