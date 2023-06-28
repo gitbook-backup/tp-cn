@@ -4,7 +4,7 @@
 
 
 
-1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (2) (1).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
+1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (2) (1) (2).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
 
 <figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
 

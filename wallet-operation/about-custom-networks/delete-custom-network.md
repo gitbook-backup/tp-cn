@@ -2,7 +2,7 @@
 
 新增自定义网络后，会在网络选择列表中多出自定义网络的名称，当我们想去掉这个自定义网络的时候应该怎么操作呢？
 
-1、打开TokenPocket，点击左上角![](<../../.gitbook/assets/image (2) (4).png>)菜单，打开【钱包列表】后，点击左上角![](<../../.gitbook/assets/image (1) (6).png>)菜单。
+1、打开TokenPocket，点击左上角![](<../../.gitbook/assets/image (2).png>)菜单，打开【钱包列表】后，点击左上角![](<../../.gitbook/assets/image (1) (4).png>)菜单。
 
 <figure><img src="../../.gitbook/assets/5ba362b4d29ce4ecfd2f1566adca7a98_1675427243625-a8e73004-1b5c-4a80-a6de-990318f31630_x-oss-process=image%2Fresize%2Cw_828%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
