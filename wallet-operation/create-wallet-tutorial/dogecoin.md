@@ -4,7 +4,7 @@
 
 1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (3) (1).png>)，然后选择**Dogecoin;**
 
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
