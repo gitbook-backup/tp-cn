@@ -4,7 +4,7 @@
 
 Uniswap从界面上属于比较干练、简约风格的，非常适合新手操作，现在已经到了V3版本，其页面也延续前两个版本的简洁风格。目前，Uniswap 已支持包括以太坊、BSC、Arb等公链。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**Uniswap使用教程**</mark> <a href="#1" id="1"></a>
 
