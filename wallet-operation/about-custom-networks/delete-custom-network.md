@@ -16,4 +16,4 @@
 
 4、点击![](../../.gitbook/assets/image.png)后，可以看到自定义网络的界面，在这个界面中可以对导入过的参数进行修改，也可以点击左下角的【删除】功能，点击后弹出是否删除自定义网络的提示，点击【确认】后，这个导入的自定义网络就会被彻底删除。
 
-<figure><img src="../../.gitbook/assets/85f19dd58fc6779f2c496653488a9ffd_1675427243863-b4d54dfb-3a6d-431e-a7eb-6d2db8e37ae0_x-oss-process=image%2Fresize%2Cw_828%2Climit_0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/85f19dd58fc6779f2c496653488a9ffd_1675427243863-b4d54dfb-3a6d-431e-a7eb-6d2db8e37ae0_x-oss-process=image%2Fresize%2Cw_828%2Climit_0.png" alt=""><figcaption></figcaption></figure>
