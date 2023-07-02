@@ -26,7 +26,7 @@
 
 ### <mark style="color:orange;">**如何在TokenPocket导入**</mark><mark style="color:orange;">zkSync Era∎</mark><mark style="color:orange;">**钱包？**</mark>
 
-1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3) (3).png>)，然后选择zkSync Era∎;
+1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择zkSync Era∎;
 
 <figure><img src="../../.gitbook/assets/cn1 (2).png" alt=""><figcaption></figcaption></figure>
 

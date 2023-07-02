@@ -19,7 +19,7 @@
 **别担心!让我们一起来还原这一操作。**\
 1.打开波场浏览器，找到USDT合约地址，点击【合约】--【编写合约】--【transferFrom】
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.在这里分别填入发送地址、接收地址和数量，然后点击【Send】利用插件钱包完成签名后就可以看到底部绿色的【true】说明执行成功。如果这里的数量设置其他，那么会提示已发送的内容，但是因为对方并没有可以调用的数量，所以无法执行成功。**这里消耗的TRX由对方来买单。**
 

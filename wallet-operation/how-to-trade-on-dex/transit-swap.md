@@ -46,7 +46,7 @@ Transit Swap的跨链聚合闪兑平台将会打通主流公链资产的跨链�
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>兑换成功</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption><p>授权成功</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>授权成功</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>授权失败</p></figcaption></figure>
 

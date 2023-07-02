@@ -26,7 +26,7 @@
 
 ### <mark style="color:orange;">**如何在TokenPocket导入Sui钱包？**</mark>
 
-1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3) (3).png>)，然后选择**Sui**;
+1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Sui**;
 
 <figure><img src="../../.gitbook/assets/dogecn1.png" alt=""><figcaption></figcaption></figure>
 

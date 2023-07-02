@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/5ba362b4d29ce4ecfd2f1566adca7a98_1675427243625-a8e73004-1b5c-4a80-a6de-990318f31630_x-oss-process=image%2Fresize%2Cw_828%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-2、进入到钱包管理界面有，点击右下角的![](<../../.gitbook/assets/image (3).png>)菜单，在弹出的菜单中选择【网络管理】。
+2、进入到钱包管理界面有，点击右下角的![](<../../.gitbook/assets/image (3) (2).png>)菜单，在弹出的菜单中选择【网络管理】。
 
 <figure><img src="../../.gitbook/assets/2092f483dab244a94154e4b8bee38ce4_1675427580705-cc313539-4969-4c2a-81e7-0533f258de62_x-oss-process=image%2Fresize%2Cw_828%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
