@@ -14,7 +14,7 @@ TP Global受开曼群岛法律管辖，不受其他国家和地区法律管辖�
 
 开曼群岛之外国家、地区司法机关需要TokenPocket配合进行司法协助的，应该按照开曼群岛相关法律规定，向开曼群岛当局提出协助申请，并开曼群岛总检察长签署生效后，由TP Gloabl按照生效申请的内容予以协助。
 
-在发生自然灾害、社会异常事件、重大卫生事件、局部战争和冲突等不可抗力情况下，或各国司法机关通过开曼群岛当局不能及时获取TokenPocket司法协助的情况下，各国司法机关可通过邮箱 <mark style="color:blue;">**service@tokenpocket.pro**</mark> 向TokenPocket发送请求协助文书，TokenPocket认为有必要的情况下，会向各国司法（执法）机关的监督部门查验协助文书真伪，并将根据开曼群岛法律决定是否协助。
+在发生自然灾害、社会异常事件、重大卫生事件、局部战争和冲突等不可抗力情况下，或各国司法机关通过开曼群岛当局不能及时获取TokenPocket司法协助的情况下，各国司法机关可通过邮箱 <mark style="color:blue;">**legalsupport@tokenpocket.pro**</mark> 向TokenPocket发送请求协助文书，TokenPocket认为有必要的情况下，会向各国司法（执法）机关的监督部门查验协助文书真伪，并将根据开曼群岛法律决定是否协助。
 
 TokenPocket协助开曼群岛之外国家司法机关调查刑事案件的行为，不表示TokenPocket承认司法机关所在国法律对TokenPocket有管辖权。
 
