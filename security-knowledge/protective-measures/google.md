@@ -8,5 +8,5 @@ TP钱包在Google Play（谷歌商店）中的应用产品还是比较容易辨�
 
 2、顶部可以看到开发商<mark style="color:orange;">**TP Global Ltd**</mark>，开发商下面可以看到产品在谷歌市场上的<mark style="color:orange;">**评分、评论下载量**</mark>等数据，如果是假钱包是很难达到这个量级的，所以根据这些信息即可<mark style="color:orange;">**快速区分正版TP钱包**</mark>。
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (3).png" alt=""><figcaption></figcaption></figure>
 

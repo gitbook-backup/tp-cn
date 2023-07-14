@@ -16,7 +16,7 @@
 
 1、打开TokenPocket，点击工具栏中的【带宽/能量】菜单，在带宽/能量界面中包含多种功能。
 
-<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 2、资源租赁界面主要分为四个功能区。
 
@@ -28,7 +28,7 @@
 
 **自助交易：**普通买入和卖出能量，可以把多余的能量参与卖出并获得收益。
 
-<figure><img src="../../.gitbook/assets/2 (2) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击【转账补贴】的领取按钮即可领取满足一次转账USDT的能量额度，如果领取后不使用会在10分钟后过期回收。
 

@@ -8,11 +8,11 @@ TokenPocket移动端默认支持订单的加速或取消功能，后续也会增
 
 打开TokenPocket插件钱包，点击右上角【菜单】，选择【设置】功能、
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 在设置界面中点击【高级】选择自定义nonce，打开开关，就可以完成功能的启用。
 
-<figure><img src="../../.gitbook/assets/2 (2) (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">使用自定义nonce设置转账</mark> <a href="#2" id="2"></a>
 
@@ -30,7 +30,7 @@ TokenPocket移动端默认支持订单的加速或取消功能，后续也会增
 
 收款地址为其他地址，增加gwei，设置自定义nonce后相当于覆盖卡住的订单，并转出到对应的地址中。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 自定义nonce中填入7，然后点击【确认】即可完成卡住订单（相同nonce值）的覆盖。
 

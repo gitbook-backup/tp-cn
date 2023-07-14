@@ -101,7 +101,7 @@
 **如何使用xPollinate将BSC的资产跨链至Polygon？**\
 1、在TokenPocket底部点击【发现】，然后顶部搜索【xPollinate】，并点击进入页面**；**
 
-![](<../../.gitbook/assets/6 (6).png>)
+![](<../../.gitbook/assets/6 (6) (2).png>)
 
 2、点击【Connect】连接钱包地址；（此处以BSC上的资产跨链到Matic为例）
 

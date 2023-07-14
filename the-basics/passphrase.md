@@ -17,3 +17,5 @@ Passphrase的目的是增加钱包的安全性，确保只有持有正确Passphr
 **谨防钓鱼攻击：**注意钓鱼攻击，不要点击来自未知来源或可疑网站的链接，以防止被诱导输入Passphrase。
 
 请记住，Passphrase是访问和控制您虚拟货币资产的关键。如果您遗失或遗忘了Passphrase，可能无法再次访问您的资产，因此妥善保管并确保安全是非常重要的。
+
+#### [<mark style="color:blue;">使用Passphrase方式创建钱包教程</mark>](../security-knowledge/protective-measures/passphrase.md)

@@ -16,7 +16,7 @@ Transit Swap的跨链聚合闪兑平台将会打通主流公链资产的跨链�
 
 1、打开TokenPocket, 点击【资产】页面顶部的【闪兑】入口，或在【发现】页面打开【Transit Swap】。闪兑链接：[**h**<mark style="color:blue;">**ttps://swap.transit.finance/**</mark>](https://swap.transit.finance/)
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 2、进入闪兑界面，默认是【兑换】的服务界面，在这里只需要选择兑出网络代币和数量，再选择兑入网络代币和数量，核对兑换的数据正常后，就可以点击【确定兑换】并等待兑换完成，兑换的失效和支付的gas以及链上的拥堵情况而定。
 
@@ -42,11 +42,11 @@ Transit Swap的跨链聚合闪兑平台将会打通主流公链资产的跨链�
 
 在执行兑换的过程中会有不同的状态显示，例如兑换成功/失败、授权成功/失败、订单超时、订单失败
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>兑换进行中</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption><p>兑换进行中</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>兑换成功</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>授权成功</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>授权成功</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>授权失败</p></figcaption></figure>
 
