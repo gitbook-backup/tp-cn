@@ -1,6 +1,6 @@
 # TokenPocket带您一文玩转Base
 
-### <mark style="color:orange;">如何在TokenPocket上创建Base钱包？</mark>
+### <mark style="color:orange;">如何在TokenPocket上创建Base钱包？</mark> <a href="#1" id="1"></a>
 
 1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，然后选择**Base;**
 
@@ -24,7 +24,7 @@
 
 <figure><img src="../../.gitbook/assets/cn 3 (3).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">**如何在TokenPocket导入Base钱包？**</mark>
+### <mark style="color:orange;">**2如何在TokenPocket导入Base钱包？**</mark> <a href="#2" id="2"></a>
 
 1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Base**;
 
