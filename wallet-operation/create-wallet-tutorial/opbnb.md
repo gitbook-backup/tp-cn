@@ -1,49 +1,41 @@
 # TokenPocket带您一文玩转opBNB
 
-### <mark style="color:orange;">如何在TokenPocket移动端添加opBNB网络</mark> <a href="#oei4g" id="oei4g"></a>
+### <mark style="color:orange;">如何在TokenPocket上创建opBNB钱包？</mark> <a href="#1" id="1"></a>
 
-1、打开TokenPocket，点击右上角![](broken-reference)位置【添加钱包】，在宣传网络界面中点击最底部的【添加自定义网络】。
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，然后选择**opBNB;**
 
-<figure><img src="../../.gitbook/assets/1 (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 1.png" alt=""><figcaption></figcaption></figure>
 
-2、在自定义网络编辑界面中填入数据
+2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
-* Name: opBN TESTNET （自定义）
-* RPC URL: https://opbnb-testnet-rpc.bnbchain.org
-* Chain ID: 5611
-* Currency symbol: tcBNB
-* Block Explorer URL: https://opbnbscan.com
+<figure><img src="../../.gitbook/assets/组 109.png" alt=""><figcaption></figcaption></figure>
 
-点击【确认】即可完成新增自定义网络的操作，添加完成后即可在选择网络列表最后位置中看到。
+3、依次设置**【钱包名称】**和**【密码】**，然后勾选**【用户协议】**，点击**【创建钱包】**；请认真观看学习视频内容，点击**【我知道了】**；
 
-<figure><img src="../../.gitbook/assets/2 (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 2.png" alt=""><figcaption></figcaption></figure>
 
-3、点击新添加opBNB公链后可选【创建钱包】或【导入钱包】方式创建钱包，创建完成后即可进入钱包主界面。
+4、确认了解并勾选选项内容，点击**【下一步】,**然后开始备份助记词，点击**【备份完成，进行验证】**；
 
-<figure><img src="../../.gitbook/assets/3 (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-**除了常规的【创建和导入钱包】，还可以使用TokenPocket的钱包同步功能来快速完成其他EVM公链的同步操作，方法如下：**
+5、按顺序填入备份好的钱包助记词，点击**【确认】**,至此，您已成功创建**opBNB**钱包。
 
-* 打开TokenPocket，点击蓝色卡牌的右上角【详情】
+<mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 78.png" alt=""><figcaption></figcaption></figure>
 
-* 选择【钱包同步】，在钱包同步界面中下拉找到需要同步的公链后勾选，然后点击【开始同步】即可完成钱包同步的操作。
+### <mark style="color:orange;">**2如何在TokenPocket导入opBNB钱包？**</mark> <a href="#2" id="2"></a>
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**opBNB**;
 
-### <mark style="color:orange;">如何在TokenPocket插件端添加opBNB网络</mark>
+<figure><img src="../../.gitbook/assets/cn 1.png" alt=""><figcaption></figcaption></figure>
 
-1、点击左上角切换网络，点击【自定义 RPC】。
+2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
 
-<figure><img src="../../.gitbook/assets/1 (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 110.png" alt=""><figcaption></figcaption></figure>
 
-2、在自定义网络参数中按照下面的内容输入，完成后点击【保存】即可完成自定义opBNB网络的创建。
+3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入**opBNB**钱包。
 
-* Name: opBN TESTNET （自定义）
-* RPC URL: https://opbnb-testnet-rpc.bnbchain.org
-* Chain ID: 5611
-* Currency symbol: tcBNB
-* Block Explorer URL: https://opbnbscan.com
+<mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/2 (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 4.png" alt=""><figcaption></figcaption></figure>

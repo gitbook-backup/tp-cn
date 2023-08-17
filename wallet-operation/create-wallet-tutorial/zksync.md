@@ -22,7 +22,7 @@
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/cn 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**如何在TokenPocket导入**</mark><mark style="color:orange;">zkSync Era∎</mark><mark style="color:orange;">**钱包？**</mark>
 
