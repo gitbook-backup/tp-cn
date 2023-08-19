@@ -321,6 +321,7 @@
   * [2021/12/02 关于EOS节点维护升级的通知](announcement/announcement/EOS-Upgrade.md)
 * [APP更新](announcement/update/README.md)
   * [🆕 版本更新日志查看入口](announcement/update/version-update.md)
+  * [版本更新日志（8/20/2023）](announcement/update/version-update-20230820.md)
   * [版本更新日志（7/19/2023）](announcement/update/version-update-20230719.md)
   * [版本更新日志（7/15/2023）](announcement/update/version-update-20230701.md)
   * [版本更新日志（7/1/2023）](announcement/update/version-update-20230701-1.md)
