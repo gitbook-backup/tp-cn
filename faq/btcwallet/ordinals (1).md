@@ -26,7 +26,7 @@ Taproot更新是 Ordinals NFT的关键推动因素，它将NFT数据存储在 Ta
 
 1、打开TokenPocket的BTC钱包，在资产界面中点击【NFT】菜单，在NFT分类中可以查看Ordinals铭文。Ordinals目前的用法分为2种，一种是纯粹NFT，另一种是BRC20，TokenPocket暂支持Ordinals铭文的查看、接收和发送。
 
-<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 2、打开铭文内容，在【详情】中可以看到这个铭文的参数，点击【铭文ID】或【铭刻哈希】都可以直接跳转到浏览器中查看更详细的执行内容。
 
