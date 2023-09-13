@@ -4,7 +4,7 @@
 
 1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，然后选择**Base;**
 
-<figure><img src="../../.gitbook/assets/cn 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
@@ -28,7 +28,7 @@
 
 1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Base**;
 
-<figure><img src="../../.gitbook/assets/cn 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
 
