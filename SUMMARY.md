@@ -151,6 +151,7 @@
   * [SushiSwap（OKEX）使用教程](wallet-operation/how-to-trade-on-dex/dex-sushi.md)
 * [创建钱包教程](wallet-operation/create-wallet-tutorial/README.md)
   * [如何批量创建子钱包](wallet-operation/create-wallet-tutorial/batch.md)
+  * [TokenPocket带你一文玩转Zetachain测试网](wallet-operation/create-wallet-tutorial/zetachain-testnet.md)
   * [TokenPocket带您一文玩转Polygon zkEVM](wallet-operation/create-wallet-tutorial/polygon-zkevm.md)
   * [TokenPocket带您一文玩转opBNB](wallet-operation/create-wallet-tutorial/opbnb.md)
   * [TokenPocket带您一文玩转Base](wallet-operation/create-wallet-tutorial/base.md)
