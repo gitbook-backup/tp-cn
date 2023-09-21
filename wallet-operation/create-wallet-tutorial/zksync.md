@@ -12,7 +12,7 @@
 
 3、依次设置**【钱包名称】**和**【密码】**，然后勾选**【用户协议】**，点击**【创建钱包】**；请认真观看学习视频内容，点击**【我知道了】**；
 
-<figure><img src="../../.gitbook/assets/cn 2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 2 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、确认了解并勾选选项内容，点击**【下一步】,**然后开始备份助记词，点击**【备份完成，进行验证】**；
 

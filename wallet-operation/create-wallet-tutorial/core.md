@@ -12,7 +12,7 @@
 
 3、依次设置**【钱包名称】**和**【密码】**，然后勾选**【用户协议】**，点击**【创建钱包】**；请认真观看学习视频内容，点击**【我知道了】**；
 
-<figure><img src="../../.gitbook/assets/cn 2 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 2.png" alt=""><figcaption></figcaption></figure>
 
 4、确认了解并勾选选项内容，点击**【下一步】,**然后开始备份助记词，点击**【备份完成，进行验证】**；
 
@@ -22,13 +22,13 @@
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/组 78 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 78.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**如何在TokenPocket导入Core钱包？**</mark> <a href="#2" id="2"></a>
 
 1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Core**;
 
-<figure><img src="../../.gitbook/assets/cn 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 84.png" alt=""><figcaption></figcaption></figure>
 
 2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
 
@@ -38,4 +38,4 @@
 
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-<figure><img src="../../.gitbook/assets/组 86 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 86.png" alt=""><figcaption></figcaption></figure>
