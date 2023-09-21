@@ -1,49 +1,41 @@
-# TokenPocket带您一文玩转CORE
+# TokenPocket带您一文玩转Core
 
-### 如何在TokenPocket移动端添加CORE网络 <a href="#oei4g" id="oei4g"></a>
+### <mark style="color:orange;">如何在TokenPocket上创建Core钱包？</mark> <a href="#1" id="1"></a>
 
+1、打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，然后选择**Core;**
 
+<figure><img src="../../.gitbook/assets/组 84.png" alt=""><figcaption></figcaption></figure>
 
-1、打开TokenPocket，点击右上角![](<../../.gitbook/assets/image (2) (1).png>)位置【添加钱包】，在选择网络界面中点击最底部的【添加自定义网络】。
+2、点击**【创建钱包】**；继续点击**【创建钱包】**;
 
-<figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 109.png" alt=""><figcaption></figcaption></figure>
 
-2、在自定义网络编辑界面中，点击右上角的【便捷入口】，在打开界面顶部填入关键词CORE，选择正确的公链。
+3、依次设置**【钱包名称】**和**【密码】**，然后勾选**【用户协议】**，点击**【创建钱包】**；请认真观看学习视频内容，点击**【我知道了】**；
 
-<figure><img src="../../.gitbook/assets/1 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 2 (4).png" alt=""><figcaption></figcaption></figure>
 
-3、点击CORE公链后会看到下面的参数提示：
+4、确认了解并勾选选项内容，点击**【下一步】,**然后开始备份助记词，点击**【备份完成，进行验证】**；
 
-* 网络名称: Core Blockchain
-* 节点链接 RPC URL: [https://rpc.coredao.org/](https://rpc.coredao.org/)
-* 链 ID：1116
-* 默认代币: CORE
-* 区块链浏览器 URL: [https://scan.coredao.org](https://scan.coredao.org/)
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-点击右下角【确认】即可完成新增自定义网络的操作。
+5、按顺序填入备份好的钱包助记词，点击**【确认】**,至此，您已成功创建**Core**钱包。
 
-<figure><img src="../../.gitbook/assets/2 (6).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-4、点击新增网络，可以看到【创建钱包】和【导入钱包】两个选项，可以根据自己的实际需求来创建或导入CORE公链钱包。
+<figure><img src="../../.gitbook/assets/组 78 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 拷贝.png" alt=""><figcaption></figcaption></figure>
+### <mark style="color:orange;">**如何在TokenPocket导入Core钱包？**</mark> <a href="#2" id="2"></a>
 
-**除了常规的【创建和导入钱包】，还可以使用TokenPocket的钱包同步功能来快速完成其他EVM公链的同步操作，方法如下：**
+1、打开TokenPocket App，点击右上角![](<../../.gitbook/assets/image (3).png>)，然后选择**Core**;
 
-* 打开TokenPocket，点击蓝色卡牌的右上角【详情】
+<figure><img src="../../.gitbook/assets/cn 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/4e (1).png" alt=""><figcaption></figcaption></figure>
+2、点击**【添加钱包】**；点击**【导入钱包】，**选择导入方式；
 
-* 选择【钱包同步】，在钱包同步界面中下拉找到需要同步的公链后勾选，然后点击【开始同步】即可完成钱包同步的操作。
+<figure><img src="../../.gitbook/assets/组 110.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5e.png" alt=""><figcaption></figcaption></figure>
+3、以助记词导入为例，输入备份的**【助记词】**及**【钱包名称】**、**【密码】**，勾选**【服务及隐私条款】**；点击**【导入钱包】**；至此，你已经成功导入**Core**钱包。
 
-### 如何在TokenPocket插件端添加Core网络
+<mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
-1.点击左上角切换网络，点击【自定义 RPC】，选择右上方【快捷加链】。
-
-<figure><img src="../../.gitbook/assets/组 1.png" alt=""><figcaption></figcaption></figure>
-
-2.在搜索栏输入【Core】，找到下方Core Blockchain， 点击【 Connect Wallet】连接你想要同步至Core网络的钱包，点击【Add to TokenPocket】,即可成功添加Core网络。
-
-<figure><img src="../../.gitbook/assets/组 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 86 (1).png" alt=""><figcaption></figcaption></figure>
