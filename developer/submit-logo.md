@@ -42,6 +42,8 @@ zkSync Era ∎：[https://github.com/TP-Lab/tokens/tree/master/zksync](https://g
 
 Aptos：[https://github.com/TP-Lab/tokens/tree/master/apt](https://github.com/TP-Lab/tokens/tree/master/apt)
 
+CORE：[https://github.com/TP-Lab/tokens/tree/master/core/](https://github.com/TP-Lab/tokens/tree/master/core/)
+
 
 
 ### <mark style="color:blue;">注意事项：</mark>
