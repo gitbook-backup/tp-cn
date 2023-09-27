@@ -39,3 +39,15 @@
 <mark style="color:red;">**注意：请勿将助记词和私钥透露给任何人！**</mark>
 
 <figure><img src="../../.gitbook/assets/组 86.png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:orange;">如何在TokenPocket上同步Core钱包？</mark> <a href="#1" id="1"></a>
+
+<mark style="color:orange;">方式一：将其他网络的所有钱包地址同步至Core网络。</mark>
+
+1. 打开TokenPocket APP，点击右上角![](<../../.gitbook/assets/image (5) (3).png>)，然后选择**Core;**
+
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+2. 点击【创建钱包】，继续点击【一键同步】。
+
+<mark style="color:orange;">方式二：将其他网络的某一个钱包地址同步至Core网络。</mark>
